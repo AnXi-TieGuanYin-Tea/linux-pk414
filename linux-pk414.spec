@@ -4,12 +4,12 @@
 
 Name:           linux-pk414
 Version:        4.14.15
-Release:        1
+Release:        2
 License:        GPL-2.0
 Summary:        The Linux kernel
 Url:            http://www.kernel.org/
 Group:          kernel
-Source0:        https://github.com/intel/linux-intel-lts/archive/lts-4.14-base-2018w05.3-140616.tar.gz
+Source0:        https://github.com/intel/linux-intel-lts/archive/lts-4.14-base-2018w06.2-161311.tar.gz
 Source1:        config-sos
 Source2:        config-laag
 Source3:        cmdline-sos
@@ -78,7 +78,7 @@ Group:          kernel
 Linux kernel extra files
 
 %prep
-%setup -q -n linux-intel-lts-lts-4.14-base-2018w05.3-140616
+%setup -q -n linux-intel-lts-lts-4.14-base-2018w06.2-161311
 
 #     000X  cve, bugfixes patches
 #%patch0001 -p1
