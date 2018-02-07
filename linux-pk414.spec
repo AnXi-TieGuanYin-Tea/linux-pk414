@@ -4,16 +4,16 @@
 
 Name:           linux-pk414
 Version:        4.14.15
-Release:        3
+Release:        4
 License:        GPL-2.0
 Summary:        The Linux kernel
 Url:            http://www.kernel.org/
 Group:          kernel
 Source0:        https://github.com/intel/linux-intel-lts/archive/lts-4.14-base-2018w06.2-161311.tar.gz
-Source1:        config-sos
-Source2:        config-laag
-Source3:        cmdline-sos
-Source4:        cmdline-laag
+Source1:        config-pk414-sos
+Source2:        config-pk414-laag
+Source3:        cmdline-pk414-sos
+Source4:        cmdline-pk414-laag
 
 %define ktarget0 pk414-sos
 %define kversion0 %{version}-%{release}.%{ktarget0}
