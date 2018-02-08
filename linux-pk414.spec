@@ -9,7 +9,7 @@ License:        GPL-2.0
 Summary:        The Linux kernel
 Url:            http://www.kernel.org/
 Group:          kernel
-Source0:        https://github.com/intel/linux-intel-lts/archive/lts-4.14-base-2018w06.2-161311.tar.gz
+Source0:        https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.14.15.tar.xz
 Source1:        config-pk414-sos
 Source2:        config-pk414-laag
 Source3:        cmdline-pk414-sos
@@ -41,14 +41,7 @@ Requires: linux-pk414-laag
 %define debug_package %{nil}
 %define __strip /bin/true
 
-#    000X: cve, bugfixes patches
-#Patch0001: 0001-xxxx.patch
-
-#    00XY: Mainline patches, upstream backports
-#Patch0011: 0011-xxxx.patch
-
-# Serie    01XX: Clear Linux patches
-#Patch0101: 0101-xxxx.patch
+Patch0001: lts-4.14-base-2018w06.2-161311.patch
 
 %description
 The Linux kernel.
@@ -78,15 +71,9 @@ Group:          kernel
 Linux kernel extra files
 
 %prep
-%setup -q -n linux-intel-lts-lts-4.14-base-2018w06.2-161311
+%setup -q -n linux-4.14.15
 
-#     000X  cve, bugfixes patches
-#%patch0001 -p1
-
-#     00XY  Mainline patches, upstream backports
-
-#     01XX  Clear Linux patches
-#%patch0101 -p1
+%patch0001 -p1
 
 cp %{SOURCE1} .
 cp %{SOURCE2} .
