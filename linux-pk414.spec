@@ -41,7 +41,7 @@ Requires: linux-pk414-laag
 %define debug_package %{nil}
 %define __strip /bin/true
 
-Patch0001: lts-4.14-base-2018w06.2-161311.patch
+Patch0001: 0001-linux-pk414.patch
 
 %description
 The Linux kernel.
