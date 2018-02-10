@@ -4,20 +4,20 @@
 
 Name:           linux-pk414
 Version:        4.14.15
-Release:        6
+Release:        7
 License:        GPL-2.0
 Summary:        The Linux kernel
 Url:            http://www.kernel.org/
 Group:          kernel
 Source0:        https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.14.15.tar.xz
 Source1:        config-pk414-sos
-Source2:        config-pk414-laag
+Source2:        config-pk414-standard
 Source3:        cmdline-pk414-sos
-Source4:        cmdline-pk414-laag
+Source4:        cmdline-pk414-standard
 
 %define ktarget0 pk414-sos
 %define kversion0 %{version}-%{release}.%{ktarget0}
-%define ktarget1 pk414-laag
+%define ktarget1 pk414-standard
 %define kversion1 %{version}-%{release}.%{ktarget1}
 
 BuildRequires:  bash >= 2.03
@@ -34,7 +34,7 @@ BuildRequires:  lz4
 
 Requires: systemd-console
 Requires: linux-pk414-sos
-Requires: linux-pk414-laag
+Requires: linux-pk414-standard
 
 # don't strip .ko files!
 %global __os_install_post %{nil}
@@ -54,12 +54,12 @@ Group:          kernel
 %description sos
 The Linux kernel for Service OS
 
-%package laag
+%package standard
 License:        GPL-2.0
 Summary:        The Linux kernel for Linux as a Guest
 Group:          kernel
 
-%description laag
+%description standard
 The Linux kernel for Linux as a Guest
 
 %package extra
@@ -148,7 +148,7 @@ rm -rf %{buildroot}/usr/lib/firmware
 /usr/lib/modules/%{kversion0}/kernel
 /usr/lib/modules/%{kversion0}/modules.*
 
-%files laag
+%files standard
 %dir /usr/lib/kernel
 %dir /usr/lib/modules/%{kversion1}
 /usr/lib/kernel/config-%{kversion1}
