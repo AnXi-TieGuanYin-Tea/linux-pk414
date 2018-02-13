@@ -50,7 +50,7 @@ Signed-off-by: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
  2 files changed, 9 insertions(+), 1 deletion(-)
 
 diff --git a/arch/x86/include/asm/disabled-features.h b/arch/x86/include/asm/disabled-features.h
-index e428e16dd822..b027633e7300 100644
+index c6a3af198294..33833d1909af 100644
 --- a/arch/x86/include/asm/disabled-features.h
 +++ b/arch/x86/include/asm/disabled-features.h
 @@ -16,6 +16,12 @@
@@ -73,8 +73,8 @@ index e428e16dd822..b027633e7300 100644
 -#define DISABLED_MASK16	(DISABLE_PKU|DISABLE_OSPKE|DISABLE_LA57)
 +#define DISABLED_MASK16	(DISABLE_PKU|DISABLE_OSPKE|DISABLE_LA57|DISABLE_UMIP)
  #define DISABLED_MASK17	0
- #define DISABLED_MASK_CHECK BUILD_BUG_ON_ZERO(NCAPINTS != 18)
- 
+ #define DISABLED_MASK18	0
+ #define DISABLED_MASK_CHECK BUILD_BUG_ON_ZERO(NCAPINTS != 19)
 diff --git a/arch/x86/include/uapi/asm/processor-flags.h b/arch/x86/include/uapi/asm/processor-flags.h
 index 97abdaab9535..bcba3c643e63 100644
 --- a/arch/x86/include/uapi/asm/processor-flags.h
@@ -88,6 +88,3 @@ index 97abdaab9535..bcba3c643e63 100644
  #define X86_CR4_LA57_BIT	12 /* enable 5-level page tables */
  #define X86_CR4_LA57		_BITUL(X86_CR4_LA57_BIT)
  #define X86_CR4_VMXE_BIT	13 /* enable VMX virtualization */
--- 
-2.16.1
-

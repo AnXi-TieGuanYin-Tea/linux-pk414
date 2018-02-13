@@ -76,7 +76,7 @@ index 000000000000..5cab1b1da84d
 +
 +#endif /* _ASM_X86_INSN_EVAL_H */
 diff --git a/arch/x86/lib/Makefile b/arch/x86/lib/Makefile
-index d435c89875c1..f23934bbaf4e 100644
+index d0a3170e6804..69a473919260 100644
 --- a/arch/x86/lib/Makefile
 +++ b/arch/x86/lib/Makefile
 @@ -24,7 +24,7 @@ lib-y := delay.o misc.o cmdline.o cpu.o
@@ -87,7 +87,7 @@ index d435c89875c1..f23934bbaf4e 100644
 +lib-$(CONFIG_INSTRUCTION_DECODER) += insn.o inat.o insn-eval.o
  lib-$(CONFIG_RANDOMIZE_BASE) += kaslr.o
  lib-$(CONFIG_RETPOLINE) += retpoline.o
- 
+ OBJECT_FILES_NON_STANDARD_retpoline.o :=y
 diff --git a/arch/x86/lib/insn-eval.c b/arch/x86/lib/insn-eval.c
 new file mode 100644
 index 000000000000..df9418c43356
