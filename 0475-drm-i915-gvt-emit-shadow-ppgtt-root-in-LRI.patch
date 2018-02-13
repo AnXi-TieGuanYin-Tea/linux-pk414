@@ -1,4 +1,4 @@
-From d31f8c6a4def61938d722a93574b3dc82c6f353a Mon Sep 17 00:00:00 2001
+From dd4b0b97fec63ed78c7539ee89af0cf2e53c1607 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Wed, 13 Sep 2017 10:36:50 +0800
 Subject: [PATCH 475/525] drm/i915/gvt: emit shadow ppgtt root in LRI

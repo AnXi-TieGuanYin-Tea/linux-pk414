@@ -1,4 +1,4 @@
-From 4d81fff0977d16dce8e8111f85d8affc14b0ea32 Mon Sep 17 00:00:00 2001
+From 7b364158223264312a5b4c96c8b53506025b6096 Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Mon, 25 Apr 2016 13:39:37 +0530
 Subject: [PATCH 153/525] SDW:Intel: Fix hardcoding for SVFPGA codec.

@@ -1,4 +1,4 @@
-From b6aee1191a300565fb00f21c55358bf6e43c2d74 Mon Sep 17 00:00:00 2001
+From 06bc64fcd930fac5186375b75e011327505c1737 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Tue, 11 Jul 2017 13:25:34 -0700
 Subject: [PATCH 074/525] x86: Enable User-Mode Instruction Prevention
@@ -64,10 +64,10 @@ index 17de6acc0eab..ad678af73944 100644
  	prompt "Intel MPX (Memory Protection Extensions)"
  	def_bool n
 diff --git a/arch/x86/kernel/cpu/common.c b/arch/x86/kernel/cpu/common.c
-index 372ba3fb400f..5240fbb3357f 100644
+index 92b66e21bae5..ebb88e691e9b 100644
 --- a/arch/x86/kernel/cpu/common.c
 +++ b/arch/x86/kernel/cpu/common.c
-@@ -329,6 +329,28 @@ static __always_inline void setup_smap(struct cpuinfo_x86 *c)
+@@ -331,6 +331,28 @@ static __always_inline void setup_smap(struct cpuinfo_x86 *c)
  	}
  }
  
@@ -96,7 +96,7 @@ index 372ba3fb400f..5240fbb3357f 100644
  /*
   * Protection Keys are not available in 32-bit mode.
   */
-@@ -1149,9 +1171,10 @@ static void identify_cpu(struct cpuinfo_x86 *c)
+@@ -1209,9 +1231,10 @@ static void identify_cpu(struct cpuinfo_x86 *c)
  	/* Disable the PN if appropriate */
  	squash_the_stupid_serial_number(c);
  

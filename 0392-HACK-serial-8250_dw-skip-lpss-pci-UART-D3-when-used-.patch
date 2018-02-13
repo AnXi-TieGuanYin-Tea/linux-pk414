@@ -1,4 +1,4 @@
-From 06441a51c81c735162c842c3c81ca92a14178f4f Mon Sep 17 00:00:00 2001
+From 60161debf58e7fcee959638427a476001e39916b Mon Sep 17 00:00:00 2001
 From: Archana Patni <archana.patni@intel.com>
 Date: Tue, 10 Nov 2015 16:43:15 +0530
 Subject: [PATCH 392/525] HACK: serial: 8250_dw: skip lpss pci UART D3 when

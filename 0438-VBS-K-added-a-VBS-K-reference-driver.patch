@@ -1,4 +1,4 @@
-From ce6dd2f0907fcd5149ecf49fa75220f14b2e41f7 Mon Sep 17 00:00:00 2001
+From 940bcf51f06b4222fcc5205b031e8b2d50b531f6 Mon Sep 17 00:00:00 2001
 From: Hao Li <hao.l.li@intel.com>
 Date: Wed, 3 Jan 2018 13:52:14 -0500
 Subject: [PATCH 438/525] VBS-K: added a VBS-K reference driver.

@@ -1,4 +1,4 @@
-From 772097c5f1f1ef493571d6b39d9cdffa0c580658 Mon Sep 17 00:00:00 2001
+From e3e686440fbb8cd4071022f36c4b7b8f0a7209e7 Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Arve=20Hj=C3=B8nnev=C3=A5g?= <arve@android.com>
 Date: Fri, 2 May 2014 19:15:44 -0700
 Subject: [PATCH 014/525] trusty: fiq-arm64: Allow multiple fiq handlers.

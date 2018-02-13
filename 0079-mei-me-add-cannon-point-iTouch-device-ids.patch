@@ -1,4 +1,4 @@
-From 6e479efea87f74e3ee5d8f9b697c5a8bd692a35d Mon Sep 17 00:00:00 2001
+From b7d4c6a990727e9c3a3a2ac20d85b0e9e36e4360 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Wed, 23 Aug 2017 10:58:55 +0300
 Subject: [PATCH 079/525] mei: me: add cannon point iTouch device ids
@@ -28,7 +28,7 @@ index 32f56bb24022..71ed4e0682d1 100644
  /*
   * MEI HW Section
 diff --git a/drivers/misc/mei/pci-me.c b/drivers/misc/mei/pci-me.c
-index ddccf83562d8..194efe3d7edf 100644
+index 7071ec314d3a..0542f13ba66b 100644
 --- a/drivers/misc/mei/pci-me.c
 +++ b/drivers/misc/mei/pci-me.c
 @@ -100,8 +100,10 @@ static const struct pci_device_id mei_me_pci_tbl[] = {

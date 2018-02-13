@@ -1,4 +1,4 @@
-From acd491cd7345e5f55e238a9175db84813c3a652e Mon Sep 17 00:00:00 2001
+From 8e97350b7719fda67104bf80ea840ba7a2c7a2ea Mon Sep 17 00:00:00 2001
 From: Viresh Kumar <viresh.kumar@linaro.org>
 Date: Tue, 26 Sep 2017 15:12:40 -0700
 Subject: [PATCH 361/525] PM / OPP: Move the OPP directory out of power/

@@ -1,4 +1,4 @@
-From 413f0ca3ec24270b0cce06305891cd874e8d7554 Mon Sep 17 00:00:00 2001
+From 986a5a2ccc6f4d73920d672630df2bc1b916061f Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Fri, 13 Oct 2017 12:49:15 +0800
 Subject: [PATCH 121/525] Fix kernel_read call param

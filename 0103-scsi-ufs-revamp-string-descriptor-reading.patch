@@ -1,4 +1,4 @@
-From e9aeb37393b540f10dd6b1532a2171d571b71785 Mon Sep 17 00:00:00 2001
+From 6c9b6fe4ec9d062586a5b567b4112822e3eced82 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Wed, 4 Jan 2017 14:14:21 +0200
 Subject: [PATCH 103/525] scsi: ufs: revamp string descriptor reading
@@ -30,7 +30,7 @@ index 54deeb754db5..b43efad8fb92 100644
  
  #endif /* End of Header */
 diff --git a/drivers/scsi/ufs/ufshcd.c b/drivers/scsi/ufs/ufshcd.c
-index 759ce78ebd81..513db0b33d25 100644
+index d0479620a87a..7294247e1e5c 100644
 --- a/drivers/scsi/ufs/ufshcd.c
 +++ b/drivers/scsi/ufs/ufshcd.c
 @@ -285,16 +285,6 @@ static inline void ufshcd_disable_irq(struct ufs_hba *hba)

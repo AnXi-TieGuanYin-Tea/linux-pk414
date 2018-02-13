@@ -1,4 +1,4 @@
-From d9b8495b8c61c0a7cb7d982451c48bb5759cd0f6 Mon Sep 17 00:00:00 2001
+From 570dbb85033285e20d377187a8032f8fe77389fd Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Wed, 30 Dec 2015 13:26:18 +0530
 Subject: [PATCH 131/525] ASoC: Intel: Add CNL Machine Driver with code wm8281

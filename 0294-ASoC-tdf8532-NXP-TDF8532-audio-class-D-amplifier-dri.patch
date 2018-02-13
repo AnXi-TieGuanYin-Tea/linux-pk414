@@ -1,4 +1,4 @@
-From 03aa87ac1e994d220e1047a8fdd63601789e72e6 Mon Sep 17 00:00:00 2001
+From e2fe25fe95b60b50c15820ff97708f1636654b13 Mon Sep 17 00:00:00 2001
 From: "Wagner, Steffen" <steffen.wagner@intel.com>
 Date: Mon, 8 May 2017 21:19:09 +0530
 Subject: [PATCH 294/525] ASoC: tdf8532: NXP TDF8532 audio class-D amplifier

@@ -1,4 +1,4 @@
-From 90e780bf230fbf3f0a4dd9d22a4a71cbd79b6543 Mon Sep 17 00:00:00 2001
+From e684c7f3104b4046b636630c1dd85717553f46b2 Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Tue, 19 Dec 2017 16:34:05 +0530
 Subject: [PATCH 400/525] Revert "ASoC: Intel: Skylake: Parse vendor tokens to

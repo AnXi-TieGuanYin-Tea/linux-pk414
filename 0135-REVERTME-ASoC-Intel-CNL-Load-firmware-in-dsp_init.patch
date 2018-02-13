@@ -1,4 +1,4 @@
-From 071fd9bfc96e682643fee23176bc7e37639c606f Mon Sep 17 00:00:00 2001
+From 861e5d94c97568c29901aa7cd5326a01b094f5b7 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Tue, 2 Aug 2016 15:37:20 +0530
 Subject: [PATCH 135/525] REVERTME: ASoC: Intel: CNL: Load firmware in

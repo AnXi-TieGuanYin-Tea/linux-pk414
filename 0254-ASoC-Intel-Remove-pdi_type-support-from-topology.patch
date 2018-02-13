@@ -1,4 +1,4 @@
-From 573de6940463914002dac67ff7fe2fbfc6a4adfe Mon Sep 17 00:00:00 2001
+From 4d3f33850ae36d58f8db7f617926e3ca41cf5785 Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Tue, 21 Feb 2017 15:51:38 +0530
 Subject: [PATCH 254/525] ASoC: Intel: Remove pdi_type support from topology

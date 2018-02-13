@@ -1,4 +1,4 @@
-From de8574ce3aabd722c01f43badaa29447b308fe67 Mon Sep 17 00:00:00 2001
+From 4975551bcd358c683db7826a5c18ec334e026bb6 Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Thu, 25 Feb 2016 12:06:18 +0530
 Subject: [PATCH 273/525] ASoC: Intel: Skylake: DebugFs changes to suit FDK

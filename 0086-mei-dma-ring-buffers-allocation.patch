@@ -1,4 +1,4 @@
-From 30e9bb5460ddc84a290019d755c5cbac7de2105c Mon Sep 17 00:00:00 2001
+From c5a554b47bd648754af86b68241bf3f242f7a8c3 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Thu, 20 Oct 2016 02:12:10 +0300
 Subject: [PATCH 086/525] mei: dma ring buffers allocation

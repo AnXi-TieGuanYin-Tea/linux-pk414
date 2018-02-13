@@ -1,4 +1,4 @@
-From 3652877b0d01d23ef8b3d02a27be35dfe81213f7 Mon Sep 17 00:00:00 2001
+From 71fa6de511a56f9f12d6d9dafa16abd88c6e6854 Mon Sep 17 00:00:00 2001
 From: G Kranthi <gudishax.kranthikumar@intel.com>
 Date: Tue, 10 May 2016 11:11:09 +0530
 Subject: [PATCH 201/525] ASoC: Intel: Skylake: KW fixes for probe feature

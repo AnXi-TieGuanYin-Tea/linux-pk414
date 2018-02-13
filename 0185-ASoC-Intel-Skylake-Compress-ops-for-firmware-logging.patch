@@ -1,4 +1,4 @@
-From 336d96414fe06d93133f06ada1c20e18266a2f8a Mon Sep 17 00:00:00 2001
+From 1b263c8041122bcf3b61cf1d2a332bf678f95e89 Mon Sep 17 00:00:00 2001
 From: "Panwar, Ashish" <ashish.panwar@intel.com>
 Date: Wed, 20 Jan 2016 19:22:05 +0530
 Subject: [PATCH 185/525] ASoC: Intel: Skylake: Compress ops for firmware

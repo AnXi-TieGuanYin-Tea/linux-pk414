@@ -1,4 +1,4 @@
-From fcd409903151955143ac053bb99ada7cefdd9e5f Mon Sep 17 00:00:00 2001
+From 83a94128d3d679d9d6b302439d1733d8c3a2c473 Mon Sep 17 00:00:00 2001
 From: Shiqing Gao <shiqing.gao@intel.com>
 Date: Fri, 12 Jan 2018 14:48:17 +0800
 Subject: [PATCH 506/525] sos: fix potential bugs in ptdev msi-x access

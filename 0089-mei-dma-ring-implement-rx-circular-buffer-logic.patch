@@ -1,4 +1,4 @@
-From f8f2d73af087ef0a157a0034f057b18dc3eb7cdd Mon Sep 17 00:00:00 2001
+From 8533688a21017959b56d3a94d3ddc89d5e9dec11 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Tue, 1 Nov 2016 11:15:57 +0200
 Subject: [PATCH 089/525] mei: dma ring: implement rx circular buffer logic

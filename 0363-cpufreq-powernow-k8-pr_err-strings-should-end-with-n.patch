@@ -1,4 +1,4 @@
-From 041ae02540a53855ec738acf52b3cc040ea56bb5 Mon Sep 17 00:00:00 2001
+From b10fb4cc942a805885efcdb001643371ba3ca290 Mon Sep 17 00:00:00 2001
 From: Arvind Yadav <arvind.yadav.cs@gmail.com>
 Date: Mon, 25 Sep 2017 15:10:11 +0530
 Subject: [PATCH 363/525] cpufreq: powernow-k8: pr_err() strings should end

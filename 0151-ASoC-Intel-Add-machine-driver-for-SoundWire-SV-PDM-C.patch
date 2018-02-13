@@ -1,4 +1,4 @@
-From 0d42430c6891e2c9a70237d1d727ced7cdd34d5c Mon Sep 17 00:00:00 2001
+From 662d8784606360a1b442d36cb4b1d4e031ed6cf5 Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Sat, 23 Apr 2016 18:58:44 +0530
 Subject: [PATCH 151/525] ASoC:Intel: Add machine driver for SoundWire SV PDM

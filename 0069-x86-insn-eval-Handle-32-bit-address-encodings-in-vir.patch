@@ -1,4 +1,4 @@
-From 04217dfe1af14e70ce73a1f91372c7ddeeb82733 Mon Sep 17 00:00:00 2001
+From dced9e403fac1cfa03a45136f5259a566491298f Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Tue, 5 Sep 2017 15:49:11 -0700
 Subject: [PATCH 069/525] x86/insn-eval: Handle 32-bit address encodings in

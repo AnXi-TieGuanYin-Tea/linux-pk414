@@ -1,4 +1,4 @@
-From 6e4de1715bb562a2ca1a7001a8efbc7e9473481b Mon Sep 17 00:00:00 2001
+From 6ee69f24249e1cbfcff88ff63e67dd0d810200f3 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Mon, 19 Dec 2016 15:29:11 -0800
 Subject: [PATCH 075/525] x86/traps: Fixup general protection faults caused by

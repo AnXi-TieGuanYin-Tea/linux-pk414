@@ -1,4 +1,4 @@
-From 5d0e8a6c64b8d3836c73b7a307363af77ee14a47 Mon Sep 17 00:00:00 2001
+From 4d10f2fb19745ea3817ba832b7a7f0310386c1e7 Mon Sep 17 00:00:00 2001
 From: Vinod Koul <vinod.koul@intel.com>
 Date: Mon, 31 Aug 2015 14:05:10 +0530
 Subject: [PATCH 173/525] ASoC: Intel: Skylake: Add NHLT override control

@@ -1,4 +1,4 @@
-From 5cdf0d82011d728786c60d3cb82d3b51e726a390 Mon Sep 17 00:00:00 2001
+From 4cc1b8de6454837ba78fd6d6f9fb59a7942e1272 Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Fri, 29 Apr 2016 16:26:15 +0530
 Subject: [PATCH 157/525] SDW:Intel: Enabled the Multimode for Intel SDW master

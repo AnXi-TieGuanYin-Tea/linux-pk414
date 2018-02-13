@@ -1,4 +1,4 @@
-From 6cb4706d27ef7ea08647c786187548f79c22855f Mon Sep 17 00:00:00 2001
+From 2a788916ca01e5d28c870d90747d0617cce84750 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Tue, 5 Sep 2017 15:01:19 -0700
 Subject: [PATCH 054/525] x86/mpx: Use signed variables to compute effective

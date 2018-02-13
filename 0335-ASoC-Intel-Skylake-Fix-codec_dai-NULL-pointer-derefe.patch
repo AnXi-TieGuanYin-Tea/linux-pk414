@@ -1,4 +1,4 @@
-From 2f21b8f86f44852123efad29ea3f41f9b33d560f Mon Sep 17 00:00:00 2001
+From eda80974d8526851e9efb01763581eff2111dbfe Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Wed, 6 Sep 2017 14:04:55 +0530
 Subject: [PATCH 335/525] ASoC: Intel: Skylake: Fix codec_dai NULL pointer

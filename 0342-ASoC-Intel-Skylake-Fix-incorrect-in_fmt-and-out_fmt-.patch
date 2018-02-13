@@ -1,4 +1,4 @@
-From f495d09eccd103803a96912939234accf946d70d Mon Sep 17 00:00:00 2001
+From e8a8c122f64d664477d502df7a5f710edeec9c56 Mon Sep 17 00:00:00 2001
 From: "Pawse, GuruprasadX" <guruprasadx.pawse@intel.com>
 Date: Wed, 11 Oct 2017 10:41:43 +0530
 Subject: [PATCH 342/525] ASoC: Intel: Skylake: Fix incorrect in_fmt and

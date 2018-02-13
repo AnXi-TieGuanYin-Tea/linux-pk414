@@ -1,4 +1,4 @@
-From 1bd6f2e47e3437c89fdfab1f3712a32f96ee2ed8 Mon Sep 17 00:00:00 2001
+From 093dd0b5edb216286cfa0085ced19ef7622e4210 Mon Sep 17 00:00:00 2001
 From: "Rafael J. Wysocki" <rafael.j.wysocki@intel.com>
 Date: Tue, 10 Oct 2017 18:49:22 +0200
 Subject: [PATCH 378/525] ACPI / PM: Combine two identical device resume

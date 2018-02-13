@@ -1,4 +1,4 @@
-From 35196840592ac74c581504f85b6c023fa4ea650d Mon Sep 17 00:00:00 2001
+From 667edf67f377e114918ac30c091a1bb78d128d3e Mon Sep 17 00:00:00 2001
 From: "Zhang, Qi" <qi1.zhang@intel.com>
 Date: Tue, 11 Jul 2017 04:42:49 +0000
 Subject: [PATCH 046/525] trusty: add support for parameterized NOP ops

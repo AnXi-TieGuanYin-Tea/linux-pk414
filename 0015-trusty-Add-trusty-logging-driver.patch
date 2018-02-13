@@ -1,4 +1,4 @@
-From b0d62c3ceafcd51982fd15ad8b55be32cb5c2ed8 Mon Sep 17 00:00:00 2001
+From c3a38291d0ab8aa443473c1bbb894d3ec18ee48a Mon Sep 17 00:00:00 2001
 From: Riley Andrews <riandrews@google.com>
 Date: Thu, 5 May 2016 14:42:41 -0700
 Subject: [PATCH 015/525] trusty: Add trusty logging driver.

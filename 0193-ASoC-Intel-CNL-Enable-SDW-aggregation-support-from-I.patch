@@ -1,4 +1,4 @@
-From 6ee88182c582f460abb0e66e17bf7f3fc7ecd40d Mon Sep 17 00:00:00 2001
+From 103c8c3b58f6831eb164010ad2e5664faadf485b Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 9 Jun 2016 17:33:01 +0530
 Subject: [PATCH 193/525] ASoC: Intel: CNL: Enable SDW aggregation support from

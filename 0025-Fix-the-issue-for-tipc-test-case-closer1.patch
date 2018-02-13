@@ -1,4 +1,4 @@
-From 2c675c0901eb1d44c2c0616f09102e8f30a88dc9 Mon Sep 17 00:00:00 2001
+From 855733acfb3581c0a3431680d52ffba643360076 Mon Sep 17 00:00:00 2001
 From: weideng <wei.a.deng@intel.com>
 Date: Mon, 20 Jun 2016 14:19:52 +0800
 Subject: [PATCH 025/525] Fix the issue for tipc test case closer1

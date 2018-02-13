@@ -1,4 +1,4 @@
-From 83af6cd7abe375e8ec6422b6f4836e6809410dc6 Mon Sep 17 00:00:00 2001
+From 42ba6df719c01aba4b99e4fd527032773b6c7fba Mon Sep 17 00:00:00 2001
 From: Sathyanarayanan Kuppuswamy <sathyanarayanan.kuppuswamy@intel.com>
 Date: Tue, 2 May 2017 17:44:15 -0700
 Subject: [PATCH 386/525] usb: dwc3: dwc3-pci: Add support to enumerate Intel

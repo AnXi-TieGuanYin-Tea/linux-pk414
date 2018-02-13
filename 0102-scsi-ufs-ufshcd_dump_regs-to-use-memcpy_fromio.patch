@@ -1,4 +1,4 @@
-From 2524150162279abe51280d28fc76a0557060f0c4 Mon Sep 17 00:00:00 2001
+From 3aaacb010a3d15379c4b0c512955259abda79c7f Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Sun, 12 Mar 2017 12:21:05 +0200
 Subject: [PATCH 102/525] scsi: ufs: ufshcd_dump_regs to use memcpy_fromio
@@ -76,7 +76,7 @@ index c87d770b519a..edd0554652bb 100644
  	/* sleep a bit intermittently as we are dumping too much data */
  	ufs_qcom_print_hw_debug_reg_all(hba, NULL, ufs_qcom_dump_regs_wrapper);
 diff --git a/drivers/scsi/ufs/ufshcd.c b/drivers/scsi/ufs/ufshcd.c
-index 794a4600e952..759ce78ebd81 100644
+index d344fef01f1d..d0479620a87a 100644
 --- a/drivers/scsi/ufs/ufshcd.c
 +++ b/drivers/scsi/ufs/ufshcd.c
 @@ -97,8 +97,29 @@

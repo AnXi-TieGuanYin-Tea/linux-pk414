@@ -1,4 +1,4 @@
-From 607d05a83dd5ed43102cd773ad4eec4f5595a871 Mon Sep 17 00:00:00 2001
+From 819248dc645ab31514e38f76592b4b24cab032a2 Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Fri, 6 Jan 2017 16:06:23 +0530
 Subject: [PATCH 239/525] ASoC: Intel: Add SoundWire aggregation support

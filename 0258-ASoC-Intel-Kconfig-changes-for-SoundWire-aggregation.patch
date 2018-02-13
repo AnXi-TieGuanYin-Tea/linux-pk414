@@ -1,4 +1,4 @@
-From b5d3c3f880c9b1e45a7d492de5764e11ddfb9aa2 Mon Sep 17 00:00:00 2001
+From 9a9f1fce0ac782676833d176950cec057eb3af64 Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Fri, 6 Jan 2017 16:12:13 +0530
 Subject: [PATCH 258/525] ASoC: Intel: Kconfig changes for SoundWire

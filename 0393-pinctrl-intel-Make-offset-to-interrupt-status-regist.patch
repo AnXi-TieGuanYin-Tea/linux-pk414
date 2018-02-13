@@ -1,4 +1,4 @@
-From 8a2736fbaf138d1922ca0866712cfb0c57f37425 Mon Sep 17 00:00:00 2001
+From d16f8ed2b5a0a2caf20928977a69ea6209f97a13 Mon Sep 17 00:00:00 2001
 From: Mika Westerberg <mika.westerberg@linux.intel.com>
 Date: Fri, 11 Aug 2017 16:52:24 +0300
 Subject: [PATCH 393/525] pinctrl: intel: Make offset to interrupt status

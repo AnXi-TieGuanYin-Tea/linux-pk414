@@ -1,4 +1,4 @@
-From da4eafa3ac875577c24878138efc9b3552a54586 Mon Sep 17 00:00:00 2001
+From 2048eedf101528acbddef93a9b7244b761dc8501 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Tue, 20 Jun 2017 18:04:34 +0530
 Subject: [PATCH 309/525] ASoC: hdac_hdmi: Add vendor id for Cannonlake HDMI

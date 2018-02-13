@@ -1,4 +1,4 @@
-From 3288ec8b3302b51ca2cb0a50f4605c8ea0925324 Mon Sep 17 00:00:00 2001
+From f3d723fddc532539a873f7d30af675eac69abd88 Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Fri, 29 Apr 2016 16:41:26 +0530
 Subject: [PATCH 163/525] REVERTME:ASoC:CNL: Mark SDW master 1 and 2 as

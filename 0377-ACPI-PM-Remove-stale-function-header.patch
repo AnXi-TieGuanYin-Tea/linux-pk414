@@ -1,4 +1,4 @@
-From 016a7b51dbe69b8d01bfa99c238934dfde3480aa Mon Sep 17 00:00:00 2001
+From 1aa9dec77f50ff69e24905b5e338bddc2f41673d Mon Sep 17 00:00:00 2001
 From: Ulf Hansson <ulf.hansson@linaro.org>
 Date: Fri, 6 Oct 2017 09:08:34 +0200
 Subject: [PATCH 377/525] ACPI / PM: Remove stale function header

@@ -1,4 +1,4 @@
-From 00fbc4269942266e869209545a011c7512ef9381 Mon Sep 17 00:00:00 2001
+From 0feb615d15c44f79505d6a59d520b5d7a075985f Mon Sep 17 00:00:00 2001
 From: "Pawse, GuruprasadX" <guruprasadx.pawse@intel.com>
 Date: Fri, 10 Feb 2017 20:22:42 +0530
 Subject: [PATCH 242/525] ASoC: Intel: Skylake: Add platform DAI for deepbuffer

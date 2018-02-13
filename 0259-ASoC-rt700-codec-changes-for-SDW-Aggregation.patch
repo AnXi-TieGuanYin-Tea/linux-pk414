@@ -1,4 +1,4 @@
-From f59763d4b1a061f767f2a1a6d2aff9f00616f3df Mon Sep 17 00:00:00 2001
+From 5f18bf468b9ea2208f42ebe85f7e8cae058f18c7 Mon Sep 17 00:00:00 2001
 From: "Jayanti, Satya Charitardha" <satya.charitardha.jayanti@intel.com>
 Date: Wed, 4 Jan 2017 20:32:35 +0530
 Subject: [PATCH 259/525] ASoC: rt700: codec changes for SDW Aggregation

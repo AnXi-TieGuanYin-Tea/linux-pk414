@@ -1,4 +1,4 @@
-From 5d805833e44302c0cb610ca1b85dc00cba4e3df2 Mon Sep 17 00:00:00 2001
+From a8072fc015db2c83d98baaab59acb4e70fecc257 Mon Sep 17 00:00:00 2001
 From: Vinod Koul <vinod.koul@intel.com>
 Date: Wed, 26 Aug 2015 13:13:56 +0530
 Subject: [PATCH 175/525] ASoC: Intel: Skylake: Add debugfs NHLT dmic override

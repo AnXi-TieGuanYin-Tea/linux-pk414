@@ -1,4 +1,4 @@
-From 6449f61315717e8694ce2dbf87f4c3541fb377cb Mon Sep 17 00:00:00 2001
+From dcc7d17c57b8a6b0373e336db7b10564d3317d67 Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Wed, 6 Sep 2017 14:04:57 +0530
 Subject: [PATCH 337/525] ASoC: Intel: Skylake: Fix cnl_sdw_startup() error

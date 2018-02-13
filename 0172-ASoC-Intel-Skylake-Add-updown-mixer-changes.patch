@@ -1,4 +1,4 @@
-From b0e7b74219d2c5808ea540c2278b594e7d3acc91 Mon Sep 17 00:00:00 2001
+From 7be268cbd7a69a74d1bb573c1b7865d3213ec241 Mon Sep 17 00:00:00 2001
 From: Kranthi G <gudishax.kranthikumar@intel.com>
 Date: Wed, 18 Nov 2015 15:26:17 +0530
 Subject: [PATCH 172/525] ASoC: Intel: Skylake: Add updown mixer changes

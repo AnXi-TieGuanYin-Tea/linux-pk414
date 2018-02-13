@@ -1,4 +1,4 @@
-From bbf160c8045129fa2d40fda31372628d95735362 Mon Sep 17 00:00:00 2001
+From 1f70f55e41931cdea460b24faf86eff6329a1212 Mon Sep 17 00:00:00 2001
 From: weideng <wei.a.deng@intel.com>
 Date: Fri, 21 Apr 2017 00:52:03 +0000
 Subject: [PATCH 051/525] Change Trusty Kconfig to build for X86 Arch only

@@ -1,4 +1,4 @@
-From 738c32abfa7374e10162eee5022035845b882c97 Mon Sep 17 00:00:00 2001
+From 58b9f778d170eadc7332452cd75d23a5121e9fe9 Mon Sep 17 00:00:00 2001
 From: Pei Zhang <pei.zhang@intel.com>
 Date: Sat, 10 Jun 2017 00:43:42 +0800
 Subject: [PATCH 471/525] drm/i915/gvt: get ready of memory for pvmmio

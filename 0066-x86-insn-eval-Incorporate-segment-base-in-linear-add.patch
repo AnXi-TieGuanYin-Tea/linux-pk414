@@ -1,4 +1,4 @@
-From 1901906f2829a5640909e76abad73da642717e3b Mon Sep 17 00:00:00 2001
+From 1dc487fcd057269bf948e84348685a38dd0a97b6 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Tue, 5 Sep 2017 15:39:55 -0700
 Subject: [PATCH 066/525] x86/insn-eval: Incorporate segment base in linear

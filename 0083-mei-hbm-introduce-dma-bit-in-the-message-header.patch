@@ -1,4 +1,4 @@
-From 118331d1715c801c26e28f715be9f6d6ef78a973 Mon Sep 17 00:00:00 2001
+From b6b9353f118d53c70e8b099bcfe3215be26fb9d6 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Mon, 17 Oct 2016 00:26:36 +0300
 Subject: [PATCH 083/525] mei: hbm: introduce dma bit in the message header

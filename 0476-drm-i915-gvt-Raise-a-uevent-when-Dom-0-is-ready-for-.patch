@@ -1,4 +1,4 @@
-From 8ca1838d97d4029d2dd146fc9b9b7b196e4c3730 Mon Sep 17 00:00:00 2001
+From f89dbe21ec058fcac98f0c0abd10bd5250e6046c Mon Sep 17 00:00:00 2001
 From: Satyeshwar Singh <satyeshwar.singh@intel.com>
 Date: Wed, 13 Sep 2017 17:29:57 -0700
 Subject: [PATCH 476/525] drm/i915/gvt: Raise a uevent when Dom 0 is ready for

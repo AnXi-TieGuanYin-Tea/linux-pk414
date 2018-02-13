@@ -1,4 +1,4 @@
-From f3adf33ac41361e457b00f88361236cc93a5a06f Mon Sep 17 00:00:00 2001
+From 034f1c3925f2522b988fc14dcf41c224f021237f Mon Sep 17 00:00:00 2001
 From: Shreyas NC <shreyas.nc@intel.com>
 Date: Tue, 25 Oct 2016 13:03:36 +0530
 Subject: [PATCH 224/525] Add #if for platform/codec name in cnl_rt700 machine

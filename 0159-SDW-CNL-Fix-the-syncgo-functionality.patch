@@ -1,4 +1,4 @@
-From 4fc053fe30999b883e14f0fac445ce63652e2612 Mon Sep 17 00:00:00 2001
+From 5aa6de8261f49863bc1d8a479d08a5a110031cb6 Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Fri, 29 Apr 2016 16:39:23 +0530
 Subject: [PATCH 159/525] SDW:CNL: Fix the syncgo functionality.

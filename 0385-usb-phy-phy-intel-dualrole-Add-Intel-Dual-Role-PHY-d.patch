@@ -1,4 +1,4 @@
-From bf8860f6a5f1569c5e89711b02f617f35fec536e Mon Sep 17 00:00:00 2001
+From 0b363d538e73b4f277be1d4d4982f2f98807db08 Mon Sep 17 00:00:00 2001
 From: Sathyanarayanan Kuppuswamy <sathyanarayanan.kuppuswamy@intel.com>
 Date: Tue, 2 May 2017 17:45:33 -0700
 Subject: [PATCH 385/525] usb: phy: phy-intel-dualrole: Add Intel Dual Role PHY

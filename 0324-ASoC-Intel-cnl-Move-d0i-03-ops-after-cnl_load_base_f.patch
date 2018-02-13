@@ -1,4 +1,4 @@
-From daf4245a97146bfc29fc59c4ff8acfb57d9a9a66 Mon Sep 17 00:00:00 2001
+From 19f0fdeccbf47e8bbf833e09f57514a27804b1d5 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Mon, 18 Sep 2017 11:03:25 +0530
 Subject: [PATCH 324/525] ASoC: Intel: cnl: Move d0i[03] ops after

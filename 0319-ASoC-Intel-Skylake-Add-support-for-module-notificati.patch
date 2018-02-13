@@ -1,4 +1,4 @@
-From 99ac372484074e25fd1e9cd2ab3a632c913d6ee3 Mon Sep 17 00:00:00 2001
+From 601c89a9da858b0e4259a31e61e36e06b898fcf8 Mon Sep 17 00:00:00 2001
 From: "Paul, Subhankar" <subhankar.paul@intel.com>
 Date: Tue, 8 Aug 2017 22:46:45 +0530
 Subject: [PATCH 319/525] ASoC: Intel: Skylake: Add support for module

@@ -1,4 +1,4 @@
-From 35c2283af7a7e240e13983b8bc60185328b5e86e Mon Sep 17 00:00:00 2001
+From c48dc9dff78331df18303be993db1a72cd5aa0bf Mon Sep 17 00:00:00 2001
 From: Yonghua Huang <yonghua.huang@intel.com>
 Date: Wed, 24 Jan 2018 00:53:37 +0800
 Subject: [PATCH 515/525] initialize 'api_version' instance before usage in

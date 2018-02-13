@@ -1,4 +1,4 @@
-From ed5ec7e697842d40254e5d1a4376547e37768180 Mon Sep 17 00:00:00 2001
+From 5f3679d9fb6ed08b31bd4d1387b922461688b6e9 Mon Sep 17 00:00:00 2001
 From: "Sinha, Mohit" <mohit.sinha@intel.com>
 Date: Fri, 4 Aug 2017 16:06:57 +0530
 Subject: [PATCH 312/525] ASoC: Intel: Skylake: Removed duplicate IPC call for

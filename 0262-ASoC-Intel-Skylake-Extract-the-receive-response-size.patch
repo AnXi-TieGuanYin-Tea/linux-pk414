@@ -1,4 +1,4 @@
-From 699ede95f115ed47e281cfd7e9767db92c565db2 Mon Sep 17 00:00:00 2001
+From fd3eb6b88e89ae808e5392e65c42249f02060531 Mon Sep 17 00:00:00 2001
 From: Leoni Prodduvaka <leoni.prodduvaka@intel.com>
 Date: Thu, 16 Mar 2017 21:50:51 +0530
 Subject: [PATCH 262/525] ASoC: Intel: Skylake: Extract the receive response

@@ -1,4 +1,4 @@
-From 7bd8b948630a99ed6c23483234f94d4cf0ff5f47 Mon Sep 17 00:00:00 2001
+From ce2bfe1281ed7aa48ad00ff22865707abebda7dc Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Tue, 19 Dec 2017 10:22:34 +0800
 Subject: [PATCH 458/525] drm/i915/gvt: local display support

@@ -1,4 +1,4 @@
-From d54102e0df928b91c1e73d19e9d7fcb273a94dd9 Mon Sep 17 00:00:00 2001
+From 6e35c698d61db30e85e9385913b3524f3bb8670e Mon Sep 17 00:00:00 2001
 From: avaish1 <atul.vaish@intel.com>
 Date: Wed, 15 Mar 2017 23:18:36 +0530
 Subject: [PATCH 403/525] AndroidIA: Bluetooth Driver : Reducing Command Credit

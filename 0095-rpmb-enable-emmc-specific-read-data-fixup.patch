@@ -1,4 +1,4 @@
-From 1f44d47c6dcaf5d07521492fa70e9411a0a3f298 Mon Sep 17 00:00:00 2001
+From 8c05096335e5cec8fd15c8c3980275bf2c21ab71 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Sun, 7 Aug 2016 11:27:08 +0300
 Subject: [PATCH 095/525] rpmb: enable emmc specific read data fixup

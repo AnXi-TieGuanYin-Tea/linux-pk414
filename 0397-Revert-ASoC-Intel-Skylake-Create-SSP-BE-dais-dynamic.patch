@@ -1,4 +1,4 @@
-From ca792eca745d9196c7cde471fef204938431415e Mon Sep 17 00:00:00 2001
+From bf5715691aafb323b548d08e9244272fb4f777ee Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Tue, 19 Dec 2017 15:45:28 +0530
 Subject: [PATCH 397/525] Revert "ASoC: Intel: Skylake: Create SSP BE dais

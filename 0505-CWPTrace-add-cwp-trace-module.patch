@@ -1,4 +1,4 @@
-From 497bf1bb08d923b94ac5db7bea46581a8e4dbe18 Mon Sep 17 00:00:00 2001
+From b0ae9dd0b005d530ce3c58d2ecaab5ce4ba02c5b Mon Sep 17 00:00:00 2001
 From: "Li, Fei1" <fei1.li@intel.com>
 Date: Fri, 12 Jan 2018 23:02:08 +0800
 Subject: [PATCH 505/525] CWPTrace: add cwp trace module

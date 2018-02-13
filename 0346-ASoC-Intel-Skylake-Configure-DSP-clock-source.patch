@@ -1,4 +1,4 @@
-From 24102b457e024dc3995c11c377008c88927e952d Mon Sep 17 00:00:00 2001
+From 20258cedec6c8fa337801c799dab0b6f028f96de Mon Sep 17 00:00:00 2001
 From: Pradeep Tewani <pradeep.d.tewani@intel.com>
 Date: Thu, 2 Nov 2017 15:47:21 +0530
 Subject: [PATCH 346/525] ASoC: Intel: Skylake: Configure DSP clock source

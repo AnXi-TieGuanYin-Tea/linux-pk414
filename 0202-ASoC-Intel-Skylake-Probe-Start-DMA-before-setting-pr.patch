@@ -1,4 +1,4 @@
-From b10bec6abc348da01406d42275a06a1a2b29d909 Mon Sep 17 00:00:00 2001
+From 9d070abef07820a9caa4142cbb0a62b67220a803 Mon Sep 17 00:00:00 2001
 From: "Pawse, GuruprasadX" <guruprasadx.pawse@intel.com>
 Date: Tue, 14 Jun 2016 18:19:44 +0530
 Subject: [PATCH 202/525] ASoC: Intel: Skylake: Probe - Start DMA before

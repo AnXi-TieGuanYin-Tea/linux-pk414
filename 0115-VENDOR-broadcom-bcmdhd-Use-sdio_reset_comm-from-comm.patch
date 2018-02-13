@@ -1,4 +1,4 @@
-From bfd37a3b7abd3a1767d002214c7ba860cb2c0178 Mon Sep 17 00:00:00 2001
+From ac14fd952a434be01fda89eb790c0543a531fc6c Mon Sep 17 00:00:00 2001
 From: Mattias Nissler <mnissler@google.com>
 Date: Fri, 21 Apr 2017 23:34:26 +0000
 Subject: [PATCH 115/525] VENDOR: broadcom: bcmdhd: Use sdio_reset_comm from

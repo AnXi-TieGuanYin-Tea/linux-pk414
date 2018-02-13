@@ -1,4 +1,4 @@
-From 80c28f3f2b699a8a3990d3c8c5fac288699d7a8f Mon Sep 17 00:00:00 2001
+From 9aaf559c67b65968e9f444ec020a90f9f2dfe35a Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Mon, 10 Jul 2017 13:23:15 +0530
 Subject: [PATCH 398/525] SoC: Intel: Skylake: Add FE DAIs

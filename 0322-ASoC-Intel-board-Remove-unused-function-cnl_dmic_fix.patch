@@ -1,4 +1,4 @@
-From 2c62c59e7fca128845d406b562b6b5fac5b0c545 Mon Sep 17 00:00:00 2001
+From 5abff97d272e645f482eefb265dc9f70bcee7778 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 7 Sep 2017 09:58:03 +0530
 Subject: [PATCH 322/525] ASoC: Intel: board: Remove unused function

@@ -1,4 +1,4 @@
-From e838256371d87cea26fc78166e301eb230fa6367 Mon Sep 17 00:00:00 2001
+From fa6bda8392943fe42196023945593830dc661d77 Mon Sep 17 00:00:00 2001
 From: Leoni Prodduvaka <leoni.prodduvaka@intel.com>
 Date: Mon, 6 Feb 2017 22:24:18 +0530
 Subject: [PATCH 265/525] ASoC: Intel: Skylake: Check for memory reclaim bit

@@ -1,4 +1,4 @@
-From 745647691a681acfd06d9c6cbc7037793e394256 Mon Sep 17 00:00:00 2001
+From 337665ab19547de53202219debc785407f4ce862 Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Fri, 20 May 2016 14:42:17 +0530
 Subject: [PATCH 180/525] REVERTME:SKL:Topology: Add logic to create SDW

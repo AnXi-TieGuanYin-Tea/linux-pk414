@@ -1,4 +1,4 @@
-From 0d63f72d85a187c8bad7a25cb3b5f3d43bc0f6fb Mon Sep 17 00:00:00 2001
+From c018ad3b396e3d51dd603fe91392d069d8df36d1 Mon Sep 17 00:00:00 2001
 From: "Prakash, Divya1" <divya1.prakash@intel.com>
 Date: Thu, 14 Sep 2017 22:02:01 +0530
 Subject: [PATCH 417/525] ASoC: Intel: Skylake: Reset DSP pipe in

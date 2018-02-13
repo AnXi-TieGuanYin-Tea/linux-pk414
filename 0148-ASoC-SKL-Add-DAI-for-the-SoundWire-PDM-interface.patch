@@ -1,4 +1,4 @@
-From 378404e7e9166fc3de6c17d6e789dbad219f92ea Mon Sep 17 00:00:00 2001
+From df8d5c7192903032d2b33ef55a44d2278e37dde8 Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Sat, 23 Apr 2016 18:06:12 +0530
 Subject: [PATCH 148/525] ASoC:SKL: Add DAI for the SoundWire PDM interface.

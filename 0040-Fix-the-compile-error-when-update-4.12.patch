@@ -1,4 +1,4 @@
-From d47a79a1e4230b3c98737a5b9c1b8f4925451097 Mon Sep 17 00:00:00 2001
+From 7b916fbea425c734d2916f61c35208c84cc5b0c5 Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Thu, 18 May 2017 16:31:32 +0800
 Subject: [PATCH 040/525] Fix the compile error when update 4.12

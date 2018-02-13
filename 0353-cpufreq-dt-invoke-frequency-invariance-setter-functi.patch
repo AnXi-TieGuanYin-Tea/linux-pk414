@@ -1,4 +1,4 @@
-From 7e2fb3be5ba9f136f13797ff67cf97c634782ef5 Mon Sep 17 00:00:00 2001
+From 5be1f61261b9f9d6c28f07905cfe8498aea12a7e Mon Sep 17 00:00:00 2001
 From: Dietmar Eggemann <dietmar.eggemann@arm.com>
 Date: Tue, 26 Sep 2017 17:41:09 +0100
 Subject: [PATCH 353/525] cpufreq: dt: invoke frequency-invariance setter

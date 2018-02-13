@@ -1,4 +1,4 @@
-From da10864901f999a55b98d78362d5f6095c89b254 Mon Sep 17 00:00:00 2001
+From be1445516cce72a2b1eca126ba6c97721c73421f Mon Sep 17 00:00:00 2001
 From: Pei Zhang <pei.zhang@intel.com>
 Date: Thu, 22 Jun 2017 22:50:15 +0800
 Subject: [PATCH 474/525] drm/i915/gvt: define new emulate functions without

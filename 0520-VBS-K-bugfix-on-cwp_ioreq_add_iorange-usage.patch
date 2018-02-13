@@ -1,4 +1,4 @@
-From 73cede169b3ded890a4d698bce31a582de25ca52 Mon Sep 17 00:00:00 2001
+From 66f3a35cdc92544f899fb6c87031cd065a7bde46 Mon Sep 17 00:00:00 2001
 From: Hao Li <hao.l.li@intel.com>
 Date: Sun, 28 Jan 2018 19:54:49 -0500
 Subject: [PATCH 520/525] VBS-K: bugfix on cwp_ioreq_add_iorange() usage

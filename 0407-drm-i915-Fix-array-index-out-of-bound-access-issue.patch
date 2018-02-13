@@ -1,4 +1,4 @@
-From 5996ca6ccbe87a71cb871b51cc88bcd4a002ace2 Mon Sep 17 00:00:00 2001
+From 5c81e7c557a93ad2079e62af38cc56c677c207a7 Mon Sep 17 00:00:00 2001
 From: Vaibhav Agarwal <vaibhav.agarwal@intel.com>
 Date: Fri, 22 Dec 2017 01:10:48 +0800
 Subject: [PATCH 407/525] drm/i915: Fix array index out of bound access issue

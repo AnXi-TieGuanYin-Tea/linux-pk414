@@ -1,4 +1,4 @@
-From e3e0f75e33159c46a658adf1e126913cdf61ef25 Mon Sep 17 00:00:00 2001
+From 77855bc49fce183700dd400085cd6563b46de015 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Sun, 28 Feb 2016 10:36:13 +0200
 Subject: [PATCH 099/525] char: rpmb: add RPMB simulation device

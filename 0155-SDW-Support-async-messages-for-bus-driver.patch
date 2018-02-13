@@ -1,4 +1,4 @@
-From e522d251bc182c866492ea1eed648996714ad6f8 Mon Sep 17 00:00:00 2001
+From d853e2c907dace5c66696d82bdfc3ff4632139c3 Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Fri, 29 Apr 2016 14:22:16 +0530
 Subject: [PATCH 155/525] SDW: Support async messages for bus driver.

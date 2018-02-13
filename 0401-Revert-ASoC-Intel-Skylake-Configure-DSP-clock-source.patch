@@ -1,4 +1,4 @@
-From c994feea15812b52859ac9fd86c1adcc5c5c6478 Mon Sep 17 00:00:00 2001
+From c996bcf1cf9f42d8d68d2f923c70e9a095c06376 Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Tue, 19 Dec 2017 19:40:23 +0530
 Subject: [PATCH 401/525] Revert "ASoC: Intel: Skylake: Configure DSP clock

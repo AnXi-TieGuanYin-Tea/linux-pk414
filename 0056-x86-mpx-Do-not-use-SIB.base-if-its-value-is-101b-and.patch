@@ -1,4 +1,4 @@
-From 6db2f862a85a74cb8e81e7e40e5cf00cf188441b Mon Sep 17 00:00:00 2001
+From 84b17589ec8f38acdba8c43bbbcb39f3fd162998 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Tue, 5 Sep 2017 15:26:03 -0700
 Subject: [PATCH 056/525] x86/mpx: Do not use SIB.base if its value is 101b and

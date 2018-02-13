@@ -1,4 +1,4 @@
-From b1e84182998a21e8fdd5ee13f1ac461573ed4b43 Mon Sep 17 00:00:00 2001
+From c9f0d418d5fb896a304033f9fef0dbc4c46c02bd Mon Sep 17 00:00:00 2001
 From: Lv Zheng <lv.zheng@intel.com>
 Date: Wed, 20 Sep 2017 10:00:11 +0800
 Subject: [PATCH 368/525] ACPICA: Hardware: Enable 64-bit support of hardware

@@ -1,4 +1,4 @@
-From 7e4af4f1343f2d65f9e8062e0f72845c37af2c28 Mon Sep 17 00:00:00 2001
+From 8b92dc3ceefb6637f50ca2aff4186b97a00d34c4 Mon Sep 17 00:00:00 2001
 From: Bob Moore <robert.moore@intel.com>
 Date: Wed, 20 Sep 2017 10:00:30 +0800
 Subject: [PATCH 370/525] ACPICA: Header support for the PDTT ACPI table

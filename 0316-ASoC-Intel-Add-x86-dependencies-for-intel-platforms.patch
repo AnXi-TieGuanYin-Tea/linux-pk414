@@ -1,4 +1,4 @@
-From b294addfd82f42dca8eb93c8324f74f59cfef1ed Mon Sep 17 00:00:00 2001
+From f44b3a87f8dc54e2858b8c69dd380554a7ed6509 Mon Sep 17 00:00:00 2001
 From: Anamika Lal <anamikax.lal@intel.com>
 Date: Fri, 4 Aug 2017 09:54:49 +0530
 Subject: [PATCH 316/525] ASoC: Intel: Add x86 dependencies for intel

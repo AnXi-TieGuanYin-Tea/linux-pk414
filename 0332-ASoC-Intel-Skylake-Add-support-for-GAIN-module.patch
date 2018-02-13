@@ -1,4 +1,4 @@
-From 56aec2a10f33833c779fb721f7b2b2dde2161b21 Mon Sep 17 00:00:00 2001
+From c05649385bc902b674d07780b8c21d5aced4a929 Mon Sep 17 00:00:00 2001
 From: "Dharageswari.R" <dharageswari.r@intel.com>
 Date: Tue, 25 Jul 2017 17:49:58 +0530
 Subject: [PATCH 332/525] ASoC: Intel: Skylake: Add support for GAIN module

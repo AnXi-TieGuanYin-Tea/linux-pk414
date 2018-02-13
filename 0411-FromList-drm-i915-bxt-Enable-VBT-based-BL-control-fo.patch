@@ -1,4 +1,4 @@
-From 20d5821aa914eacbd3e09f6bb93f330fff17a298 Mon Sep 17 00:00:00 2001
+From a0c00cfc299d47d349541eece3d65e9cfecbe291 Mon Sep 17 00:00:00 2001
 From: "Fan, Yugang" <yugang.fan@github.com>
 Date: Mon, 25 Dec 2017 16:47:54 +0800
 Subject: [PATCH 411/525] FromList: drm/i915/bxt: Enable VBT based BL control

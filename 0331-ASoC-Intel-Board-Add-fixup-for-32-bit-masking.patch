@@ -1,4 +1,4 @@
-From 7a9e0708e4edad607ad40c4b18cb59c713202936 Mon Sep 17 00:00:00 2001
+From 3f117a283dfb7bc75328067b97bff44c885caf6b Mon Sep 17 00:00:00 2001
 From: Mohit Sinha <mohit.sinha@intel.com>
 Date: Mon, 4 Sep 2017 23:31:17 +0530
 Subject: [PATCH 331/525] ASoC: Intel: Board: Add fixup for 32 bit masking

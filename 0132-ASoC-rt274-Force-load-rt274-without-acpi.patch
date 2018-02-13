@@ -1,4 +1,4 @@
-From 48bbb792a5729388db8fa5766e67375556783bbe Mon Sep 17 00:00:00 2001
+From 47233a62dd2c35e6a921221936f4b7d09632ecbb Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 17 Nov 2016 10:57:43 +0530
 Subject: [PATCH 132/525] ASoC: rt274: Force load rt274 without acpi

@@ -1,4 +1,4 @@
-From 450e8ea137804cdbe551a5f466d19651d7338119 Mon Sep 17 00:00:00 2001
+From b9aa5d30969bc005a01e6e2213a3d7d244b7400d Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Mon, 24 Oct 2016 16:23:20 +0530
 Subject: [PATCH 223/525] Register masters only if RT700 is selected in config

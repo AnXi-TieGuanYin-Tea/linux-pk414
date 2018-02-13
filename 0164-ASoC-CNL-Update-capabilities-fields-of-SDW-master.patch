@@ -1,4 +1,4 @@
-From f527f8ef5ccf0d4d305316ad5427f61d82e7770f Mon Sep 17 00:00:00 2001
+From f0cc52b400338a9b08b0e6b17338157ce5b2c1a2 Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Mon, 2 May 2016 00:14:23 +0530
 Subject: [PATCH 164/525] ASoC:CNL: Update capabilities fields of SDW master

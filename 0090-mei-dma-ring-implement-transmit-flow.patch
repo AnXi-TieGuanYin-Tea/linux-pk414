@@ -1,4 +1,4 @@
-From ed7122bd3f4ab9b8643ed0de170d45ee51cb1443 Mon Sep 17 00:00:00 2001
+From febe31cd2513293de819025986a0a78956c309f3 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Wed, 2 Nov 2016 18:18:36 -0400
 Subject: [PATCH 090/525] mei: dma ring: implement transmit flow

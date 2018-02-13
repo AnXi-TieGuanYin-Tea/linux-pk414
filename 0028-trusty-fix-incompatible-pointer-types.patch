@@ -1,4 +1,4 @@
-From 7b734ccf0c6ee24dd5a1c3361f112e2f83fbaa77 Mon Sep 17 00:00:00 2001
+From a87fe7c607de9ac84f7d12b30c08de2f7b60445a Mon Sep 17 00:00:00 2001
 From: Dwane Pottratz <dwane.pottratz@intel.com>
 Date: Thu, 17 Nov 2016 12:53:31 -0800
 Subject: [PATCH 028/525] trusty: fix incompatible-pointer-types

@@ -1,4 +1,4 @@
-From 8192a60b7a75e845d915c7785f38b9723143fcf2 Mon Sep 17 00:00:00 2001
+From 57f3ab099618c0d92508a41a68b853a2b9075e60 Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Fri, 29 Dec 2017 16:26:14 +0800
 Subject: [PATCH 424/525] VHM: add ioreq service support

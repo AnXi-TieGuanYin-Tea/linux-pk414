@@ -1,4 +1,4 @@
-From 1c20aabb57be3d8bfdf1a8918f6856f1eb1544d7 Mon Sep 17 00:00:00 2001
+From 2af084f8584c1bc93e070fbefc73b9a754946bec Mon Sep 17 00:00:00 2001
 From: Vinod Koul <vinod.koul@intel.com>
 Date: Mon, 31 Aug 2015 14:12:14 +0530
 Subject: [PATCH 174/525] ASoC: Intel: Skylake: Add debugfs NHLT ssp override

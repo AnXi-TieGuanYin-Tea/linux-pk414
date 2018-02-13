@@ -1,4 +1,4 @@
-From f89ae087c55a52e0fe96d6bcf96391353340f9d4 Mon Sep 17 00:00:00 2001
+From a0bff76887d8b76533c23b61616c69fa8920bd8f Mon Sep 17 00:00:00 2001
 From: "Yan, Shaoou" <shaopu.yan@intel.com>
 Date: Thu, 8 Dec 2016 05:14:48 +0000
 Subject: [PATCH 031/525] trusty: Popup warning when LK timer interrupt is not

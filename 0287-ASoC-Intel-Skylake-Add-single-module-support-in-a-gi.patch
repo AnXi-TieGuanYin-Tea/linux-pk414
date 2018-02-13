@@ -1,4 +1,4 @@
-From 20c3a2a0d030f402b58b4de8d540f89e0ebace52 Mon Sep 17 00:00:00 2001
+From ded06ab37cac22633cc0ff96352e5758c9218daf Mon Sep 17 00:00:00 2001
 From: "Diwakar, Praveen" <praveen.diwakar@intel.com>
 Date: Tue, 25 Apr 2017 06:24:38 +0530
 Subject: [PATCH 287/525] ASoC: Intel: Skylake: Add single module support in a

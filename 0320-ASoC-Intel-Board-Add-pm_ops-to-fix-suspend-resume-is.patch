@@ -1,4 +1,4 @@
-From 7e2319a7a4e317840cfbb8db869c8e24e1f66513 Mon Sep 17 00:00:00 2001
+From 1523d1b73184fa185c957754b3fa0ef0f9c70fdb Mon Sep 17 00:00:00 2001
 From: "Kareem,Shaik" <kareem.m.shaik@intel.com>
 Date: Wed, 30 Aug 2017 16:46:40 +0530
 Subject: [PATCH 320/525] ASoC: Intel: Board: Add pm_ops to fix suspend/resume

@@ -1,4 +1,4 @@
-From f17e43a06a286a95ea37234e95e6964c84b5b95f Mon Sep 17 00:00:00 2001
+From de3da37119d47cb4f56be81e486948585e7e6582 Mon Sep 17 00:00:00 2001
 From: Mousumi Jana <mousumix.jana@intel.com>
 Date: Sat, 3 Sep 2016 02:56:03 +0530
 Subject: [PATCH 291/525] ASoC: Intel: Skylake: Update FW Trace logs feature to

@@ -1,4 +1,4 @@
-From cccf47f3388a79b9aba7b1c16cab4eed440e19ef Mon Sep 17 00:00:00 2001
+From e29e4825951a5d417e9e0ef79b5fea20e4cbec57 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Thu, 11 Jan 2018 13:06:41 +0800
 Subject: [PATCH 444/525] vhm: fix issue in do_map_guest_phys

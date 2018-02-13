@@ -1,4 +1,4 @@
-From e590afa8c93992779ad970fc3c0a561afb676aef Mon Sep 17 00:00:00 2001
+From 25b2b65951b19bb429c875a2684871887a3a9bad Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Wed, 6 Sep 2017 14:04:54 +0530
 Subject: [PATCH 334/525] ASoC: Intel: Skylake: Fix mconfig NULL pointer

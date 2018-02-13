@@ -1,4 +1,4 @@
-From 27c82d74aea0361105846a3f4dbc2a17eea1be7e Mon Sep 17 00:00:00 2001
+From 7df0aa4f131d2366df7d626d77e06c44a62e0282 Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Arve=20Hj=C3=B8nnev=C3=A5g?= <arve@android.com>
 Date: Tue, 26 Nov 2013 20:18:35 -0800
 Subject: [PATCH 012/525] trusty: Add fiq support

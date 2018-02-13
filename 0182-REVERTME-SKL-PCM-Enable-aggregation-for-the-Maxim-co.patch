@@ -1,4 +1,4 @@
-From 433abe2170c43291332cb0ca2b22a9d8e9100669 Mon Sep 17 00:00:00 2001
+From abf197fe431e20ab46980633f8342ad131d2cab1 Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Fri, 20 May 2016 15:02:36 +0530
 Subject: [PATCH 182/525] REVERTME:SKL:PCM: Enable aggregation for the Maxim

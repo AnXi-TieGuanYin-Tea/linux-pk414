@@ -1,4 +1,4 @@
-From 03344521ec6b8097b4febc01534ea62754d0e923 Mon Sep 17 00:00:00 2001
+From 9871651c150d6ab1202bd8bbd35b186288de304a Mon Sep 17 00:00:00 2001
 From: Mitul Chokshi <mitul.chokshi@intel.com>
 Date: Thu, 30 Mar 2017 17:01:57 +0100
 Subject: [PATCH 457/525] drm/i915/gvt: Added memory latency value for BXT

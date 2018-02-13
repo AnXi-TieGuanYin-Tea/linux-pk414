@@ -1,4 +1,4 @@
-From 9c4a973a5b359a36e9eab6eb55c235bc0320ab06 Mon Sep 17 00:00:00 2001
+From 55f4293aaef9eb131a6ef9f47711984e4907870f Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 27 Apr 2017 14:32:17 +0530
 Subject: [PATCH 271/525] ASoC: Intel: Skylake: Append SDW device to device

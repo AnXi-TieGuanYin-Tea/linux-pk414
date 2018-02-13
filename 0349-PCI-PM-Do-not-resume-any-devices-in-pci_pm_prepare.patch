@@ -1,4 +1,4 @@
-From 22be977efd216efdbd5452ca4d49a8f2ec433be1 Mon Sep 17 00:00:00 2001
+From 40cd6b3465f39333e5030e316b175f412655b503 Mon Sep 17 00:00:00 2001
 From: "Rafael J. Wysocki" <rafael.j.wysocki@intel.com>
 Date: Mon, 25 Sep 2017 01:33:13 +0200
 Subject: [PATCH 349/525] PCI / PM: Do not resume any devices in

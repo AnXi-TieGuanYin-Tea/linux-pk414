@@ -1,4 +1,4 @@
-From e3224206b7716f0ca916db600c6281361fbdbc74 Mon Sep 17 00:00:00 2001
+From c8a89187d336f8239ad938624a7ea620bbadd324 Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Tue, 23 Jan 2018 22:28:05 +0800
 Subject: [PATCH 513/525] VHM: sync public header file cwp_common.h

@@ -1,4 +1,4 @@
-From e162e0bdcfe222ad0f51d4967a56a92f6610de3c Mon Sep 17 00:00:00 2001
+From 0c72d29c44de58a388a19d04da95b67a3dfddac5 Mon Sep 17 00:00:00 2001
 From: Mousumi Jana <mousumix.jana@intel.com>
 Date: Thu, 26 Nov 2015 01:28:34 +0530
 Subject: [PATCH 222/525] ASoC: Intel: Skylake:Add support to get fw

@@ -1,4 +1,4 @@
-From c3f279b674c26a4a31b98404a0ea8645acffced1 Mon Sep 17 00:00:00 2001
+From b6034868c147300cb5d26e6d3a73bfeb0070498d Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Sat, 15 Apr 2017 08:00:33 +0800
 Subject: [PATCH 483/525] drm/i915/gvt: remove some initialization of ggtt in

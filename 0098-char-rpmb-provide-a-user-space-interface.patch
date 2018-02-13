@@ -1,4 +1,4 @@
-From c4ecf037e85da8ca85b27034ad898e30b4ab068c Mon Sep 17 00:00:00 2001
+From 1dff1ffc0c823ead42fc5efc7e67c5633d08d746 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Thu, 16 Jul 2015 12:29:50 +0300
 Subject: [PATCH 098/525] char: rpmb: provide a user space interface

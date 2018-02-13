@@ -1,4 +1,4 @@
-From abe58e2694cb7253af3f719b27fc04463a365aee Mon Sep 17 00:00:00 2001
+From 7ecc6bbec2e63434309fb326eb19a2c218765683 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Tue, 5 Sep 2017 15:43:34 -0700
 Subject: [PATCH 068/525] x86/insn-eval: Add wrapper function for 32 and 64-bit

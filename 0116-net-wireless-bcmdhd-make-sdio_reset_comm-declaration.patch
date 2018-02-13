@@ -1,4 +1,4 @@
-From 0519edbc6fcf4a1212b7b965444f635adc51d49f Mon Sep 17 00:00:00 2001
+From a08db98a1997aa176309cb73027bbc0384b8ba8f Mon Sep 17 00:00:00 2001
 From: Sathyanarayanan Kuppuswamy <sathyanarayanan.kuppuswamy@intel.com>
 Date: Fri, 21 Apr 2017 23:34:27 +0000
 Subject: [PATCH 116/525] net: wireless: bcmdhd: make sdio_reset_comm()

@@ -1,4 +1,4 @@
-From 590b97c5e4dc0d022a486a32961a645cccd3ae24 Mon Sep 17 00:00:00 2001
+From 57fb3b338b7c81628c50082f8023a228eca86fa4 Mon Sep 17 00:00:00 2001
 From: Jaikrishna Nemallapudi <jaikrishnax.nemallapudi@intel.com>
 Date: Wed, 14 Dec 2016 17:12:45 +0530
 Subject: [PATCH 231/525] ASoC: Intel: Fix build warning for unused variables

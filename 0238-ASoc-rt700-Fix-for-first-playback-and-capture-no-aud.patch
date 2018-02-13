@@ -1,4 +1,4 @@
-From d092a57c13a8571e0c1c3cb9a2b9163d1d37ffa4 Mon Sep 17 00:00:00 2001
+From 75c589119f8139e9a056cc6265475fd994f644bc Mon Sep 17 00:00:00 2001
 From: bardliao <bardliao@realtek.com>
 Date: Tue, 10 Jan 2017 10:54:11 +0530
 Subject: [PATCH 238/525] ASoc: rt700: Fix for first playback and capture no

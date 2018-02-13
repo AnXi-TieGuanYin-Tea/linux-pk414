@@ -1,4 +1,4 @@
-From 73de28402dff4d0ad7444a6fffcd3640545c5f37 Mon Sep 17 00:00:00 2001
+From 395bb488606e5c7fbbec4b51c310a1fe27d44e57 Mon Sep 17 00:00:00 2001
 From: Leoni Prodduvaka <leoni.prodduvaka@intel.com>
 Date: Thu, 16 Mar 2017 21:49:33 +0530
 Subject: [PATCH 261/525] ASoC: Intel: Change sst_ipc_tx_message_wait api to

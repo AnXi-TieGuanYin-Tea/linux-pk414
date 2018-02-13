@@ -1,4 +1,4 @@
-From bd753de54e06d6130ad4c6dba2addb317fc0c43c Mon Sep 17 00:00:00 2001
+From bb0abd293bd1cc00ad2cfee9d4e039ba63cc8305 Mon Sep 17 00:00:00 2001
 From: "Periyasamy, SriramX" <sriramx.periyasamy@intel.com>
 Date: Mon, 18 Sep 2017 18:49:51 +0530
 Subject: [PATCH 333/525] ASoC: Intel: Topology: Add dynamic module id support

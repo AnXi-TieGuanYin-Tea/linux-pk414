@@ -1,4 +1,4 @@
-From cb84fc37381bf8d934c1b73bc994375b31f5ecc0 Mon Sep 17 00:00:00 2001
+From 0eb0ec724d3b972262eed19b175ce7697f40651d Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Wed, 17 Jan 2018 06:01:26 +0800
 Subject: [PATCH 508/525] VHM: check HV api version for VHM module init

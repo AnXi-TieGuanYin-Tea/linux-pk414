@@ -1,4 +1,4 @@
-From 1f16b0414920dec73c133f296547dc4efe2896d6 Mon Sep 17 00:00:00 2001
+From 49f9825fda583a9c0a601f97dac74992dbb5d1a9 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Thu, 24 Aug 2017 06:55:26 +0800
 Subject: [PATCH 481/525] drm/i915/gvt: inject error interrupt to DomU when GPU

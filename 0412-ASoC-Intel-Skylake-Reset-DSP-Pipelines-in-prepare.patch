@@ -1,4 +1,4 @@
-From cdb3a2e9642373a385f26256d3b2e22255256f5c Mon Sep 17 00:00:00 2001
+From ea40c9b059336bd03b6c0cd94821022afd47c34a Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Mon, 17 Jul 2017 23:30:09 +0530
 Subject: [PATCH 412/525] ASoC: Intel: Skylake: Reset DSP Pipelines in prepare

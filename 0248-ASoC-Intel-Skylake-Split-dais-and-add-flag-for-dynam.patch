@@ -1,4 +1,4 @@
-From 954d550aa66ac15710c5fbb2d3b1eefda16cecd6 Mon Sep 17 00:00:00 2001
+From bd3a8a6c161de3f332fd6d90246f380b10a39338 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Mon, 6 Mar 2017 09:47:50 +0530
 Subject: [PATCH 248/525] ASoC: Intel: Skylake: Split dais and add flag for

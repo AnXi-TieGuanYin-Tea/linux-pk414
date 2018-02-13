@@ -1,4 +1,4 @@
-From 8f6ceef5ea94d89e07cb7bf90a78f5341d8128f6 Mon Sep 17 00:00:00 2001
+From fdfe4c30120e9d3c565a20446485213224f13f38 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Sat, 18 Mar 2017 03:31:13 +0800
 Subject: [PATCH 453/525] drm/i915/gvt: Initiazlie BXT pipe info early for

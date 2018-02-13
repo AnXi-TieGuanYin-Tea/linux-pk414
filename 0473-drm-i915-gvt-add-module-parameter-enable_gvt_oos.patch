@@ -1,4 +1,4 @@
-From 9f7c2db2570cd7c0f6009d6128af8c9a3727dbac Mon Sep 17 00:00:00 2001
+From 6b7e3ac860426b0b19faba5ac6678fc64149b10b Mon Sep 17 00:00:00 2001
 From: Pei Zhang <pei.zhang@intel.com>
 Date: Thu, 22 Jun 2017 18:45:21 +0800
 Subject: [PATCH 473/525] drm/i915/gvt: add module parameter enable_gvt_oos

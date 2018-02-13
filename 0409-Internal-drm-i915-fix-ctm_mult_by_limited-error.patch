@@ -1,4 +1,4 @@
-From ee16185a0b406c65e11c80c55566739954225426 Mon Sep 17 00:00:00 2001
+From 8c0f3fe6371827c114cf4b952f08c8d7edc96c13 Mon Sep 17 00:00:00 2001
 From: Lin Johnson <johnson.lin@intel.com>
 Date: Wed, 25 Oct 2017 15:13:39 +0800
 Subject: [PATCH 409/525] Internal: drm/i915: fix ctm_mult_by_limited error

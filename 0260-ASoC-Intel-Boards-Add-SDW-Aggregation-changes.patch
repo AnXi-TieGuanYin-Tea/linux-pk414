@@ -1,4 +1,4 @@
-From 6f13be132eb02228c2f99366c3b0d8a659dec6fa Mon Sep 17 00:00:00 2001
+From c16c6c40ae93e09c69317f9a6746d95a7c0c37c1 Mon Sep 17 00:00:00 2001
 From: "Jayanti, Satya Charitardha" <satya.charitardha.jayanti@intel.com>
 Date: Wed, 4 Jan 2017 20:38:56 +0530
 Subject: [PATCH 260/525] ASoC: Intel: Boards: Add SDW Aggregation changes

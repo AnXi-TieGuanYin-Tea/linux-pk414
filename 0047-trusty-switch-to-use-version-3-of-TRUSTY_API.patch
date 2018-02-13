@@ -1,4 +1,4 @@
-From 57d778800017c8317e52d026a6ffb3925366ab63 Mon Sep 17 00:00:00 2001
+From abe90581f0e1ca8215866223c40c56c94797b9c3 Mon Sep 17 00:00:00 2001
 From: "Zhong,Fangjian" <fangjian.zhong@intel.com>
 Date: Tue, 11 Jul 2017 04:44:59 +0000
 Subject: [PATCH 047/525] trusty: switch to use version 3 of TRUSTY_API

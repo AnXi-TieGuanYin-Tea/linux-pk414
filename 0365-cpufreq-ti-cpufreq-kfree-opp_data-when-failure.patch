@@ -1,4 +1,4 @@
-From e1afee17dba325858e73d8751e73f1c40f585ce6 Mon Sep 17 00:00:00 2001
+From 45c07dd8ab6b4c295817a586ae623bd953481d27 Mon Sep 17 00:00:00 2001
 From: Zumeng Chen <zumeng.chen@gmail.com>
 Date: Wed, 27 Sep 2017 15:08:17 +0800
 Subject: [PATCH 365/525] cpufreq: ti-cpufreq: kfree opp_data when failure

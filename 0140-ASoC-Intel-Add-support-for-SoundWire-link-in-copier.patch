@@ -1,4 +1,4 @@
-From defb33915246f59c3c282102fa73a9ee20f4f87a Mon Sep 17 00:00:00 2001
+From f94064ba56ec9b68bcb9fdf0b9d01aef53a7e7f8 Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Thu, 10 Mar 2016 11:25:19 +0530
 Subject: [PATCH 140/525] ASoC: Intel: Add support for SoundWire link in

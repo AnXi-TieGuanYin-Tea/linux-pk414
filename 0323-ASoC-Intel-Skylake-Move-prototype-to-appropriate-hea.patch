@@ -1,4 +1,4 @@
-From 70fc711195520aea87785576dca0e8fd2d81fadb Mon Sep 17 00:00:00 2001
+From 5400f5ebd362cb429948d1f2c9bae344e6aa2e88 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 7 Sep 2017 09:59:36 +0530
 Subject: [PATCH 323/525] ASoC: Intel: Skylake: Move prototype to appropriate

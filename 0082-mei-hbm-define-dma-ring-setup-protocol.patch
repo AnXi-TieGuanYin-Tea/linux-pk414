@@ -1,4 +1,4 @@
-From 5d08a83df6e0718ae0e3ee4c4ec220703221758d Mon Sep 17 00:00:00 2001
+From f2e612ac2cd8e4387375f95a769ba1e69dc6cfec Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Mon, 17 Oct 2016 00:15:45 +0300
 Subject: [PATCH 082/525] mei: hbm: define dma ring setup protocol

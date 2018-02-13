@@ -1,4 +1,4 @@
-From 5e79e82f90ba64685b189222f0f402286a2fb8b1 Mon Sep 17 00:00:00 2001
+From ef5a6b54f117a7ba2b9b3d69d5e85f6dbdd1ff25 Mon Sep 17 00:00:00 2001
 From: Fei Yang <fei.yang@intel.com>
 Date: Fri, 16 Jun 2017 17:36:19 -0700
 Subject: [PATCH 002/525] AndroidIA: Allow RenderNode to be used for kms

@@ -1,4 +1,4 @@
-From 77e44a017fdcffd6aaf9d91d379c09c1962c7d29 Mon Sep 17 00:00:00 2001
+From f9f40fa1b0fc41ff0b46cfb79aeb375932cbcecf Mon Sep 17 00:00:00 2001
 From: liang ding <liang.ding@intel.com>
 Date: Fri, 29 Dec 2017 16:38:20 +0800
 Subject: [PATCH 425/525] VHM: add interrupt injection support

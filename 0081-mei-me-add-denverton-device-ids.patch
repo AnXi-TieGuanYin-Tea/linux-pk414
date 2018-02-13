@@ -1,4 +1,4 @@
-From 0a8e250e69b8dfe6bfc6f2295193ac1eef622d72 Mon Sep 17 00:00:00 2001
+From 0b00d1415389ba4b2d73d6950f476664aeb27a19 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Thu, 14 Apr 2016 21:38:43 -0400
 Subject: [PATCH 081/525] mei: me: add denverton device ids
@@ -26,7 +26,7 @@ index 33064803a4ae..79f6dc63449c 100644
  #define MEI_DEV_ID_GLK        0x319A  /* Gemini Lake */
  
 diff --git a/drivers/misc/mei/pci-me.c b/drivers/misc/mei/pci-me.c
-index 5537bc5e9006..17f13c745dc4 100644
+index a99edf82330c..e1ae3a16a36a 100644
 --- a/drivers/misc/mei/pci-me.c
 +++ b/drivers/misc/mei/pci-me.c
 @@ -92,6 +92,7 @@ static const struct pci_device_id mei_me_pci_tbl[] = {

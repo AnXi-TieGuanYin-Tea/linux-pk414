@@ -1,4 +1,4 @@
-From 341adbfc17e6c4470cdb7b25ca23f06821b76a8d Mon Sep 17 00:00:00 2001
+From 6b6b6009781b4d689f6e6b204e2444daf17ed2c9 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Mon, 27 Feb 2017 09:20:59 +0530
 Subject: [PATCH 251/525] ASoC: Intel: board: Add support for dynamic FE dai

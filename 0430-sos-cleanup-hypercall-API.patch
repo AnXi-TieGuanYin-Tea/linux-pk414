@@ -1,4 +1,4 @@
-From cb6caaf3302a153a19951cb0e271373ab73c2bd8 Mon Sep 17 00:00:00 2001
+From ddb7063362692caf7eb594364d98ca688270737d Mon Sep 17 00:00:00 2001
 From: Mingqiang Chi <mingqiang.chi@intel.com>
 Date: Fri, 29 Dec 2017 15:01:14 +0800
 Subject: [PATCH 430/525] sos: cleanup hypercall API

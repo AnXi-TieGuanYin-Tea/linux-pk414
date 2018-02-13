@@ -1,4 +1,4 @@
-From a7d9c796e9be03b495170cfa34c0f409f0c3c4e0 Mon Sep 17 00:00:00 2001
+From 4c7d3e4efd1846eaefe734c8d0127d3f2db5b8ec Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Thu, 5 Nov 2015 10:22:44 +0200
 Subject: [PATCH 104/525] scsi: ufs: connect to RPMB subsystem
@@ -42,7 +42,7 @@ index e27b4d4e6ae2..8b545a9c51dd 100644
  	This selects the support for UFS devices in Linux, say Y and make
  	  sure that you know the name of your UFS host adapter (the card
 diff --git a/drivers/scsi/ufs/ufshcd.c b/drivers/scsi/ufs/ufshcd.c
-index 513db0b33d25..b1f355debe10 100644
+index 7294247e1e5c..8a7dd01f1a05 100644
 --- a/drivers/scsi/ufs/ufshcd.c
 +++ b/drivers/scsi/ufs/ufshcd.c
 @@ -37,10 +37,13 @@
@@ -262,7 +262,7 @@ index 513db0b33d25..b1f355debe10 100644
  		/* Initialize devfreq after UFS device is detected */
  		if (ufshcd_is_clkscaling_supported(hba)) {
  			memcpy(&hba->clk_scaling.saved_pwr_info.info,
-@@ -7768,6 +7952,8 @@ int ufshcd_shutdown(struct ufs_hba *hba)
+@@ -7771,6 +7955,8 @@ int ufshcd_shutdown(struct ufs_hba *hba)
  			goto out;
  	}
  
@@ -271,7 +271,7 @@ index 513db0b33d25..b1f355debe10 100644
  	ret = ufshcd_suspend(hba, UFS_SHUTDOWN_PM);
  out:
  	if (ret)
-@@ -7784,7 +7970,10 @@ EXPORT_SYMBOL(ufshcd_shutdown);
+@@ -7787,7 +7973,10 @@ EXPORT_SYMBOL(ufshcd_shutdown);
   */
  void ufshcd_remove(struct ufs_hba *hba)
  {

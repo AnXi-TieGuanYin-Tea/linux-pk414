@@ -1,4 +1,4 @@
-From 358fb85e3f9ea14a2bd0a643c9e4a0800f346883 Mon Sep 17 00:00:00 2001
+From 7d769d74e95407342997a25b815d5d9124eedafd Mon Sep 17 00:00:00 2001
 From: Shreyas NC <shreyas.nc@intel.com>
 Date: Mon, 23 Jan 2017 05:43:58 +0530
 Subject: [PATCH 247/525] ASoC: Intel: Skylake: Update SDW BRA interface

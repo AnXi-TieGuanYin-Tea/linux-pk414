@@ -1,4 +1,4 @@
-From 3b9d1c3b6fde86f99591e971cfc965732f3b903e Mon Sep 17 00:00:00 2001
+From 1492f29b3d9661a9bcc404c9634478c7ff509c48 Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Arve=20Hj=C3=B8nnev=C3=A5g?= <arve@android.com>
 Date: Mon, 18 Nov 2013 20:52:55 -0800
 Subject: [PATCH 011/525] trusty: Add interrupt support

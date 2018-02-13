@@ -1,4 +1,4 @@
-From 331bd388a756e3519c486443c909a2afc024ca30 Mon Sep 17 00:00:00 2001
+From 261b1317931dceaeda7225de4df7d43b6dbce2f4 Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Wed, 10 Jan 2018 05:55:30 +0800
 Subject: [PATCH 439/525] hypercall: refine hypercall interfaces

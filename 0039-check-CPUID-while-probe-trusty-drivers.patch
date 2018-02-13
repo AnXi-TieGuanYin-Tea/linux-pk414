@@ -1,4 +1,4 @@
-From dd3d18c0f1db83248c83db66bd771004dce165d4 Mon Sep 17 00:00:00 2001
+From 80b5c5d505b587120ed079efb54bccebfdf36dae Mon Sep 17 00:00:00 2001
 From: yingbinx <yingbinx.zeng@intel.com>
 Date: Mon, 27 Mar 2017 12:24:04 +0800
 Subject: [PATCH 039/525] check CPUID while probe trusty drivers.

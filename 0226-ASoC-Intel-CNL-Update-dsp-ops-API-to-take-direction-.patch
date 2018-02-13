@@ -1,4 +1,4 @@
-From 947105f854ad23a5b717a3264b3ca788c3740bcf Mon Sep 17 00:00:00 2001
+From df3622b30ca65daa0a54378a937deeba2e71fa9c Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Sun, 2 Jul 2017 11:30:20 +0530
 Subject: [PATCH 226/525] ASoC: Intel: CNL: Update dsp ops API to take

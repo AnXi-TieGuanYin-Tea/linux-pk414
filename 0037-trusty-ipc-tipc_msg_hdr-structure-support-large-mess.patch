@@ -1,4 +1,4 @@
-From f24457de4f3f588b7c39789f33c84bf65a40539f Mon Sep 17 00:00:00 2001
+From 56d084ff0ab73a05edd29aca893fa20a5c144ee7 Mon Sep 17 00:00:00 2001
 From: "Yan, Xiangyang" <xiangyangx.yan@intel.com>
 Date: Tue, 21 Mar 2017 13:31:33 +0800
 Subject: [PATCH 037/525] trusty-ipc:tipc_msg_hdr structure: support large

@@ -1,4 +1,4 @@
-From 88278646895e103a02e209593fd2d5f7664ddd23 Mon Sep 17 00:00:00 2001
+From 3a80760ced0a30336e307b57706fc3dc812b8c3e Mon Sep 17 00:00:00 2001
 From: "Qi, Yadong" <yadong.qi@intel.com>
 Date: Fri, 2 Feb 2018 13:12:40 +0800
 Subject: [PATCH 525/525] trusty: detect vmm when load trusty driver

@@ -1,4 +1,4 @@
-From ba8c101f946d4edcacc9da43cfd1bc08dc91a353 Mon Sep 17 00:00:00 2001
+From 935bc66fbaf1f194343300f5c63fa805ffee9eda Mon Sep 17 00:00:00 2001
 From: "Yan, Xiangyang" <xiangyangx.yan@intel.com>
 Date: Wed, 11 Jan 2017 01:26:27 +0000
 Subject: [PATCH 034/525] trusty: Add VMM PANIC dump data.

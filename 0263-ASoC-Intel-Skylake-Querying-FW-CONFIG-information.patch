@@ -1,4 +1,4 @@
-From 80a1fe99f90236682de08e62351244b862bfcb52 Mon Sep 17 00:00:00 2001
+From 401e63e9a5b0ccfc7e07231303ceba7b2de43af9 Mon Sep 17 00:00:00 2001
 From: Leoni Prodduvaka <leoni.prodduvaka@intel.com>
 Date: Tue, 7 Feb 2017 18:42:40 +0530
 Subject: [PATCH 263/525] ASoC: Intel: Skylake: Querying FW CONFIG information

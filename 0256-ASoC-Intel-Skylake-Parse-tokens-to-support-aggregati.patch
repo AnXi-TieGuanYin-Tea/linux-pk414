@@ -1,4 +1,4 @@
-From 94a549eb9a5a0eeb20b9287f8cde3b9ccab13177 Mon Sep 17 00:00:00 2001
+From 40548e5f08c57e803f1d8797f527682315326c55 Mon Sep 17 00:00:00 2001
 From: Shreyas NC <shreyas.nc@intel.com>
 Date: Wed, 8 Mar 2017 03:09:33 +0530
 Subject: [PATCH 256/525] ASoC: Intel: Skylake: Parse tokens to support

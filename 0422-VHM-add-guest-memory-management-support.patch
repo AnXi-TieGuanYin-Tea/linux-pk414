@@ -1,4 +1,4 @@
-From 3fe9d63dd048b9f96236b41ebe25769cc7dae61e Mon Sep 17 00:00:00 2001
+From c6acf32fdf40b06950ef914b6dc33b9d96fd237c Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Fri, 29 Dec 2017 16:01:10 +0800
 Subject: [PATCH 422/525] VHM: add guest memory management support

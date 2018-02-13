@@ -1,4 +1,4 @@
-From 8a9e98fc32c1831c9b133e3fd5643b2e1891bf99 Mon Sep 17 00:00:00 2001
+From fd3ede32a94d1956ce6e9d9b40ce62c7345ea19b Mon Sep 17 00:00:00 2001
 From: Chen Yu <yu.c.chen@intel.com>
 Date: Thu, 29 Sep 2016 13:01:26 +0800
 Subject: [PATCH 390/525] mfd: intel-lpss: Avoid resuming runtime-suspended

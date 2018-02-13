@@ -1,4 +1,4 @@
-From 6c7f977b1703ff261280a36e01f5a60e9a29d69c Mon Sep 17 00:00:00 2001
+From 6114fd229716c3159903caf02c8d07171a4e77b2 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Tue, 16 Aug 2016 16:26:31 +0530
 Subject: [PATCH 170/525] ASoC: core: Do not return for dummy codec in

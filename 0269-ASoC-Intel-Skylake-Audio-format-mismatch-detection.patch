@@ -1,4 +1,4 @@
-From 15402bcbbe6b0f46804a812d3fadc0cbd78e689e Mon Sep 17 00:00:00 2001
+From 876aec80c82062d897595aa8f9613957af4eb51d Mon Sep 17 00:00:00 2001
 From: Praveen Diwakar <praveen.diwakar@intel.com>
 Date: Wed, 8 Mar 2017 20:12:57 +0530
 Subject: [PATCH 269/525] ASoC: Intel: Skylake: Audio format mismatch detection

@@ -1,4 +1,4 @@
-From 7a8c526fcd05edd5e0592eebb0e2d5e97084c0bb Mon Sep 17 00:00:00 2001
+From e903aa2ddf41e9bfcd7aee48555eb9bb170598cf Mon Sep 17 00:00:00 2001
 From: Alice Liu <alice.liu@intel.com>
 Date: Thu, 10 Nov 2016 20:11:59 +0800
 Subject: [PATCH 389/525] dwc3 setup highspeed to USB3.0 on bxtp platform

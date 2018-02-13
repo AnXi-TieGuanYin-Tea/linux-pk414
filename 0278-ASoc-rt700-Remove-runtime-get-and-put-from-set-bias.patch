@@ -1,4 +1,4 @@
-From 0032fe0e9896619fc3967d2d21ccdd0899fb17f2 Mon Sep 17 00:00:00 2001
+From 90d02a274c8ab39a39e596558f640d008756bfcb Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Fri, 24 Mar 2017 03:40:36 +0530
 Subject: [PATCH 278/525] ASoc: rt700: Remove runtime get and put from set bias

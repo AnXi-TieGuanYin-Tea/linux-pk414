@@ -1,4 +1,4 @@
-From a77895290fec9f8c505dcf0cae7896c48babc655 Mon Sep 17 00:00:00 2001
+From eaca2162c7b06fc701259f8203ce51c212cbb9af Mon Sep 17 00:00:00 2001
 From: Tomasz Medrek <tomaszx.medrek@intel.com>
 Date: Wed, 6 Dec 2017 19:37:05 +0100
 Subject: [PATCH 395/525] usb: phy-intel-dualrole: allow switching roles after

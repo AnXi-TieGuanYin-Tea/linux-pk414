@@ -1,4 +1,4 @@
-From bf3de4dbd714b6b84387406080cbf4c389982993 Mon Sep 17 00:00:00 2001
+From 7451daee03b7627ed1240820ef9fa61aa2cb3b38 Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Mon, 22 Jan 2018 03:27:37 +0800
 Subject: [PATCH 517/525] VHM: refine memory segment interface

@@ -1,4 +1,4 @@
-From 5479ad9056ab2b106668bac0fd0ad2a7e2ee3bbb Mon Sep 17 00:00:00 2001
+From b08b4f1df0e4c781d04f9ff38d0d62ce00349144 Mon Sep 17 00:00:00 2001
 From: Anamika Lal <anamikax.lal@intel.com>
 Date: Wed, 3 May 2017 01:20:41 +0530
 Subject: [PATCH 284/525] ASoC: Intel: Skylake: Add user notification event for

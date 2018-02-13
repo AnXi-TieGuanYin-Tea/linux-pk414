@@ -1,4 +1,4 @@
-From d43fef488f5930c1cb6f65366ce4d80c31b17209 Mon Sep 17 00:00:00 2001
+From 76784fac44fe7a603f7a20f40c4fbf38eac654d8 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Mon, 1 May 2017 10:08:43 -0700
 Subject: [PATCH 058/525] x86/insn-eval: Do not BUG on invalid register type

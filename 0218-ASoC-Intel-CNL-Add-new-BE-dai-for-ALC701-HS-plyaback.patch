@@ -1,4 +1,4 @@
-From 4f9732fb146b9bad82192ba88ee0cb9736635bd9 Mon Sep 17 00:00:00 2001
+From 039c41fb12051b855a9687a19a0653e6b55e7273 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Mon, 26 Jun 2017 12:12:48 +0530
 Subject: [PATCH 218/525] ASoC: Intel: CNL: Add new BE dai for ALC701 HS

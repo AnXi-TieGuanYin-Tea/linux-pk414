@@ -1,4 +1,4 @@
-From d96e339c803871c35c63e27cae3cd88ed61c6c51 Mon Sep 17 00:00:00 2001
+From cd31414647fb37defd1a6d902ae102a1fb746aea Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Thu, 17 Mar 2016 10:17:13 +0530
 Subject: [PATCH 145/525] SoundWire:Intel: Register 4 master controller to the

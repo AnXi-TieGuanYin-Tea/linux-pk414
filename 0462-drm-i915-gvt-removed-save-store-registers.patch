@@ -1,4 +1,4 @@
-From 67f1bc9b492ceed9739db6a47d30b3ce1f77db21 Mon Sep 17 00:00:00 2001
+From 8665dc63d9b8a186e8be6b9bdc95ed66a8e86340 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Sat, 15 Apr 2017 04:20:20 +0800
 Subject: [PATCH 462/525] drm/i915/gvt: removed save/store registers

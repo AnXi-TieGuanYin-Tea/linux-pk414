@@ -1,4 +1,4 @@
-From 96c7ac809ce46c8a93795ca00ac1c053ef7fc790 Mon Sep 17 00:00:00 2001
+From 28b4615f2e9c1b2150b8e78a99a6b94cd32dc306 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Tue, 2 May 2017 18:41:58 -0700
 Subject: [PATCH 060/525] x86/insn-eval: Add utility function to identify

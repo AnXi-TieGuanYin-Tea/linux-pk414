@@ -1,4 +1,4 @@
-From 3d29daa3a2251a4559e062ed94944b6bbe4fad26 Mon Sep 17 00:00:00 2001
+From 5c41ccf23f0cdcb854baf09bc106b1b02fc429f6 Mon Sep 17 00:00:00 2001
 From: "Pawse, GuruprasadX" <guruprasadx.pawse@intel.com>
 Date: Tue, 12 Jul 2016 10:57:10 +0530
 Subject: [PATCH 206/525] ASoC: Intel: Skylake: Probe-Increase Injector DMA

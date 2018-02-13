@@ -1,4 +1,4 @@
-From b30aa31941de4ee5b48e86358e5f6e8a880e8e1a Mon Sep 17 00:00:00 2001
+From 1de9f8982ffc79473505e990ead30c711fa931c5 Mon Sep 17 00:00:00 2001
 From: yingbinx <yingbinx.zeng@intel.com>
 Date: Wed, 22 Feb 2017 14:28:03 +0800
 Subject: [PATCH 036/525] Limit to output trusty/lk log on debug version

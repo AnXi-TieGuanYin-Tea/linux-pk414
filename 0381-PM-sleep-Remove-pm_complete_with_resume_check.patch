@@ -1,4 +1,4 @@
-From 412c700f025ba7ad7a29446d54a958b796f0ac33 Mon Sep 17 00:00:00 2001
+From f705d7c5c65e49cac1748d3ccee054a18ee9365a Mon Sep 17 00:00:00 2001
 From: Ulf Hansson <ulf.hansson@linaro.org>
 Date: Tue, 3 Oct 2017 09:11:07 +0200
 Subject: [PATCH 381/525] PM / sleep: Remove pm_complete_with_resume_check()

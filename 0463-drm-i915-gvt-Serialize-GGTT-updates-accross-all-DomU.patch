@@ -1,4 +1,4 @@
-From 86410a28d8c65bfb4e6b55d457d5f49fe8fe4f3b Mon Sep 17 00:00:00 2001
+From bcf279a4ad73839468cf82a128a78428c7334b0b Mon Sep 17 00:00:00 2001
 From: Vivek Kasireddy <vivek.kasireddy@intel.com>
 Date: Thu, 27 Apr 2017 15:20:42 -0700
 Subject: [PATCH 463/525] drm/i915/gvt: Serialize GGTT updates accross all

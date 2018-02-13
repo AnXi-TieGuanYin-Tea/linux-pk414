@@ -1,4 +1,4 @@
-From ebcaed52f455a9a3b88ca4e8c100b07d3986b494 Mon Sep 17 00:00:00 2001
+From 09de65773bebaa11e3dbd3a4637f7546df43d5c8 Mon Sep 17 00:00:00 2001
 From: "Zhang, Qi" <qi1.zhang@intel.com>
 Date: Tue, 11 Jul 2017 05:03:20 +0000
 Subject: [PATCH 048/525] trusty: add support for SM Wall object

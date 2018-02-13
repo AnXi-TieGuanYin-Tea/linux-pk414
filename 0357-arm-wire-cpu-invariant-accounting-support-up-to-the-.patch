@@ -1,4 +1,4 @@
-From 42f1c1c16d75d0e46b1eb78953ce5684f88091da Mon Sep 17 00:00:00 2001
+From b72954cb27457d1624f70dd7a7f1119ab8e4dd76 Mon Sep 17 00:00:00 2001
 From: Dietmar Eggemann <dietmar.eggemann@arm.com>
 Date: Tue, 26 Sep 2017 17:41:13 +0100
 Subject: [PATCH 357/525] arm: wire cpu-invariant accounting support up to the

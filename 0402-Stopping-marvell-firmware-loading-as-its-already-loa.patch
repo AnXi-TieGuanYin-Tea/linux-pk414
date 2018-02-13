@@ -1,4 +1,4 @@
-From c58df63d3acfe3f1711679ff19f148c2f148f67f Mon Sep 17 00:00:00 2001
+From 96fb019a0edcb149c8a7793b239e3bc3e7c91902 Mon Sep 17 00:00:00 2001
 From: aprasadd <amalendu.prasad.das@intel.com>
 Date: Fri, 22 Dec 2017 16:52:31 +0530
 Subject: [PATCH 402/525] Stopping marvell firmware loading as its already

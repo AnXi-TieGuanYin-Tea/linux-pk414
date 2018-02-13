@@ -1,4 +1,4 @@
-From c4c680e8dda5b141ca0820577069788211a2f0f3 Mon Sep 17 00:00:00 2001
+From d6ffdb8bde750f43d92c8a28a5f8bae4cb80edd4 Mon Sep 17 00:00:00 2001
 From: yingbinx <yingbinx.zeng@intel.com>
 Date: Thu, 10 Aug 2017 06:57:08 +0000
 Subject: [PATCH 050/525] trusty kernel driver code refine

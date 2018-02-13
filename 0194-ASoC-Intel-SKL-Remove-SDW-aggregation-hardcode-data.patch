@@ -1,4 +1,4 @@
-From f4a4f19bc517c898f92a7a8dff51c4f6bba522f8 Mon Sep 17 00:00:00 2001
+From dd918ded756e3b8a753131040b207f4b61c0fd15 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 9 Jun 2016 17:35:39 +0530
 Subject: [PATCH 194/525] ASoC: Intel: SKL: Remove SDW aggregation hardcode

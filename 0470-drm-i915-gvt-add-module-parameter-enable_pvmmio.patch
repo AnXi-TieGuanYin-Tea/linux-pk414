@@ -1,4 +1,4 @@
-From 778c02513a3452b2b4b2de9717dc1e359b4163ed Mon Sep 17 00:00:00 2001
+From 326f392f65b9fb402293c7bd6c4505ce87b77c8a Mon Sep 17 00:00:00 2001
 From: Pei Zhang <pei.zhang@intel.com>
 Date: Fri, 9 Jun 2017 22:14:59 +0800
 Subject: [PATCH 470/525] drm/i915/gvt: add module parameter enable_pvmmio

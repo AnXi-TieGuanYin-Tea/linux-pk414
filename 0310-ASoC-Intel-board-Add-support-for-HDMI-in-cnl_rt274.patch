@@ -1,4 +1,4 @@
-From cc1a66d9d8af7e53ee4babaa241f229c1027ef13 Mon Sep 17 00:00:00 2001
+From 39651697e5f572b0f525cbfadc70cff048183e6c Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Sun, 18 Jun 2017 09:52:40 +0530
 Subject: [PATCH 310/525] ASoC: Intel: board: Add support for HDMI in cnl_rt274

@@ -1,4 +1,4 @@
-From 8fcf4831661dec1eb1e2702435ed989487fc163c Mon Sep 17 00:00:00 2001
+From 91cebef5ca3ba1516945304951823267923f87ab Mon Sep 17 00:00:00 2001
 From: "Liu, Xinwu" <xinwu.liu@intel.com>
 Date: Wed, 22 Mar 2017 07:52:26 +0000
 Subject: [PATCH 005/525] thermal/intel_powerclamp: Fix sched_setscheduler fail

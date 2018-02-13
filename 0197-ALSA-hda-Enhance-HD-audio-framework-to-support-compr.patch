@@ -1,4 +1,4 @@
-From e8d568d850541a1c9703a0e57f7aa2639a60a1dd Mon Sep 17 00:00:00 2001
+From 27c0d765e260975803ea50944246d4a4ea53680e Mon Sep 17 00:00:00 2001
 From: Divya Prakash <divya1.prakash@intel.com>
 Date: Thu, 7 Apr 2016 10:32:45 +0530
 Subject: [PATCH 197/525] ALSA: hda: Enhance HD audio framework to support

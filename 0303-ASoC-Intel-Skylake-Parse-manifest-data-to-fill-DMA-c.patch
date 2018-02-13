@@ -1,4 +1,4 @@
-From 08d4d7d7dec1dc97243c4a5f30149688709e7479 Mon Sep 17 00:00:00 2001
+From c7b4b9ff707542b46e8728d99763d19b067ede0a Mon Sep 17 00:00:00 2001
 From: "Kareem,Shaik" <kareem.m.shaik@intel.com>
 Date: Thu, 15 Jun 2017 13:25:09 +0530
 Subject: [PATCH 303/525] ASoC: Intel: Skylake: Parse manifest data to fill DMA

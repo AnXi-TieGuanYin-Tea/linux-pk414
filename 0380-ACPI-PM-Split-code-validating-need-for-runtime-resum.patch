@@ -1,4 +1,4 @@
-From a32241f59112b6bab9b5b22bcf69b5c6dfcfc63a Mon Sep 17 00:00:00 2001
+From fbd7147a2923babe1d520e32d38b521849a831d7 Mon Sep 17 00:00:00 2001
 From: Ulf Hansson <ulf.hansson@linaro.org>
 Date: Tue, 3 Oct 2017 09:11:08 +0200
 Subject: [PATCH 380/525] ACPI / PM: Split code validating need for runtime

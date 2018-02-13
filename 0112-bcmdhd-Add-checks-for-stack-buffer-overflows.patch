@@ -1,4 +1,4 @@
-From 3464a5d61e2bcee81f45effa450b1a8187570c04 Mon Sep 17 00:00:00 2001
+From 7e2ef2ea801ff9572c574607a7403e48b88c0e99 Mon Sep 17 00:00:00 2001
 From: dataanddreams <dataanddreams@gmail.com>
 Date: Fri, 21 Apr 2017 23:34:23 +0000
 Subject: [PATCH 112/525] bcmdhd: Add checks for stack buffer overflows

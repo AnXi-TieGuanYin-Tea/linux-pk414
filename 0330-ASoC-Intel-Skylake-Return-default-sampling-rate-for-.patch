@@ -1,4 +1,4 @@
-From fe4b64683ed6c2bbd4c488e61557f907b7a4a202 Mon Sep 17 00:00:00 2001
+From 026660a6824f7a624ed07692f760a8fa5d6c1088 Mon Sep 17 00:00:00 2001
 From: Imed BEN ROMDHANE <imedx.ben.romdhane@intel.com>
 Date: Tue, 12 Sep 2017 20:44:07 +0530
 Subject: [PATCH 330/525] ASoC: Intel: Skylake: Return default sampling rate

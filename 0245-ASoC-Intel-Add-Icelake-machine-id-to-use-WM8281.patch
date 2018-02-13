@@ -1,4 +1,4 @@
-From 1fd4f8200f3a062b692071fffdec348b2aefe6c1 Mon Sep 17 00:00:00 2001
+From 8e69e23e1454315f72b0e6c7fd65e84b051a8e44 Mon Sep 17 00:00:00 2001
 From: "Pawse, GuruprasadX" <guruprasadx.pawse@intel.com>
 Date: Wed, 11 Jan 2017 18:43:31 +0530
 Subject: [PATCH 245/525] ASoC: Intel: Add Icelake machine id to use WM8281

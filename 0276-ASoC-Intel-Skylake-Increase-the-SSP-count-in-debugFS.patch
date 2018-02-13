@@ -1,4 +1,4 @@
-From 5673d37e5ff51fb8bcb22a75ed78ae3a965948da Mon Sep 17 00:00:00 2001
+From ad80fcb85a871c9d34ee8ebb1864fd02135136c0 Mon Sep 17 00:00:00 2001
 From: Ramesh Babu <ramesh.babu@intel.com>
 Date: Fri, 9 Oct 2015 01:31:44 +0530
 Subject: [PATCH 276/525] ASoC: Intel: Skylake: Increase the SSP count in

@@ -1,4 +1,4 @@
-From d2e9cdd5f8a93b73e5ac0c94af85d80eea6d468c Mon Sep 17 00:00:00 2001
+From 46a8fbd03399abbeeba80efa86ef9402e8516e89 Mon Sep 17 00:00:00 2001
 From: Hao Li <hao.l.li@intel.com>
 Date: Thu, 25 Jan 2018 08:15:45 -0500
 Subject: [PATCH 518/525] VHM/VBS-K: only notify target vcpu for ioreq

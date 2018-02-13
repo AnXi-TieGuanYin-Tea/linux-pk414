@@ -1,4 +1,4 @@
-From b0576f594bb8ddc83fc5a2d1a65ad1874af4283d Mon Sep 17 00:00:00 2001
+From 41312311f6ea16f98d11041db91b16838efb7e92 Mon Sep 17 00:00:00 2001
 From: "Li, Fei1" <fei1.li@intel.com>
 Date: Tue, 23 Jan 2018 00:47:29 +0800
 Subject: [PATCH 522/525] HVLog: reserve memory for CWP HVLog

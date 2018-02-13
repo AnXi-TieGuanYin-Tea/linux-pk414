@@ -1,4 +1,4 @@
-From e90b6c9f758fcd6bb36cc09debe297291a20d3a7 Mon Sep 17 00:00:00 2001
+From f02736d4f10c0c27f37e39d88284705125d206cc Mon Sep 17 00:00:00 2001
 From: Kareem Shaik <kareem.m.shaik@intel.com>
 Date: Tue, 31 Oct 2017 15:44:52 +0530
 Subject: [PATCH 344/525] ASoC: Intel: Skylake: Return default sampling rate

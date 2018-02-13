@@ -1,4 +1,4 @@
-From 41daa0a0e7f5694a0c9241504259a22f8a4a057b Mon Sep 17 00:00:00 2001
+From 7a78ff680c41e03a1507687086c3863e063a807d Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Tue, 23 Jan 2018 22:27:08 +0800
 Subject: [PATCH 516/525] VHM: replace function name update_mmio_map with

@@ -1,4 +1,4 @@
-From 9b9f6303060121d1b19285ed82756c740912ed8e Mon Sep 17 00:00:00 2001
+From 2369db7bb7525f36c2efeab727463ee6e1c778b5 Mon Sep 17 00:00:00 2001
 From: Mousumi Jana <mousumix.jana@intel.com>
 Date: Wed, 25 Nov 2015 22:52:40 +0530
 Subject: [PATCH 221/525] ASoC: Intel: Skylake: generic IPC message support

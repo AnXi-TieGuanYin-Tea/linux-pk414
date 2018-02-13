@@ -1,4 +1,4 @@
-From 6ad97b6addb09acd05df6361fcb9672bc3677287 Mon Sep 17 00:00:00 2001
+From 10586bbdfde56cd393820eb4ebfc0a825b03ea09 Mon Sep 17 00:00:00 2001
 From: Dietmar Eggemann <dietmar.eggemann@arm.com>
 Date: Tue, 26 Sep 2017 17:41:14 +0100
 Subject: [PATCH 358/525] arm64: wire frequency-invariant accounting support up

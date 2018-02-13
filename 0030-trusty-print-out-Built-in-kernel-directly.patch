@@ -1,4 +1,4 @@
-From 778b06dade71506186d7f9c1586e2d1e319da7d1 Mon Sep 17 00:00:00 2001
+From 4a71d758402bfeddffe5742ab9c2f3eb047d2a68 Mon Sep 17 00:00:00 2001
 From: "Yan, Shaoou" <shaopu.yan@intel.com>
 Date: Thu, 8 Dec 2016 04:58:55 +0000
 Subject: [PATCH 030/525] trusty: print out "Built: " in kernel directly.

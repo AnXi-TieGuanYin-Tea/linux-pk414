@@ -1,4 +1,4 @@
-From 3da0d3ad9dc5cf37e3bf0d756a7f617b1920ec77 Mon Sep 17 00:00:00 2001
+From 3f1e1fe80805d5d458bc3e78c9a7d303376732d5 Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Wed, 6 Dec 2017 09:26:03 +0800
 Subject: [PATCH 406/525] net:bcmdhd: fix depencency of CONFIG_PM and

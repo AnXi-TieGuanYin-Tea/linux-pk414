@@ -1,4 +1,4 @@
-From 59747f544966fd269e38f8c634338e82aa5012d0 Mon Sep 17 00:00:00 2001
+From f08a58bb521240cbd12e983d9a7335cb6b3d7a73 Mon Sep 17 00:00:00 2001
 From: Brahim Abes <brahimx.abes@intel.com>
 Date: Thu, 4 Jan 2018 21:51:33 +0800
 Subject: [PATCH 496/525] drm/915/gvt: Add new trace point to output per domain

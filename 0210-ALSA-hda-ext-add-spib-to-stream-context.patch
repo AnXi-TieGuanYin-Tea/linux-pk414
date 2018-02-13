@@ -1,4 +1,4 @@
-From 1041bad1ca76b54550f2c72b7a898f033f8dfbdf Mon Sep 17 00:00:00 2001
+From 4b1e77e4e80b847ce7686431f486746eadabf1a1 Mon Sep 17 00:00:00 2001
 From: Ramesh Babu <ramesh.babu@intel.com>
 Date: Mon, 6 Jun 2016 13:13:15 +0530
 Subject: [PATCH 210/525] ALSA: hda: ext: add spib to stream context.

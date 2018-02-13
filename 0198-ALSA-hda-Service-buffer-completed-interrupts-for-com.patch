@@ -1,4 +1,4 @@
-From 7c0ddc991c4583694dc326fd218e91d30a822f57 Mon Sep 17 00:00:00 2001
+From 648f2f7187d95f2588892b95dcc2a7c8509825f6 Mon Sep 17 00:00:00 2001
 From: Divya Prakash <divya1.prakash@intel.com>
 Date: Wed, 20 Apr 2016 10:04:07 +0530
 Subject: [PATCH 198/525] ALSA: hda: Service buffer completed interrupts for

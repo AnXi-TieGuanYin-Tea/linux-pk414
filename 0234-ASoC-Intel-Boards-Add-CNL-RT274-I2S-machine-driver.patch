@@ -1,4 +1,4 @@
-From 3339bb60f47b11f67176b9eb05a7420bde1261b0 Mon Sep 17 00:00:00 2001
+From 2ce4886beb12198a7d8c8db77250f57e06397275 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Wed, 23 Nov 2016 19:05:46 +0530
 Subject: [PATCH 234/525] ASoC: Intel: Boards: Add CNL RT274 I2S machine driver

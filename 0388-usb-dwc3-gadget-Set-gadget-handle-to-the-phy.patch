@@ -1,4 +1,4 @@
-From 34fe4ea905b2d24182899517ec27baace117e7cc Mon Sep 17 00:00:00 2001
+From 4587cef8a6e8e27d59e2f0532c1b713b6944163b Mon Sep 17 00:00:00 2001
 From: Sathyanarayanan Kuppuswamy <sathyanarayanan.kuppuswamy@intel.com>
 Date: Tue, 2 May 2017 17:13:46 -0700
 Subject: [PATCH 388/525] usb: dwc3: gadget: Set gadget handle to the phy

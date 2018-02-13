@@ -1,4 +1,4 @@
-From e20f0fc4f9cc27b094f91082cdb635caf440caf5 Mon Sep 17 00:00:00 2001
+From 9dcb52edfc1a84ae522dbd24a620ad0b4d3e810d Mon Sep 17 00:00:00 2001
 From: "Zhu, Bing" <bing.zhu@intel.com>
 Date: Fri, 15 Jul 2016 13:24:42 +0800
 Subject: [PATCH 026/525] trusty: implement trusty OS timer proxy for

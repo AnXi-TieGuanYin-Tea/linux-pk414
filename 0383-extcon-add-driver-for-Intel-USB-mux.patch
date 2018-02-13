@@ -1,4 +1,4 @@
-From 57036f8415f685b2796059cdb7d89a86f749298a Mon Sep 17 00:00:00 2001
+From 3bb749328042c0ac07ec8ed83c81f9eeb52c439f Mon Sep 17 00:00:00 2001
 From: Heikki Krogerus <heikki.krogerus@linux.intel.com>
 Date: Fri, 5 Jun 2015 14:49:56 +0300
 Subject: [PATCH 383/525] extcon: add driver for Intel USB mux

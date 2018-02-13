@@ -1,4 +1,4 @@
-From cf550931abbb46a310428daa357f97562db09d2a Mon Sep 17 00:00:00 2001
+From 37015d8299148e5689566d09491c77eb191357eb Mon Sep 17 00:00:00 2001
 From: "Li, Fei1" <fei1.li@intel.com>
 Date: Wed, 24 Jan 2018 00:11:37 +0800
 Subject: [PATCH 523/525] HVLog: add HVLog module

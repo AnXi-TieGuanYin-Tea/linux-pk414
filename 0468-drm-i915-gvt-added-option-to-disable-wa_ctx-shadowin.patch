@@ -1,4 +1,4 @@
-From 2f527f6dd6c127c1399abd3069c6af31cff167a4 Mon Sep 17 00:00:00 2001
+From b8bb4711f5c4e65dd94ea0701974625819ffb1b0 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Wed, 3 May 2017 11:16:42 +0800
 Subject: [PATCH 468/525] drm/i915/gvt: added option to disable wa_ctx

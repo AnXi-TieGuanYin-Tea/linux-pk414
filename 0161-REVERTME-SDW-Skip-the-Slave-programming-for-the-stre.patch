@@ -1,4 +1,4 @@
-From 1dc034a0e8ebca0e5c5768288aa06e5c242394f5 Mon Sep 17 00:00:00 2001
+From a66cd3cf523181e79a460d2643ef9006bf3524a3 Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Sun, 1 May 2016 18:13:41 +0530
 Subject: [PATCH 161/525] REVERTME:SDW: Skip the Slave programming for the

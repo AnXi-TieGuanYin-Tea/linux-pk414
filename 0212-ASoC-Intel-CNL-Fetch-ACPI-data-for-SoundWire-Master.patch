@@ -1,4 +1,4 @@
-From ee8ff19d71dca5f683e45a2b847ee8c593332dfd Mon Sep 17 00:00:00 2001
+From d1b8870c8a871c59a1f03686fe34176810a392a2 Mon Sep 17 00:00:00 2001
 From: Anil Bhawangirkar <anil.k.bhawangirkar@intel.com>
 Date: Wed, 17 Aug 2016 12:19:51 +0530
 Subject: [PATCH 212/525] ASoC: Intel: CNL: Fetch ACPI data for SoundWire

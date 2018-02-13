@@ -1,4 +1,4 @@
-From bf91ad412d3ae5663f29852ae274933339940581 Mon Sep 17 00:00:00 2001
+From 84b3456bbe186c9f7800a433afced1d329025b82 Mon Sep 17 00:00:00 2001
 From: Edwin Zhai <edwin.zhai@intel.com>
 Date: Mon, 15 Jan 2018 19:43:21 +0800
 Subject: [PATCH 507/525] vhm: cleanup ioctls

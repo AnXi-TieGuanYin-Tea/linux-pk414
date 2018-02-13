@@ -1,4 +1,4 @@
-From f925d43387b6c5637c7994e3ac6aa0fbf83f47cb Mon Sep 17 00:00:00 2001
+From 3462acf78b884ef614bc97a9060c895999ca89f6 Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Wed, 6 Sep 2017 14:04:56 +0530
 Subject: [PATCH 336/525] ASoC: Intel: Skylake: Check for word_length_buffer

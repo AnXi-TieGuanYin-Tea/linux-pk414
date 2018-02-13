@@ -1,4 +1,4 @@
-From d20caf04d8e62cbb206e98b278969509ccdc0a09 Mon Sep 17 00:00:00 2001
+From 0853ce933895bd6807e0021281d2731568bdf065 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Wed, 7 Jun 2017 17:50:32 -0700
 Subject: [PATCH 052/525] uprobes/x86: Use existing definitions for segment

@@ -1,4 +1,4 @@
-From 260646119b5a6f86d926f6d482d29d01e77a7c53 Mon Sep 17 00:00:00 2001
+From 65fec8652cbf01b2ae99caf329110b0cdd350c7d Mon Sep 17 00:00:00 2001
 From: Omair M Abdullah <omair.m.abdullah@intel.com>
 Date: Tue, 15 Sep 2015 17:46:57 +0530
 Subject: [PATCH 178/525] ASoC: Intel: Skylake: add ssp blob override support

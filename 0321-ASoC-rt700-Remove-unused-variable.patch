@@ -1,4 +1,4 @@
-From 4447eadfca5159d473d25e70630ee0188a59d849 Mon Sep 17 00:00:00 2001
+From 3114749d7ab10b57618263ee3f0b74e7f2db6384 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 7 Sep 2017 09:56:44 +0530
 Subject: [PATCH 321/525] ASoC: rt700: Remove unused variable

@@ -1,4 +1,4 @@
-From ff065450f6c8e23d27e347e53bd2c4364b35c500 Mon Sep 17 00:00:00 2001
+From 08f27cc0cd66fefc35731b938117564b5ba92072 Mon Sep 17 00:00:00 2001
 From: Mousumi Jana <mousumix.jana@intel.com>
 Date: Sun, 8 Nov 2015 19:12:28 +0530
 Subject: [PATCH 220/525] ASoC: Intel: Skylake:fix for large get config api

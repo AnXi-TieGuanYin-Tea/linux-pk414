@@ -1,4 +1,4 @@
-From 484aba435d0e1e03b9a99a9a1f28908cae06e0da Mon Sep 17 00:00:00 2001
+From 6b1f46596af55f6a03360cef49d2b668793bd56d Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Sun, 1 Feb 2015 10:17:24 +0200
 Subject: [PATCH 094/525] rpmb: add Replay Protected Memory Block (RPMB)

@@ -1,4 +1,4 @@
-From da3ca9b8c93d83feabc8ad4294ff5a3ee6cf2223 Mon Sep 17 00:00:00 2001
+From 6078b81c1fca8198a9eee480bdf3e95feedc53a0 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Fri, 5 Aug 2016 16:35:34 +0530
 Subject: [PATCH 195/525] ASoC: Intel: Aggregation fixes for masters other than

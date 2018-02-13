@@ -1,4 +1,4 @@
-From 0fdb201ae703a97e7e088a094f74decfe16d40a2 Mon Sep 17 00:00:00 2001
+From 6c9ce8feff4020a900edd8eeffd3bec307177a91 Mon Sep 17 00:00:00 2001
 From: Bob Moore <robert.moore@intel.com>
 Date: Wed, 20 Sep 2017 10:01:02 +0800
 Subject: [PATCH 375/525] ACPICA: Update version to 20170831

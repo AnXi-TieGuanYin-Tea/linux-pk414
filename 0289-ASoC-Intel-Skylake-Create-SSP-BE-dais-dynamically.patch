@@ -1,4 +1,4 @@
-From 39876f107180eff909c2d4482de978f574d214e2 Mon Sep 17 00:00:00 2001
+From 8decee80b07949e7fa11fd3eb6dcd6d2b8e877d6 Mon Sep 17 00:00:00 2001
 From: "Diwakar, Praveen" <praveen.diwakar@intel.com>
 Date: Tue, 6 Jun 2017 21:04:21 +0530
 Subject: [PATCH 289/525] ASoC: Intel: Skylake: Create SSP BE dais dynamically

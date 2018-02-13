@@ -1,4 +1,4 @@
-From af66fd7927c5ba6194efb04012d948896ac127e1 Mon Sep 17 00:00:00 2001
+From 31a767c2ce04afb806ebe6b2e056532344359298 Mon Sep 17 00:00:00 2001
 From: Patrick Tjin <pattjin@google.com>
 Date: Fri, 21 Apr 2017 23:34:24 +0000
 Subject: [PATCH 113/525] net: wireless: bcmdhd: Do not print out device name

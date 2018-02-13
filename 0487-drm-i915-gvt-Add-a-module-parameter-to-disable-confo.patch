@@ -1,4 +1,4 @@
-From 4c46c23809cab684c2d32cb283294d85dd910eb6 Mon Sep 17 00:00:00 2001
+From ed3543993d76d349a328414ba60be6ade19b5848 Mon Sep 17 00:00:00 2001
 From: Ping Gao <ping.a.gao@intel.com>
 Date: Wed, 6 Sep 2017 19:57:57 +0800
 Subject: [PATCH 487/525] drm/i915/gvt: Add a module parameter to disable

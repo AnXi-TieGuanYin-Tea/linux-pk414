@@ -1,4 +1,4 @@
-From 7f423c7c9cff8c9a71b316cc327c70b9ceee70aa Mon Sep 17 00:00:00 2001
+From c1a215a2308875e1b9b3d950576910ec6cb1ad70 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Tue, 4 Apr 2017 08:34:51 +0530
 Subject: [PATCH 280/525] ASoC: Intel: board: Move cnl_rt274 clock setting to

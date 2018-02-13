@@ -1,4 +1,4 @@
-From da2685c9320b3c7ba8dbeee85b8708b7e79bf855 Mon Sep 17 00:00:00 2001
+From aca57df0ef92ca569dcfd790cd9e8a454262276d Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Mon, 5 Jun 2017 08:12:04 +0800
 Subject: [PATCH 119/525] Fix compile error when CONFIG_PM is not set

@@ -1,4 +1,4 @@
-From 2c356ff70c06ad7a27a07e7d68ded5cd0e64edf7 Mon Sep 17 00:00:00 2001
+From 5b7517b97f2365f2888a935bf9e6e60f15998050 Mon Sep 17 00:00:00 2001
 From: Divya Prakash <divya1.prakash@intel.com>
 Date: Sun, 10 Apr 2016 13:36:16 +0530
 Subject: [PATCH 199/525] ASoC: Intel: Add delete module IPC

@@ -1,4 +1,4 @@
-From d62ecba2b0102d80b6e24fff1d5ad2b8cbcec9a6 Mon Sep 17 00:00:00 2001
+From 3274cb143e2fb63817c6e62e804112fe1726997b Mon Sep 17 00:00:00 2001
 From: Michael Byrne <michaelx.byrne@intel.com>
 Date: Wed, 25 Oct 2017 13:12:34 +0200
 Subject: [PATCH 460/525] drm/i915/gvt: i915 changes to allow DomU to support 3

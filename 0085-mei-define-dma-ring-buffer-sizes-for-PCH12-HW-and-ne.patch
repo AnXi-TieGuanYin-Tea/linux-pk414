@@ -1,4 +1,4 @@
-From 79e5000b97d0a1ece8309c35b748ebc89594551b Mon Sep 17 00:00:00 2001
+From b56267f1d11cd50278d0e239cdc7fe1e0878e73a Mon Sep 17 00:00:00 2001
 From: Alexander Usyskin <alexander.usyskin@intel.com>
 Date: Sun, 13 Nov 2016 10:17:48 +0200
 Subject: [PATCH 085/525] mei: define dma ring buffer sizes for PCH12 HW and

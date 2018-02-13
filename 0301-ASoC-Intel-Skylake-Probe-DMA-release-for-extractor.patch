@@ -1,4 +1,4 @@
-From a5b9a5a15e43506f684e9896ea0a2cd5efb1da7f Mon Sep 17 00:00:00 2001
+From 591391b8347d764d9a37abd6f75f8241072022f3 Mon Sep 17 00:00:00 2001
 From: "Pawse, GuruprasadX" <guruprasadx.pawse@intel.com>
 Date: Tue, 2 Aug 2016 17:00:12 +0530
 Subject: [PATCH 301/525] ASoC: Intel: Skylake: Probe DMA release for extractor

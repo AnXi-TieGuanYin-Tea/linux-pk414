@@ -1,4 +1,4 @@
-From 4160599a3c3de4fa6652519ab03c8421bddbdf74 Mon Sep 17 00:00:00 2001
+From 08af9a73b304e454b6fcc0b4a3e01e61b044973f Mon Sep 17 00:00:00 2001
 From: Leoni Prodduvaka <leoni.prodduvaka@intel.com>
 Date: Mon, 6 Feb 2017 22:16:04 +0530
 Subject: [PATCH 264/525] ASoC: Intel: Skylake: Parse the fw property

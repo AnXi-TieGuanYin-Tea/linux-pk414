@@ -1,4 +1,4 @@
-From ee372cf9ceabd6aed6b381050059f3cc8bc6a33a Mon Sep 17 00:00:00 2001
+From f042db5367c44c6784798d199b179bc1ac7e688a Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Wed, 3 May 2017 11:32:41 -0700
 Subject: [PATCH 070/525] x86/insn-eval: Add support to resolve 16-bit

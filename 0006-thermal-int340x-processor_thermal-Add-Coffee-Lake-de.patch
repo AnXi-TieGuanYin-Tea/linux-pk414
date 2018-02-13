@@ -1,4 +1,4 @@
-From a00541c01f5a05de61427def82a4bc41b293bbaa Mon Sep 17 00:00:00 2001
+From 3fbc4060ba651a005dfb2124909a2b55c1930de9 Mon Sep 17 00:00:00 2001
 From: Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>
 Date: Wed, 21 Jun 2017 09:57:45 -0700
 Subject: [PATCH 006/525] thermal: int340x: processor_thermal: Add Coffee Lake

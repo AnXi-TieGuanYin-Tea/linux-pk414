@@ -1,4 +1,4 @@
-From 957b4d43f6dfd7c7efdcc36da5552d2adbdec035 Mon Sep 17 00:00:00 2001
+From 716d79e86e9d03d890601be37882ec419201a0a7 Mon Sep 17 00:00:00 2001
 From: "Panwar, Ashish" <ashish.panwar@intel.com>
 Date: Wed, 20 Jan 2016 19:09:05 +0530
 Subject: [PATCH 183/525] ASoC: Intel: Skylake: Driver ring buffer APIs for

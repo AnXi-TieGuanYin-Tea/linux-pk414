@@ -1,4 +1,4 @@
-From 9f63bcbdf6523c6bcb872be1cf445a647f977e13 Mon Sep 17 00:00:00 2001
+From 9f1321c670be7c078abf00c2167a20d0374e6c9d Mon Sep 17 00:00:00 2001
 From: "Pawse, GuruprasadX" <guruprasadx.pawse@intel.com>
 Date: Tue, 14 Jun 2016 16:37:20 +0530
 Subject: [PATCH 204/525] ASoC: Intel: Skylake:Probe-Increase the DMA buffer

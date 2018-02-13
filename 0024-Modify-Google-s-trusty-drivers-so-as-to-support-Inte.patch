@@ -1,4 +1,4 @@
-From 544457313691d4a638b3e35d360804e1ad0581f9 Mon Sep 17 00:00:00 2001
+From 5d24bf5745bbb7312a6cfa6f1e3a930957b8e890 Mon Sep 17 00:00:00 2001
 From: weideng <wei.a.deng@intel.com>
 Date: Fri, 28 Oct 2016 13:46:37 +0800
 Subject: [PATCH 024/525] Modify Google's trusty drivers so as to support Intel

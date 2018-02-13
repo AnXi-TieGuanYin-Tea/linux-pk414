@@ -1,4 +1,4 @@
-From 1cce25cca7ec13398bf389107e28a356d3335360 Mon Sep 17 00:00:00 2001
+From 0e9f9a8f0a934c7cd845c1d81ca5837ac603937e Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Mon, 18 Sep 2017 16:03:41 +0530
 Subject: [PATCH 339/525] ASoC: Intel: Skylake: Check for NHLT ACPI header

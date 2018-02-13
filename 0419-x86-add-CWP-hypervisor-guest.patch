@@ -1,4 +1,4 @@
-From c88a3f0846c80971cd29e6e48d991f027ad1a88a Mon Sep 17 00:00:00 2001
+From 3cf86d0159563d6d936f9d05a4fdc1c456631836 Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Tue, 26 Dec 2017 03:05:33 +0800
 Subject: [PATCH 419/525] x86: add CWP hypervisor guest

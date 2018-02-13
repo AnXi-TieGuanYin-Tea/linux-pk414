@@ -1,4 +1,4 @@
-From 502925fb6b2721904ba313d92d4658ec36cb50d3 Mon Sep 17 00:00:00 2001
+From 580e4cc4a1f538afdb3e02358b5c4f7c32954610 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Wed, 10 Jan 2018 05:55:30 +0800
 Subject: [PATCH 500/525] drm/i915/gvt: Fixed the building errors during

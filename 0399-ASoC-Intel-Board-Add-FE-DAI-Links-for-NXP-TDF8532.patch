@@ -1,4 +1,4 @@
-From c7a2d9a2a8af83c1cb51ac8edfffcb9a0487567b Mon Sep 17 00:00:00 2001
+From cb1b30d28828c130167749ab1375c5e6347e78d7 Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Mon, 10 Jul 2017 14:23:27 +0530
 Subject: [PATCH 399/525] ASoC: Intel: Board: Add FE DAI Links for NXP TDF8532

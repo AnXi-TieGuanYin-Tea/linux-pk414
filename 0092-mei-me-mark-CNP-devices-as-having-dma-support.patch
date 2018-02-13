@@ -1,4 +1,4 @@
-From c5d978a5f409bd5c5a46170d802731332b6a7246 Mon Sep 17 00:00:00 2001
+From aed0360aa7f7e48bb356aa8be34b5477498f197b Mon Sep 17 00:00:00 2001
 From: Alexander Usyskin <alexander.usyskin@intel.com>
 Date: Thu, 17 Nov 2016 13:00:41 +0200
 Subject: [PATCH 092/525] mei: me: mark CNP devices as having dma support
@@ -11,7 +11,7 @@ Signed-off-by: Tomas Winkler <tomas.winkler@intel.com>
  1 file changed, 2 insertions(+), 2 deletions(-)
 
 diff --git a/drivers/misc/mei/pci-me.c b/drivers/misc/mei/pci-me.c
-index 17f13c745dc4..48007197063d 100644
+index e1ae3a16a36a..3fd715b615a5 100644
 --- a/drivers/misc/mei/pci-me.c
 +++ b/drivers/misc/mei/pci-me.c
 @@ -99,10 +99,10 @@ static const struct pci_device_id mei_me_pci_tbl[] = {

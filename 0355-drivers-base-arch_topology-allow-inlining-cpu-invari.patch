@@ -1,4 +1,4 @@
-From d240c57ead25857582435bfaed12380ae3a1654d Mon Sep 17 00:00:00 2001
+From 236db9f98a7c265545488024fb431db061b06412 Mon Sep 17 00:00:00 2001
 From: Dietmar Eggemann <dietmar.eggemann@arm.com>
 Date: Tue, 26 Sep 2017 17:41:11 +0100
 Subject: [PATCH 355/525] drivers base/arch_topology: allow inlining

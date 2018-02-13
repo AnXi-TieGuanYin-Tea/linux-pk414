@@ -1,4 +1,4 @@
-From 0ecaa2a0624d22528d727e0b23c7d77d7f515b02 Mon Sep 17 00:00:00 2001
+From 1cd5d4b77b8df9351a100373c514eac9414d6c49 Mon Sep 17 00:00:00 2001
 From: "Li, Fei1" <fei1.li@intel.com>
 Date: Fri, 12 Jan 2018 23:00:23 +0800
 Subject: [PATCH 504/525] Shared_buf: added hypercall for shared_buf setup

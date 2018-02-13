@@ -1,4 +1,4 @@
-From 7c355fac9d51d6a1bc0d3574918c3f990b2645bb Mon Sep 17 00:00:00 2001
+From d5a967c0546fc9f2bd56aaa55b7402c88d4f6446 Mon Sep 17 00:00:00 2001
 From: Bob Moore <robert.moore@intel.com>
 Date: Wed, 20 Sep 2017 10:00:43 +0800
 Subject: [PATCH 372/525] ACPICA: String conversions: Cleanup/format comments.

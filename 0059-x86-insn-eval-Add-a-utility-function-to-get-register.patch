@@ -1,4 +1,4 @@
-From 548841e4e848e7d34df6f2b1ed6e0e9ef83f3334 Mon Sep 17 00:00:00 2001
+From f0d8499ce5aa2baeba5a6a6bedab978d8b2b34de Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Tue, 3 Jan 2017 17:13:30 -0800
 Subject: [PATCH 059/525] x86/insn-eval: Add a utility function to get register

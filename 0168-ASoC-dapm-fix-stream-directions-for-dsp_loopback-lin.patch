@@ -1,4 +1,4 @@
-From 3df12cf71cb9eab7205a7ea684e4bad1789118a0 Mon Sep 17 00:00:00 2001
+From 64e679f0814123b0da65e8e46a7933ab5190b277 Mon Sep 17 00:00:00 2001
 From: Omair M Abdullah <omair.m.abdullah@intel.com>
 Date: Fri, 18 Sep 2015 20:23:30 +0530
 Subject: [PATCH 168/525] ASoC: dapm: fix stream directions for dsp_loopback

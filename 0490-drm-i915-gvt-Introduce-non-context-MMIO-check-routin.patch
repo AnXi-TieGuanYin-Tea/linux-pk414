@@ -1,4 +1,4 @@
-From 20c42a3740b106d5605a50ff8dc64fb5f7377c56 Mon Sep 17 00:00:00 2001
+From ea11019030e4fe176de612afa9c115a9a3cbf8e5 Mon Sep 17 00:00:00 2001
 From: Ping Gao <ping.a.gao@intel.com>
 Date: Thu, 31 Aug 2017 10:45:05 +0800
 Subject: [PATCH 490/525] drm/i915/gvt: Introduce non-context MMIO check

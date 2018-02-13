@@ -1,4 +1,4 @@
-From 3578b9463eddadee9511a76afaaa94efa93a61b3 Mon Sep 17 00:00:00 2001
+From 5909ffba5146d3133ae28082d7073958e55c1c18 Mon Sep 17 00:00:00 2001
 From: Masahiro Yamada <yamada.masahiro@socionext.com>
 Date: Wed, 30 Aug 2017 00:37:03 +0900
 Subject: [PATCH 362/525] cpufreq: dt-platdev: drop socionext,uniphier-ld6b

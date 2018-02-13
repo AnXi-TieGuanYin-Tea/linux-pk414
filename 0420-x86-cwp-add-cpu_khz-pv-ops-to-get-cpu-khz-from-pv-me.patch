@@ -1,4 +1,4 @@
-From 0a7e7d9897d79b7649471b34a3da780041d2a06f Mon Sep 17 00:00:00 2001
+From 385b75f68bb2070043fe42c37699656c46201866 Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Tue, 26 Dec 2017 03:22:14 +0800
 Subject: [PATCH 420/525] x86:cwp: add cpu_khz pv ops to get cpu khz from pv

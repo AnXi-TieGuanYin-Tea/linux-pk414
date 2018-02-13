@@ -1,4 +1,4 @@
-From 83075eb0ddfba345dd3ae734c4b3ca19f9cb8479 Mon Sep 17 00:00:00 2001
+From b41f7037f3803f53a9956d4c0a07db38300542ba Mon Sep 17 00:00:00 2001
 From: Dharageswari R <dharageswari.r@intel.com>
 Date: Sun, 13 Mar 2016 22:22:47 +0530
 Subject: [PATCH 243/525] ASoC: Intel: board: Enable deepbuffer capture in

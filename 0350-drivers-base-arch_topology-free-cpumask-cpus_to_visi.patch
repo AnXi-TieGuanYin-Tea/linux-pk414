@@ -1,4 +1,4 @@
-From 51fadb136aec61cac47a198109c7367cf2919d98 Mon Sep 17 00:00:00 2001
+From 6714b1ed2cefd080cb1c9fbad3f649f7a99ef405 Mon Sep 17 00:00:00 2001
 From: Dietmar Eggemann <dietmar.eggemann@arm.com>
 Date: Tue, 26 Sep 2017 17:41:06 +0100
 Subject: [PATCH 350/525] drivers base/arch_topology: free cpumask

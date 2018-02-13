@@ -1,4 +1,4 @@
-From 088a63e1831cc711754359d8f59c5c74aa1d2cb0 Mon Sep 17 00:00:00 2001
+From 7aad31f4a0e00592fe62f1fade7497f7878a811f Mon Sep 17 00:00:00 2001
 From: Alexander Usyskin <alexander.usyskin@intel.com>
 Date: Sun, 2 Aug 2015 14:16:40 +0300
 Subject: [PATCH 078/525] mei: me: add cannon point device ids
@@ -31,7 +31,7 @@ index 0ccccbaf530d..32f56bb24022 100644
   * MEI HW Section
   */
 diff --git a/drivers/misc/mei/pci-me.c b/drivers/misc/mei/pci-me.c
-index 78b3172c8e6e..ddccf83562d8 100644
+index d46cb1f0868f..7071ec314d3a 100644
 --- a/drivers/misc/mei/pci-me.c
 +++ b/drivers/misc/mei/pci-me.c
 @@ -98,6 +98,11 @@ static const struct pci_device_id mei_me_pci_tbl[] = {

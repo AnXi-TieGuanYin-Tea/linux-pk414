@@ -1,4 +1,4 @@
-From 51dc897da2f3c8ea1f2e0af98434117abefc459e Mon Sep 17 00:00:00 2001
+From 4a12a7016039c1434456c3bfa449a72bb4611db7 Mon Sep 17 00:00:00 2001
 From: Patrick Tjin <pattjin@google.com>
 Date: Fri, 21 Apr 2017 23:34:25 +0000
 Subject: [PATCH 114/525] net: wireless: bcmdhd: check packet length for event

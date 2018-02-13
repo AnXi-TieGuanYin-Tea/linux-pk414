@@ -1,4 +1,4 @@
-From 0f481eda952da3b22fb8a0e62eb67c71ad477563 Mon Sep 17 00:00:00 2001
+From 7ac172dfea17c08a0b205ff95d2839f6e213f9fa Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Wed, 24 Feb 2016 17:04:30 +0530
 Subject: [PATCH 274/525] ASoC: Intel: Skylake: Support Pipeline Properties IPC

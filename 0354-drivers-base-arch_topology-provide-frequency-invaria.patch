@@ -1,4 +1,4 @@
-From f309102e35a050a8fef3a4625ebe828f9142bcce Mon Sep 17 00:00:00 2001
+From 52e116c469de3e6a0da3f935ac1562cb9205695e Mon Sep 17 00:00:00 2001
 From: Dietmar Eggemann <dietmar.eggemann@arm.com>
 Date: Tue, 26 Sep 2017 17:41:10 +0100
 Subject: [PATCH 354/525] drivers base/arch_topology: provide

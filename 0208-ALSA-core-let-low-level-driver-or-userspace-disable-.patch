@@ -1,4 +1,4 @@
-From 176eaf2cc2778c5d60614456bfec40a2378e49e1 Mon Sep 17 00:00:00 2001
+From c2099d73c8f083a772fb3b767a00127a9fd93605 Mon Sep 17 00:00:00 2001
 From: Pierre-Louis Bossart <pierre-louis.bossart@linux.intel.com>
 Date: Tue, 17 May 2016 14:00:15 +0530
 Subject: [PATCH 208/525] ALSA: core: let low-level driver or userspace disable

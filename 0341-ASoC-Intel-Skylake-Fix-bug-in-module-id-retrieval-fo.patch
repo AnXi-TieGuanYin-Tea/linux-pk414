@@ -1,4 +1,4 @@
-From 2df6716962a56f4227707d20635746727868cb76 Mon Sep 17 00:00:00 2001
+From e36a8824537d3a842743d555805f651ed58b80b1 Mon Sep 17 00:00:00 2001
 From: "Mallikarjun, chippalkatti" <mallikarjunx.chippalkatti@intel.com>
 Date: Mon, 19 Jun 2017 09:33:05 +0530
 Subject: [PATCH 341/525] ASoC: Intel: Skylake: Fix bug in module id retrieval

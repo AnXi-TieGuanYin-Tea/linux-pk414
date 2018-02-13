@@ -1,4 +1,4 @@
-From 92c15cfc9f24013b22ec3eaf1c7d400c31273bf0 Mon Sep 17 00:00:00 2001
+From 452c19392ddbf3ad717562b6debb84a584708cb8 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Wed, 16 Aug 2017 17:51:05 -0700
 Subject: [PATCH 067/525] x86/insn-eval: Add support to resolve 32-bit address

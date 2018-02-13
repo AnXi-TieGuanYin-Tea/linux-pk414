@@ -1,4 +1,4 @@
-From 36af9ba1ebe9802378805dca156e786483a8fe90 Mon Sep 17 00:00:00 2001
+From 4341205ae862c25533df3b4360055387c9646736 Mon Sep 17 00:00:00 2001
 From: Pradeep Tewani <pradeep.d.tewani@intel.com>
 Date: Thu, 26 Oct 2017 20:22:58 +0530
 Subject: [PATCH 345/525] ASoC: Intel: Skylake: Parse vendor tokens to build

@@ -1,4 +1,4 @@
-From 345ac1198dda8353e36e2d9272128bbf4ddc4037 Mon Sep 17 00:00:00 2001
+From f76c63cb9e9280ff7c32909635727d11f989717b Mon Sep 17 00:00:00 2001
 From: Pramod Kumar Yadav <pramodx.k.yadav@intel.com>
 Date: Tue, 26 Apr 2016 15:49:45 +0530
 Subject: [PATCH 299/525] ASoC: Intel: Board: DAI links for probe in APL

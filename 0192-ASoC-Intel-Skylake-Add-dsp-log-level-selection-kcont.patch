@@ -1,4 +1,4 @@
-From 06094232ae3fc91c6e81d68b4daad64e9394380e Mon Sep 17 00:00:00 2001
+From 43e93f90fd174daf3a6047e8298576e48ac6e127 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Wed, 5 Jul 2017 14:30:41 +0530
 Subject: [PATCH 192/525] ASoC: Intel: Skylake: Add dsp log level selection

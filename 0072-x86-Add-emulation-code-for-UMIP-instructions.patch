@@ -1,4 +1,4 @@
-From 40b00bc0883ae53bd287b0a527a0c442b5a3f830 Mon Sep 17 00:00:00 2001
+From 6de595851208cb0d97b09092fd6ac73ad0a6bd18 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Thu, 22 Dec 2016 12:20:59 -0800
 Subject: [PATCH 072/525] x86: Add emulation code for UMIP instructions

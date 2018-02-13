@@ -1,4 +1,4 @@
-From 6860f01c7a3b62f6b4dac087552a9f6f582981a8 Mon Sep 17 00:00:00 2001
+From adc2649bc95a7c968414b3ab6f789463fbbd9cb6 Mon Sep 17 00:00:00 2001
 From: Hao Li <hao.l.li@intel.com>
 Date: Thu, 25 Jan 2018 10:12:26 -0500
 Subject: [PATCH 519/525] VBS-K: added VHM wrapper APIs

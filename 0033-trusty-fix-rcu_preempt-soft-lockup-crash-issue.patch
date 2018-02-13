@@ -1,4 +1,4 @@
-From 33f14d8a4f2d86e9cf02cdd77ea291c558048d17 Mon Sep 17 00:00:00 2001
+From c6d8ea38d7c1ceeda4561f8dd48d2f03053afeea Mon Sep 17 00:00:00 2001
 From: "Yan, Shaoou" <shaopu.yan@intel.com>
 Date: Fri, 9 Dec 2016 05:33:22 +0000
 Subject: [PATCH 033/525] trusty: fix rcu_preempt soft lockup crash issue

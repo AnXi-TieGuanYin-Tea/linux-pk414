@@ -1,4 +1,4 @@
-From 13a2d5f835a00057d18a6f1a6c27a19efb7fae15 Mon Sep 17 00:00:00 2001
+From 44c6fd22af95a761a494f1a18eb238702f736e9e Mon Sep 17 00:00:00 2001
 From: "Panwar, Ashish" <ashish.panwar@intel.com>
 Date: Fri, 4 Mar 2016 11:14:28 +0530
 Subject: [PATCH 187/525] ASoC: Intel: Skylake: Wake up any potential reader

@@ -1,4 +1,4 @@
-From 40fb5854c1d12dba554af45b55f9df03d5057072 Mon Sep 17 00:00:00 2001
+From 605ed982519d844604deb663b98c5c7105f24bd5 Mon Sep 17 00:00:00 2001
 From: Edwin Zhai <edwin.zhai@intel.com>
 Date: Wed, 10 Jan 2018 18:37:57 +0800
 Subject: [PATCH 442/525] ioctl: cleanup ioctl structure

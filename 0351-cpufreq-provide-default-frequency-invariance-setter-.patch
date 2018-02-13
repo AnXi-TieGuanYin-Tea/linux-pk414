@@ -1,4 +1,4 @@
-From 62e6b8f19bb5dd4234122263aa63c6147693d0fa Mon Sep 17 00:00:00 2001
+From 5ab040f61ba30d645470b4091aef8245e5ae50b1 Mon Sep 17 00:00:00 2001
 From: Dietmar Eggemann <dietmar.eggemann@arm.com>
 Date: Tue, 26 Sep 2017 17:41:07 +0100
 Subject: [PATCH 351/525] cpufreq: provide default frequency-invariance setter

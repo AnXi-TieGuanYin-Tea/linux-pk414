@@ -1,4 +1,4 @@
-From acb5c7f17ac70a4b826ac613742aa3eb3848c632 Mon Sep 17 00:00:00 2001
+From c4b8f8a03424b3a0d50b65fb17ec66a10f0f1169 Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Arve=20Hj=C3=B8nnev=C3=A5g?= <arve@android.com>
 Date: Thu, 11 Jun 2015 19:34:28 -0700
 Subject: [PATCH 019/525] trusty: Select api version

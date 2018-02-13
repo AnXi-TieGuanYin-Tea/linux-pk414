@@ -1,4 +1,4 @@
-From a6498a08df9b0b7896459308fd528bb2d136f39d Mon Sep 17 00:00:00 2001
+From e4504c0712aea8e7b97293016a9874bc78477032 Mon Sep 17 00:00:00 2001
 From: Pei Zhang <pei.zhang@intel.com>
 Date: Sat, 10 Jun 2017 01:09:32 +0800
 Subject: [PATCH 472/525] drm/i915/gvt: implement pvmmio in GVTg

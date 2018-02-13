@@ -1,4 +1,4 @@
-From ae7cec029c7ab93365b1d42a735d9e130acfd325 Mon Sep 17 00:00:00 2001
+From dcb262ae60fc0cc4c8833488959169676dcf8055 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Wed, 17 Aug 2016 13:17:48 +0530
 Subject: [PATCH 171/525] ASoC: SKL: Fix ch_cfg when fixup is applied

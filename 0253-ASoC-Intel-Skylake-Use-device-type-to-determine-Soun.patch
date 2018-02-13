@@ -1,4 +1,4 @@
-From 85b5c629ba68f7e621c5c5537c47ede3695520c7 Mon Sep 17 00:00:00 2001
+From 74d76b2f05e104b4ae885becd926a107ef869ab1 Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Fri, 17 Feb 2017 12:08:49 +0530
 Subject: [PATCH 253/525] ASoC: Intel: Skylake: Use device type to determine

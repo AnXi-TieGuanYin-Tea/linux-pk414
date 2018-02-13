@@ -1,4 +1,4 @@
-From 6f2390076c6f1f091f4780279fe1c79c102ebf5b Mon Sep 17 00:00:00 2001
+From ee2591ea3d11e45d6ebdc874a9c9bd456a120163 Mon Sep 17 00:00:00 2001
 From: Bhumika Goyal <bhumirks@gmail.com>
 Date: Thu, 14 Sep 2017 19:34:15 +0530
 Subject: [PATCH 124/525] ALSA: oxygen: Xonar DG(X): make model_xonar_dg const

@@ -1,4 +1,4 @@
-From a45448c8b284130216b4e35ef9b9628424c0d23e Mon Sep 17 00:00:00 2001
+From 14c604e058b06b8519c16f133bd59d011f6bcc24 Mon Sep 17 00:00:00 2001
 From: "Schweikhardt, Markus" <markus.schweikhardt@intel.com>
 Date: Tue, 9 May 2017 23:00:20 +0530
 Subject: [PATCH 293/525] ASoC: Intel: Board: Add BXTP MRB machine driver for

@@ -1,4 +1,4 @@
-From 98abff09695e80c8e69e56a68a44fb57b4f265ca Mon Sep 17 00:00:00 2001
+From 8082b81b7a0e0ad71a5fee1e33a396567330bb21 Mon Sep 17 00:00:00 2001
 From: Michael Ryleev <gmar@google.com>
 Date: Fri, 26 Jun 2015 13:47:02 -0700
 Subject: [PATCH 022/525] trusty-irq: Add support for secure interrupt mapping

@@ -1,4 +1,4 @@
-From 99b2977533d8cc9b8876bc24388174c65b153130 Mon Sep 17 00:00:00 2001
+From 2892d2a75ef37b8d85e3b7fd5cb0944ad7a984dc Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Thu, 23 Mar 2017 04:24:02 +0800
 Subject: [PATCH 482/525] drm/i915/gvt: Support vGPU guest framebuffer GEM

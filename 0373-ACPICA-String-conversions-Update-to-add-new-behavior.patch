@@ -1,4 +1,4 @@
-From fa1472d75f810ae10e82c67ee9b1c9e4258f2ea3 Mon Sep 17 00:00:00 2001
+From a68896fcbb1fdb9c2e8fc9426f34f1dc902948c5 Mon Sep 17 00:00:00 2001
 From: Bob Moore <robert.moore@intel.com>
 Date: Wed, 20 Sep 2017 10:00:49 +0800
 Subject: [PATCH 373/525] ACPICA: String conversions: Update to add new

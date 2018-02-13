@@ -1,4 +1,4 @@
-From 913f3950454c30c9cb46bb4258cdbb489190e02d Mon Sep 17 00:00:00 2001
+From 625e7bc36af0b2449e94cd5ee99233741bb0ae69 Mon Sep 17 00:00:00 2001
 From: Yipeng <yipeng.yao@intel.com>
 Date: Wed, 20 Sep 2017 14:15:02 +0800
 Subject: [PATCH 382/525] alarmtimer: add config to skip suspend flow

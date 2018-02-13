@@ -1,4 +1,4 @@
-From 77c1359bc41a411bebe0f5fef0e5875db9e59c3c Mon Sep 17 00:00:00 2001
+From 702235f316f95e9e5a1ea1701d0f039d53d4944b Mon Sep 17 00:00:00 2001
 From: "Panwar, Ashish" <ashish.panwar@intel.com>
 Date: Fri, 26 Feb 2016 02:02:48 +0530
 Subject: [PATCH 186/525] ASoC: Intel: Skylake: Check buffer users and prevent

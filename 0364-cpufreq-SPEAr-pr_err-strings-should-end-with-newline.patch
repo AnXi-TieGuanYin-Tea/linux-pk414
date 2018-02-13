@@ -1,4 +1,4 @@
-From 97c101378d3103a82d310a48f2f94cbd0157d113 Mon Sep 17 00:00:00 2001
+From 1ee0677124f8082d89990246def155aedf342194 Mon Sep 17 00:00:00 2001
 From: Arvind Yadav <arvind.yadav.cs@gmail.com>
 Date: Mon, 25 Sep 2017 15:43:49 +0530
 Subject: [PATCH 364/525] cpufreq: SPEAr: pr_err() strings should end with

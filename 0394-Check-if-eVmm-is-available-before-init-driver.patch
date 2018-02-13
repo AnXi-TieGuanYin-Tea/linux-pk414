@@ -1,4 +1,4 @@
-From 35e463944967029eb1f3994f4b92671289957947 Mon Sep 17 00:00:00 2001
+From 115390acfe28789bb7fab2eeddae45e0788e16d0 Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Tue, 21 Nov 2017 14:18:56 +0800
 Subject: [PATCH 394/525] Check if eVmm is available before init driver

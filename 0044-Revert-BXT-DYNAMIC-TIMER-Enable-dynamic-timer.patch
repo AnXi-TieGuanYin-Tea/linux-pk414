@@ -1,4 +1,4 @@
-From 9a5da614a988e3fc3c783f9c2481d9053d8bb3c7 Mon Sep 17 00:00:00 2001
+From 9663cb79708f3bf9ba83a9393b9f6dbc771f6440 Mon Sep 17 00:00:00 2001
 From: "Zhong,Fangjian" <fangjian.zhong@intel.com>
 Date: Tue, 11 Jul 2017 04:15:01 +0000
 Subject: [PATCH 044/525] Revert "[BXT][DYNAMIC TIMER] Enable dynamic timer"
