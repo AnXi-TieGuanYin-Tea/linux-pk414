@@ -41,7 +41,7 @@ Requires: linux-pk414-standard
 %define debug_package %{nil}
 %define __strip /bin/true
 
-#### 0XXX: PK Series: lts-4.14-base-2018w06.3-124009
+#### 0XXX: PK Series: lts-4.14-base-2018w07.3-182202
 Patch0001: 0001-greybus-Remove-android-make-file.patch
 Patch0002: 0002-AndroidIA-Allow-RenderNode-to-be-used-for-kms-getter.patch
 Patch0003: 0003-thermal-Add-processor-thermal-device-support.patch
@@ -567,6 +567,29 @@ Patch0522: 0522-HVLog-reserve-memory-for-CWP-HVLog.patch
 Patch0523: 0523-HVLog-add-HVLog-module.patch
 Patch0524: 0524-update-MEM_ATTR_WRITE_PROT-with-WB-policy.patch
 Patch0525: 0525-trusty-detect-vmm-when-load-trusty-driver.patch
+Patch0526: 0526-UPSTREAM-drm-i915-Move-rps.hw_lock-to-dev_priv-and-s.patch
+Patch0527: 0527-UPSTREAM-drm-i915-Add-might_sleep-check-to-wait_for.patch
+Patch0528: 0528-UPSTREAM-drm-i915-Use-exponential-backoff-for-wait_f.patch
+Patch0529: 0529-UPSTREAM-drm-i915-Add-more-control-to-wait_for-routi.patch
+Patch0530: 0530-UPSTREAM-drm-Add-Content-Protection-property.patch
+Patch0531: 0531-UPSTREAM-drm-Add-some-HDCP-related-defines.patch
+Patch0532: 0532-UPSTREAM-drm-i915-Add-HDCP-framework-base-implementa.patch
+Patch0533: 0533-UPSTREAM-drm-i915-Make-use-of-indexed-write-GMBUS-fe.patch
+Patch0534: 0534-UPSTREAM-drm-i915-Add-function-to-output-Aksv-over-G.patch
+Patch0535: 0535-UPSTREAM-drm-i915-Implement-HDCP-for-HDMI.patch
+Patch0536: 0536-UPSTREAM-drm-i915-Implement-HDCP-for-DisplayPort.patch
+Patch0537: 0537-UPSTREAM-drm-i915-Don-t-allow-HDCP-on-PORT-E-F.patch
+Patch0538: 0538-UPSTREAM-drm-i915-Only-disable-HDCP-when-it-s-active.patch
+Patch0539: 0539-UPSTREAM-drm-i915-Extending-HDCP-for-HSW-BDW-and-BXT.patch
+Patch0540: 0540-UPSTREAM-drm-i915-II-stage-HDCP-auth-for-repeater-on.patch
+Patch0541: 0541-UPSTREAM-drm-i915-Start-repeater-auth-on-READY-CP_IR.patch
+Patch0542: 0542-UPSTREAM-drm-i915-Check-for-downstream-topology-erro.patch
+Patch0543: 0543-UPSTREAM-drm-i915-Restore-HDCP-DRM_INFO-when-with-no.patch
+Patch0544: 0544-UPSTREAM-drm-i915-Downgrade-hdcp-logs-from-INFO-to-D.patch
+Patch0545: 0545-vhm-modify-mmio-memory-map-unmap-api.patch
+Patch0546: 0546-gvt-modify-mmio-memory-map-unmap-api.patch
+Patch0547: 0547-vhm-cleanup-update-one-field-name-in-vhm.patch
+Patch0548: 0548-Remove-unused-label-to-depress-compile-warning.patch
 #END 0XXX: PK Series
 
 %description
@@ -1125,6 +1148,29 @@ Linux kernel extra files
 %patch0523 -p1
 %patch0524 -p1
 %patch0525 -p1
+%patch0526 -p1
+%patch0527 -p1
+%patch0528 -p1
+%patch0529 -p1
+%patch0530 -p1
+%patch0531 -p1
+%patch0532 -p1
+%patch0533 -p1
+%patch0534 -p1
+%patch0535 -p1
+%patch0536 -p1
+%patch0537 -p1
+%patch0538 -p1
+%patch0539 -p1
+%patch0540 -p1
+%patch0541 -p1
+%patch0542 -p1
+%patch0543 -p1
+%patch0544 -p1
+%patch0545 -p1
+%patch0546 -p1
+%patch0547 -p1
+%patch0548 -p1
 # End 0XXX PK Series
 
 cp %{SOURCE1} .
