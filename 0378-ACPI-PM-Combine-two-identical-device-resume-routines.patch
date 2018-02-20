@@ -1,7 +1,7 @@
-From 093dd0b5edb216286cfa0085ced19ef7622e4210 Mon Sep 17 00:00:00 2001
+From 6ccd5e26ad26d8a13475cff3ae4cabfbc7b866a9 Mon Sep 17 00:00:00 2001
 From: "Rafael J. Wysocki" <rafael.j.wysocki@intel.com>
 Date: Tue, 10 Oct 2017 18:49:22 +0200
-Subject: [PATCH 378/525] ACPI / PM: Combine two identical device resume
+Subject: [PATCH 378/548] ACPI / PM: Combine two identical device resume
  routines
 
 Notice that acpi_dev_runtime_resume() and acpi_dev_resume_early() are

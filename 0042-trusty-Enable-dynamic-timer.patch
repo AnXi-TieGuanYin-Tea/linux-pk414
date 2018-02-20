@@ -1,7 +1,7 @@
-From 8ee3607d5f028a87bd658d712e7a2c64f30d4594 Mon Sep 17 00:00:00 2001
+From 407e16b09de7c00888d712bee1f2ecbf3d711c5e Mon Sep 17 00:00:00 2001
 From: "Zhong,Fangjian" <fangjian.zhong@intel.com>
 Date: Tue, 6 Jun 2017 00:15:01 +0000
-Subject: [PATCH 042/525] trusty: Enable dynamic timer
+Subject: [PATCH 042/548] trusty: Enable dynamic timer
 
 Enable the dynamic timer support for Trusty scheduling.
 Besides periodic timer, Trusty now supports both dynamic timer

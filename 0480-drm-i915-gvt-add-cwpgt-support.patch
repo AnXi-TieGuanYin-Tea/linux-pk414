@@ -1,7 +1,7 @@
-From 913d327b61ea456e19dbf99272e2f8dcf9edfef8 Mon Sep 17 00:00:00 2001
+From 8dd1e99af11105b4f7acdd98afbf7015798474b3 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Thu, 28 Dec 2017 11:12:09 +0800
-Subject: [PATCH 480/525] drm/i915/gvt: add cwpgt support
+Subject: [PATCH 480/548] drm/i915/gvt: add cwpgt support
 
 Change-Id: Ifd599d5a7375d73c557a878027bca7ba8851c5f1
 Signed-off-by: Fei Jiang <fei.jiang@intel.com>

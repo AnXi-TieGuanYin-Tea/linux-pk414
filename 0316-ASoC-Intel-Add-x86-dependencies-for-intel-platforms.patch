@@ -1,7 +1,7 @@
-From f44b3a87f8dc54e2858b8c69dd380554a7ed6509 Mon Sep 17 00:00:00 2001
+From 63c9180e0b3077be4c0f2d88d6398feed4cc667a Mon Sep 17 00:00:00 2001
 From: Anamika Lal <anamikax.lal@intel.com>
 Date: Fri, 4 Aug 2017 09:54:49 +0530
-Subject: [PATCH 316/525] ASoC: Intel: Add x86 dependencies for intel
+Subject: [PATCH 316/548] ASoC: Intel: Add x86 dependencies for intel
  platforms.
 
 Build regression observed for non x86 (eg: arm, mips, m68k) allmodconfig.

@@ -1,7 +1,7 @@
-From df8d5c7192903032d2b33ef55a44d2278e37dde8 Mon Sep 17 00:00:00 2001
+From 14454a423b574d51e8d7d8bb8c6b5ae1c39df51f Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Sat, 23 Apr 2016 18:06:12 +0530
-Subject: [PATCH 148/525] ASoC:SKL: Add DAI for the SoundWire PDM interface.
+Subject: [PATCH 148/548] ASoC:SKL: Add DAI for the SoundWire PDM interface.
 
 Add DAI for the PDM Capture between PDM Codec and
 SoundWire Master.

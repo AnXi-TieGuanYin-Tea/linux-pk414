@@ -1,7 +1,7 @@
-From 854bc66f7a5a2854f3d06638566dd76dbea7c381 Mon Sep 17 00:00:00 2001
+From bf8f08604e3a10447f83c3f8356903fb66b0fb8d Mon Sep 17 00:00:00 2001
 From: Heikki Krogerus <heikki.krogerus@linux.intel.com>
 Date: Fri, 5 Jun 2015 15:21:08 +0300
-Subject: [PATCH 384/525] usb: pci-quirks: register USB mux found on
+Subject: [PATCH 384/548] usb: pci-quirks: register USB mux found on
  Cherrytrail SOC
 
 Intel Braswell/Cherrytrail has an internal mux that shares

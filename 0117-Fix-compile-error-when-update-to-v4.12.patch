@@ -1,7 +1,7 @@
-From 321763f49ff152ccd9f20b25f4e0ef28dd50a0e9 Mon Sep 17 00:00:00 2001
+From 1ef6f731bd84ecf5b50640f16433e7f0a155934e Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Fri, 19 May 2017 09:01:54 +0800
-Subject: [PATCH 117/525] Fix compile error when update to v4.12
+Subject: [PATCH 117/548] Fix compile error when update to v4.12
 
 ---
  drivers/net/wireless/bcmdhd/wl_cfg80211.c | 45 ++++++++++++++++++++++++++++++-

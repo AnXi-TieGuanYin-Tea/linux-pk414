@@ -1,7 +1,7 @@
-From d6ffdb8bde750f43d92c8a28a5f8bae4cb80edd4 Mon Sep 17 00:00:00 2001
+From 42ab3782d133b21ad1824e304e260c2b228e1f7a Mon Sep 17 00:00:00 2001
 From: yingbinx <yingbinx.zeng@intel.com>
 Date: Thu, 10 Aug 2017 06:57:08 +0000
-Subject: [PATCH 050/525] trusty kernel driver code refine
+Subject: [PATCH 050/548] trusty kernel driver code refine
 
 Merge the code refine change form kerenl 4.4 code.
 Use define CONFIG_X86 to sperate IA code and ARM code.

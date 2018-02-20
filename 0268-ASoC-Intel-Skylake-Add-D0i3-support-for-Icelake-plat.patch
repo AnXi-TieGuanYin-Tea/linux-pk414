@@ -1,7 +1,7 @@
-From 984bc1f52a7ac8f108f47a4344a74f41d3fc5f56 Mon Sep 17 00:00:00 2001
+From 36d94bdbb23744dd004a3b3b396509057552f39e Mon Sep 17 00:00:00 2001
 From: Leoni Prodduvaka <leoni.prodduvaka@intel.com>
 Date: Wed, 15 Feb 2017 17:04:40 +0530
-Subject: [PATCH 268/525] ASoC: Intel: Skylake: Add D0i3 support for Icelake
+Subject: [PATCH 268/548] ASoC: Intel: Skylake: Add D0i3 support for Icelake
  platform
 
 The driver needs two DSP callback, one to set D0i0 (active) and D0i3

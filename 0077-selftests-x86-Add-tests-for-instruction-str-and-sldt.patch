@@ -1,7 +1,7 @@
-From 51bd278b6cd15994b16e5ac08ba8a6d2aad2d1b5 Mon Sep 17 00:00:00 2001
+From 8d68c7d8b2d324ed5bc4f687e0999afff5d69e3e Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Tue, 2 May 2017 14:13:07 -0700
-Subject: [PATCH 077/525] selftests/x86: Add tests for instruction str and sldt
+Subject: [PATCH 077/548] selftests/x86: Add tests for instruction str and sldt
 
 The instructions str and sldt are not recognized when running on virtual-
 8086 mode and generate an invalid operand exception. These two

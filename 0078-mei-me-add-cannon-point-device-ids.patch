@@ -1,7 +1,7 @@
-From 7aad31f4a0e00592fe62f1fade7497f7878a811f Mon Sep 17 00:00:00 2001
+From 2cd9e8ea85d40a489c26f7a176b6c155587c95fb Mon Sep 17 00:00:00 2001
 From: Alexander Usyskin <alexander.usyskin@intel.com>
 Date: Sun, 2 Aug 2015 14:16:40 +0300
-Subject: [PATCH 078/525] mei: me: add cannon point device ids
+Subject: [PATCH 078/548] mei: me: add cannon point device ids
 
 Add cannon lake device ids: CNP LP and CNP H, for
 HECI1 and HECI2 pci devices.

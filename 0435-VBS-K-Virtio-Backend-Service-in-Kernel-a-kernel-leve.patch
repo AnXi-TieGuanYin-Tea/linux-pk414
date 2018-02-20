@@ -1,7 +1,7 @@
-From 6234868cba8d36010a405cb78e62819571ee2528 Mon Sep 17 00:00:00 2001
+From eabd215e369e7c6bf9b933c19c042985f5f348fa Mon Sep 17 00:00:00 2001
 From: Hao Li <hao.l.li@intel.com>
 Date: Tue, 2 Jan 2018 21:36:39 -0500
-Subject: [PATCH 435/525] VBS-K (Virtio Backend Service in Kernel): a
+Subject: [PATCH 435/548] VBS-K (Virtio Backend Service in Kernel): a
  kernel-level virtio framework for Clearwater Pass hypervisor.
 
 This patch added the basic VBS-K framework including the following:

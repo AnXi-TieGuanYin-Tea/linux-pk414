@@ -1,7 +1,7 @@
-From c3582b91fcc327582cab791f0e17cc5bd9a7e6d3 Mon Sep 17 00:00:00 2001
+From 6c2d7e7580d8ecacb9eaccb53e2c1955f84f734c Mon Sep 17 00:00:00 2001
 From: Michael Ryleev <gmar@google.com>
 Date: Mon, 30 Mar 2015 12:43:59 -0700
-Subject: [PATCH 017/525] trusty: add trusty virtio driver
+Subject: [PATCH 017/548] trusty: add trusty virtio driver
 
 Trusty virtio driver is responsible for management an
 interaction with virtio devices exposed by Trusty.

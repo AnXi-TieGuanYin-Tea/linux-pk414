@@ -1,4 +1,4 @@
-From a8097f765a407d75a34ccfb275a562945a2a964e Mon Sep 17 00:00:00 2001
+From f68a015114d2e37852aee3ac49826f0a1f6a486b Mon Sep 17 00:00:00 2001
 From: Sean Paul <seanpaul@chromium.org>
 Date: Tue, 30 Jan 2018 09:29:34 -0500
 Subject: [PATCH 543/548] UPSTREAM: drm/i915: Restore HDCP DRM_INFO when with

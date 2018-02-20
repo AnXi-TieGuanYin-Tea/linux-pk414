@@ -1,4 +1,4 @@
-From 5d2426a4dd49caf824c1c196557cea61b941ad43 Mon Sep 17 00:00:00 2001
+From 521e25241f872c292571bf158e34b9a92b3bb1be Mon Sep 17 00:00:00 2001
 From: Mingqiang Chi <mingqiang.chi@intel.com>
 Date: Fri, 2 Feb 2018 10:20:02 +0800
 Subject: [PATCH 545/548] vhm: modify mmio/memory map/unmap api

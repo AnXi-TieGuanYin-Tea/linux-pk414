@@ -1,7 +1,7 @@
-From 3114749d7ab10b57618263ee3f0b74e7f2db6384 Mon Sep 17 00:00:00 2001
+From c97ca0e05fdb6fc23c48e228bef5cbe2e67483c9 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 7 Sep 2017 09:56:44 +0530
-Subject: [PATCH 321/525] ASoC: rt700: Remove unused variable
+Subject: [PATCH 321/548] ASoC: rt700: Remove unused variable
 
 Compiler throws warning for unused variable, so remove it.
 

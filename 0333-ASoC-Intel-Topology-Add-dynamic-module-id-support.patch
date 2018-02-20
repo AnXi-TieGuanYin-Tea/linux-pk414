@@ -1,7 +1,7 @@
-From bb0abd293bd1cc00ad2cfee9d4e039ba63cc8305 Mon Sep 17 00:00:00 2001
+From c36fe9a9e26f8b6a18e16d6661e488fc9ec05dc2 Mon Sep 17 00:00:00 2001
 From: "Periyasamy, SriramX" <sriramx.periyasamy@intel.com>
 Date: Mon, 18 Sep 2017 18:49:51 +0530
-Subject: [PATCH 333/525] ASoC: Intel: Topology: Add dynamic module id support
+Subject: [PATCH 333/548] ASoC: Intel: Topology: Add dynamic module id support
 
 Module id is a property of fw manifest and can vary between platforms.
 So use the uuid instead of module id for pins.

@@ -1,7 +1,7 @@
-From 5d24bf5745bbb7312a6cfa6f1e3a930957b8e890 Mon Sep 17 00:00:00 2001
+From 20c59983f20f5cd2f461a2377bdcc9d31befafff Mon Sep 17 00:00:00 2001
 From: weideng <wei.a.deng@intel.com>
 Date: Fri, 28 Oct 2016 13:46:37 +0800
-Subject: [PATCH 024/525] Modify Google's trusty drivers so as to support Intel
+Subject: [PATCH 024/548] Modify Google's trusty drivers so as to support Intel
  platform
 
 Previously, Google's trusty drivers can just work on ARM platform. With

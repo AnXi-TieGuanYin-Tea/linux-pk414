@@ -1,7 +1,7 @@
-From 5400f5ebd362cb429948d1f2c9bae344e6aa2e88 Mon Sep 17 00:00:00 2001
+From 2e9eb9b8390daba265ca625e6ad806515747c474 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 7 Sep 2017 09:59:36 +0530
-Subject: [PATCH 323/525] ASoC: Intel: Skylake: Move prototype to appropriate
+Subject: [PATCH 323/548] ASoC: Intel: Skylake: Move prototype to appropriate
  header
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

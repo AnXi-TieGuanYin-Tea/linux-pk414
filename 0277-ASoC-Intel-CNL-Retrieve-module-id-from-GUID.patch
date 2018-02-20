@@ -1,7 +1,7 @@
-From 9797663812af33568d989de3518091ee3b4d6adb Mon Sep 17 00:00:00 2001
+From d3c39fb3d135484cd1a9b201db3bcdbb1b1d5912 Mon Sep 17 00:00:00 2001
 From: "Mallikarjun, chippalkatti" <mallikarjunx.chippalkatti@intel.com>
 Date: Mon, 24 Apr 2017 14:43:23 +0530
-Subject: [PATCH 277/525] ASoC: Intel: CNL: Retrieve module id from GUID
+Subject: [PATCH 277/548] ASoC: Intel: CNL: Retrieve module id from GUID
 
 This patch retrieves module id from GUID for copier module used
 for SoundWire BRA feature.

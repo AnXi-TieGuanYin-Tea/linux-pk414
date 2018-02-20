@@ -1,7 +1,7 @@
-From 11e96255c6671709653d559f2185222a7f857f72 Mon Sep 17 00:00:00 2001
+From d09d9677ee3dae033fc60b103d716774aba5fa75 Mon Sep 17 00:00:00 2001
 From: Ulf Hansson <ulf.hansson@linaro.org>
 Date: Tue, 3 Oct 2017 09:11:06 +0200
-Subject: [PATCH 379/525] ACPI / PM: Restore acpi_subsys_complete()
+Subject: [PATCH 379/548] ACPI / PM: Restore acpi_subsys_complete()
 
 Commit 58a1fbbb2ee8 (PM / PCI / ACPI: Kick devices that might have
 been reset by firmware), made PCI's and ACPI's ->complete() callbacks

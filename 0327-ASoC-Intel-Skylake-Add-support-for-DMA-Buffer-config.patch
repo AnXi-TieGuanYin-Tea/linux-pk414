@@ -1,7 +1,7 @@
-From 61956b56affaf75c6d9a73a98f8c62610dfe5f70 Mon Sep 17 00:00:00 2001
+From 6682f3ec8eb6cb41160110099738f0ba2a5b151e Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Tue, 5 Sep 2017 19:57:00 +0530
-Subject: [PATCH 327/525] ASoC: Intel: Skylake: Add support for DMA Buffer
+Subject: [PATCH 327/548] ASoC: Intel: Skylake: Add support for DMA Buffer
  configuration
 
 DMA buffer configuration is to manage the HW Buffers

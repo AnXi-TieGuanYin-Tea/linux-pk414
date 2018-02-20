@@ -1,7 +1,7 @@
-From e684c7f3104b4046b636630c1dd85717553f46b2 Mon Sep 17 00:00:00 2001
+From d26f94977b6329ea9ddcbcc139b3ca409c6d5df1 Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Tue, 19 Dec 2017 16:34:05 +0530
-Subject: [PATCH 400/525] Revert "ASoC: Intel: Skylake: Parse vendor tokens to
+Subject: [PATCH 400/548] Revert "ASoC: Intel: Skylake: Parse vendor tokens to
  build A-State table"
 
 This reverts commit ad4fb9167814c6c64feabcbce3fe244ed7954cfb.

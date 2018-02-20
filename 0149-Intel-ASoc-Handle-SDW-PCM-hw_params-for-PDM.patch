@@ -1,7 +1,7 @@
-From 08815c779dc97408ed734357561647cdc1e343a4 Mon Sep 17 00:00:00 2001
+From d2d148089e52543ed4811f7ed97e29d6d65353e1 Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Sat, 23 Apr 2016 18:15:06 +0530
-Subject: [PATCH 149/525] Intel:ASoc: Handle SDW PCM hw_params for PDM.
+Subject: [PATCH 149/548] Intel:ASoc: Handle SDW PCM hw_params for PDM.
 
 Bus driver needs to be configured differently for
 the PCM and PDM interface between master and slave.

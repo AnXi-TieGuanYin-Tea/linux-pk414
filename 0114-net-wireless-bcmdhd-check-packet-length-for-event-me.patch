@@ -1,7 +1,7 @@
-From 4a12a7016039c1434456c3bfa449a72bb4611db7 Mon Sep 17 00:00:00 2001
+From 6d8b14fef22291dcb2a132a773bff2bf49a9fb07 Mon Sep 17 00:00:00 2001
 From: Patrick Tjin <pattjin@google.com>
 Date: Fri, 21 Apr 2017 23:34:25 +0000
-Subject: [PATCH 114/525] net: wireless: bcmdhd: check packet length for event
+Subject: [PATCH 114/548] net: wireless: bcmdhd: check packet length for event
  messages
 
 Check the datalen field is less than the size of

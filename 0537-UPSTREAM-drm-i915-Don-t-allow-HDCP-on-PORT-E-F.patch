@@ -1,4 +1,4 @@
-From 22d8b62d2916a1ddbf0ff684f2457bd2327dacea Mon Sep 17 00:00:00 2001
+From 87321a3d1d2b37f3071f0c9e7cb8fca71e26c8f0 Mon Sep 17 00:00:00 2001
 From: Sean Paul <seanpaul@chromium.org>
 Date: Tue, 9 Jan 2018 13:53:51 -0500
 Subject: [PATCH 537/548] UPSTREAM: drm/i915: Don't allow HDCP on PORT E/F

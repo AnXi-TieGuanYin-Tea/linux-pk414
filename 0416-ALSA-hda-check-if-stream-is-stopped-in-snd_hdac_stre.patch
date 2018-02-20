@@ -1,7 +1,7 @@
-From 9df5475ddef4020765797f0b4dbd53e318f5640d Mon Sep 17 00:00:00 2001
+From 8cb25fd82e64afbb0022843d511e5e5d1f011d8d Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Tue, 17 Oct 2017 23:01:00 +0530
-Subject: [PATCH 416/525] ALSA: hda: check if stream is stopped in
+Subject: [PATCH 416/548] ALSA: hda: check if stream is stopped in
  snd_hdac_stream_clear
 
 Check if the DMA Channel is already stopped. There is no need

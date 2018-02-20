@@ -1,7 +1,7 @@
-From e687581d021a489abe45b224c804659fb773cd0e Mon Sep 17 00:00:00 2001
+From 579d45af7a2d44dc84ffee259999314c87eb710f Mon Sep 17 00:00:00 2001
 From: "Sinha, Mohit" <mohit.sinha@intel.com>
 Date: Thu, 6 Jul 2017 16:10:32 +0530
-Subject: [PATCH 306/525] ASoC: Intel: Board: DAI links for probe in GPMRB
+Subject: [PATCH 306/548] ASoC: Intel: Board: DAI links for probe in GPMRB
  machine driver
 
 Added two DAI links for probe playback and capture

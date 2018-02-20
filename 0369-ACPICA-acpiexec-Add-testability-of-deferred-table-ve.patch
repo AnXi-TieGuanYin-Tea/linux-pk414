@@ -1,7 +1,7 @@
-From c6199c839d7c4f4aef8281ae18d3b57ab4d49a2e Mon Sep 17 00:00:00 2001
+From cf880c40a0e942cdc854facd026aea733b08ee9a Mon Sep 17 00:00:00 2001
 From: Lv Zheng <lv.zheng@intel.com>
 Date: Wed, 20 Sep 2017 10:00:20 +0800
-Subject: [PATCH 369/525] ACPICA: acpiexec: Add testability of deferred table
+Subject: [PATCH 369/548] ACPICA: acpiexec: Add testability of deferred table
  verification
 
 ACPICA commit 04c28c7549e694ea85f40bcc816039e5fbb4169c

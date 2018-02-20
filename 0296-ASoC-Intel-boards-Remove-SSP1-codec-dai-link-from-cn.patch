@@ -1,7 +1,7 @@
-From fddbeeee226f804aa07d7214bfc8e600582fe9b8 Mon Sep 17 00:00:00 2001
+From 5f85a90b27e8a53662303cefe1301cf2afe64fa9 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 15 Jun 2017 15:08:06 +0530
-Subject: [PATCH 296/525] ASoC: Intel: boards: Remove SSP1-codec dai link from
+Subject: [PATCH 296/548] ASoC: Intel: boards: Remove SSP1-codec dai link from
  cnl_rt274 machine
 
 Since NHLT does not have SSP1 endpoint, remove it from the dai link

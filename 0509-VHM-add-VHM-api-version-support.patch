@@ -1,7 +1,7 @@
-From b12c459dd4592d6eba89eed4b6855e0da117fe41 Mon Sep 17 00:00:00 2001
+From 16b59929cd99caa7fc90eabf50513623ad59fdef Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Wed, 17 Jan 2018 06:08:22 +0800
-Subject: [PATCH 509/525] VHM: add VHM api version support
+Subject: [PATCH 509/548] VHM: add VHM api version support
 
 Change-Id: I36dd051d0cc04720ab8d69817392ff97f1e5ad34
 Tracked-On: 218802

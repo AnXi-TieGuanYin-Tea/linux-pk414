@@ -1,7 +1,7 @@
-From be0a60657ad3ddd7c908c992fca6ae2deee80932 Mon Sep 17 00:00:00 2001
+From 21e6a92ca539c5a3d4a8b9f643188aa389ede351 Mon Sep 17 00:00:00 2001
 From: Chang Ying <ying.chang@intel.com>
 Date: Thu, 23 Mar 2017 04:24:07 +0800
-Subject: [PATCH 448/525] drm/i915/gvt: add cmd parser and mmio handler for BXT
+Subject: [PATCH 448/548] drm/i915/gvt: add cmd parser and mmio handler for BXT
 
 Change-Id: I7d19bc90ef25ff1b354880a9ce0f768a9be6aaf5
 Signed-off-by: Chang Ying <ying.chang@intel.com>

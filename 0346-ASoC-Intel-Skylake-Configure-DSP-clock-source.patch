@@ -1,7 +1,7 @@
-From 20258cedec6c8fa337801c799dab0b6f028f96de Mon Sep 17 00:00:00 2001
+From 78b933dcf569124419d1714f221fadaca3af5277 Mon Sep 17 00:00:00 2001
 From: Pradeep Tewani <pradeep.d.tewani@intel.com>
 Date: Thu, 2 Nov 2017 15:47:21 +0530
-Subject: [PATCH 346/525] ASoC: Intel: Skylake: Configure DSP clock source
+Subject: [PATCH 346/548] ASoC: Intel: Skylake: Configure DSP clock source
 
 DSP clock source is configured by sending the A-State table to the FW.
 Add the large config set IPC to configure the desired clock source

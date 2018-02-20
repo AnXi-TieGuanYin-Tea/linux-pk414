@@ -1,7 +1,7 @@
-From 1de9f8982ffc79473505e990ead30c711fa931c5 Mon Sep 17 00:00:00 2001
+From f5dd8f83dad1d60380f792edda41569a1a1bd221 Mon Sep 17 00:00:00 2001
 From: yingbinx <yingbinx.zeng@intel.com>
 Date: Wed, 22 Feb 2017 14:28:03 +0800
-Subject: [PATCH 036/525] Limit to output trusty/lk log on debug version
+Subject: [PATCH 036/548] Limit to output trusty/lk log on debug version
 
   Modified trusty_dump_log() to only output lk side's log on debug version.
   This is to avoid the condition that tipc drivers will print lots of info/log

@@ -1,7 +1,7 @@
-From 2af084f8584c1bc93e070fbefc73b9a754946bec Mon Sep 17 00:00:00 2001
+From fc44b0d6f50e7072afba1c9267a796e172d265fa Mon Sep 17 00:00:00 2001
 From: Vinod Koul <vinod.koul@intel.com>
 Date: Mon, 31 Aug 2015 14:12:14 +0530
-Subject: [PATCH 174/525] ASoC: Intel: Skylake: Add debugfs NHLT ssp override
+Subject: [PATCH 174/548] ASoC: Intel: Skylake: Add debugfs NHLT ssp override
 
 Add debugfs entries for reading and writing SSP blobs which
 driver can use to program DSP

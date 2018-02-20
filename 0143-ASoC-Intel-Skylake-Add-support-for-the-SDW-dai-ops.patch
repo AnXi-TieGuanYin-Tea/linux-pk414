@@ -1,7 +1,7 @@
-From 843670afb44495927cc5d2861ad29cecd0f1fde6 Mon Sep 17 00:00:00 2001
+From d9b127113050c0ce010d4b4fa936ba6e23b35a07 Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Thu, 10 Mar 2016 13:00:27 +0530
-Subject: [PATCH 143/525] ASoC: Intel: Skylake: Add support for the SDW dai
+Subject: [PATCH 143/548] ASoC: Intel: Skylake: Add support for the SDW dai
  ops.
 
 Add support for the SoundWire dai link operation. DAI

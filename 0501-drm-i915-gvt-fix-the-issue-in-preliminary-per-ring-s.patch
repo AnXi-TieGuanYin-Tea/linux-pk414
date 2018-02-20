@@ -1,7 +1,7 @@
-From 6e5e8b55652f5dbc44520bf4470c0c3f26566baa Mon Sep 17 00:00:00 2001
+From e35b07d1063268037f3712219cec1f57c6abae7e Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Thu, 18 Jan 2018 15:15:53 +0800
-Subject: [PATCH 501/525] drm/i915/gvt: fix the issue in "preliminary per ring
+Subject: [PATCH 501/548] drm/i915/gvt: fix the issue in "preliminary per ring
  scheduler"
 
 This patch fixed an issue in "preliminary per ring scheduler", which

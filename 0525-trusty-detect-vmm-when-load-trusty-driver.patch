@@ -1,7 +1,7 @@
-From 3a80760ced0a30336e307b57706fc3dc812b8c3e Mon Sep 17 00:00:00 2001
+From bc0d869663e3dfba9bcf7b6c03e5cd7862b6bae1 Mon Sep 17 00:00:00 2001
 From: "Qi, Yadong" <yadong.qi@intel.com>
 Date: Fri, 2 Feb 2018 13:12:40 +0800
-Subject: [PATCH 525/525] trusty: detect vmm when load trusty driver
+Subject: [PATCH 525/548] trusty: detect vmm when load trusty driver
 
 Use hypervisor_cpuid_base() to detect VMM which support Trusty.
 Currently, there are 2 hypervisors support trusty: CWP and EVMM.

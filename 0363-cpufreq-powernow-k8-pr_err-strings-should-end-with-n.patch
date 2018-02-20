@@ -1,7 +1,7 @@
-From b10fb4cc942a805885efcdb001643371ba3ca290 Mon Sep 17 00:00:00 2001
+From 4fd44958b3b066b027c3f3f310670f24516c0e06 Mon Sep 17 00:00:00 2001
 From: Arvind Yadav <arvind.yadav.cs@gmail.com>
 Date: Mon, 25 Sep 2017 15:10:11 +0530
-Subject: [PATCH 363/525] cpufreq: powernow-k8: pr_err() strings should end
+Subject: [PATCH 363/548] cpufreq: powernow-k8: pr_err() strings should end
  with newlines
 
 pr_err() messages should terminated with a new-line to avoid

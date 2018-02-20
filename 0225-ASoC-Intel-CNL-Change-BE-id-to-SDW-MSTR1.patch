@@ -1,7 +1,7 @@
-From dcf884793cccb917103ff445730bfc5497e65edf Mon Sep 17 00:00:00 2001
+From 0622b59dac0186a4b4ccaa193af2d351e783e2c0 Mon Sep 17 00:00:00 2001
 From: Shreyas NC <shreyas.nc@intel.com>
 Date: Tue, 25 Oct 2016 13:04:39 +0530
-Subject: [PATCH 225/525] ASoC: Intel: CNL: Change BE id to SDW MSTR1
+Subject: [PATCH 225/548] ASoC: Intel: CNL: Change BE id to SDW MSTR1
 
 Change-Id: I88e650630da9f65b222838190d14899ac28627dc
 Signed-off-by: Shreyas NC <shreyas.nc@intel.com>

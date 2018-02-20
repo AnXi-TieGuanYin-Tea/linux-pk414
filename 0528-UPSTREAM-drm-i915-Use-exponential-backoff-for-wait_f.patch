@@ -1,4 +1,4 @@
-From 0f2b906bea10dc0aba0b0fcd46e2043daf5f124d Mon Sep 17 00:00:00 2001
+From 5f86db34e7e5fc5510f6a94d31f303683d69436e Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Fri, 24 Nov 2017 13:00:30 +0000
 Subject: [PATCH 528/548] UPSTREAM: drm/i915: Use exponential backoff for
@@ -43,7 +43,7 @@ Change-Id: I560c899e380c7570cf909dce4a09811d716e39bc
  2 files changed, 8 insertions(+), 5 deletions(-)
 
 diff --git a/drivers/gpu/drm/i915/intel_drv.h b/drivers/gpu/drm/i915/intel_drv.h
-index 9d87a4f0ae16..8a08334e941d 100644
+index b16334bf250a..882fd2e5e39c 100644
 --- a/drivers/gpu/drm/i915/intel_drv.h
 +++ b/drivers/gpu/drm/i915/intel_drv.h
 @@ -48,8 +48,9 @@

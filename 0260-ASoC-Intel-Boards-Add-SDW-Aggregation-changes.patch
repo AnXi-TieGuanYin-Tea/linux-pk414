@@ -1,7 +1,7 @@
-From c16c6c40ae93e09c69317f9a6746d95a7c0c37c1 Mon Sep 17 00:00:00 2001
+From 1405dda396ec2a4c99030f703ed0b1ed1f1a498d Mon Sep 17 00:00:00 2001
 From: "Jayanti, Satya Charitardha" <satya.charitardha.jayanti@intel.com>
 Date: Wed, 4 Jan 2017 20:38:56 +0530
-Subject: [PATCH 260/525] ASoC: Intel: Boards: Add SDW Aggregation changes
+Subject: [PATCH 260/548] ASoC: Intel: Boards: Add SDW Aggregation changes
 
 This patch makes machine driver changes to enable Aggregation
 feature for playback and capture on SoundWire Master 1 and

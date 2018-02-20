@@ -1,7 +1,7 @@
-From 5c9fa05ba8d72a3f90cfe36ee8643493e56be904 Mon Sep 17 00:00:00 2001
+From 07e7af74581f9273e7b94a6d3c4ac5d0b9d466c0 Mon Sep 17 00:00:00 2001
 From: Omair Mohammed Abdullah <omair.m.abdullah@intel.com>
 Date: Mon, 10 Nov 2014 21:52:55 +0530
-Subject: [PATCH 169/525] ASoC: utils: add inputs and outputs to dummy codec
+Subject: [PATCH 169/548] ASoC: utils: add inputs and outputs to dummy codec
 
 Add a dummy input and a dummy output to the codec, so that the platform side
 widgets can be triggered if a backend uses a dummy codec.

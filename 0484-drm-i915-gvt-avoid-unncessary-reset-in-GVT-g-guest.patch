@@ -1,7 +1,7 @@
-From e18f9012ca66cff8ad04a7948451569a89cfb380 Mon Sep 17 00:00:00 2001
+From 24181c6e86cb5fa23bbff3173b2be0ea69d4a8b3 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Thu, 28 Dec 2017 11:21:12 +0800
-Subject: [PATCH 484/525] drm/i915/gvt: avoid unncessary reset in GVT-g guest
+Subject: [PATCH 484/548] drm/i915/gvt: avoid unncessary reset in GVT-g guest
 
 When i915 boots up, it will trigger a reset, but it's unnecessary
 in GVT-g environment, so remove this reset which can reduce guest

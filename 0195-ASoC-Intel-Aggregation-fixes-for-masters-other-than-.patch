@@ -1,7 +1,7 @@
-From 6078b81c1fca8198a9eee480bdf3e95feedc53a0 Mon Sep 17 00:00:00 2001
+From fc3e06567d0f50afd04aa8bbe4eb57fc0ca371ac Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Fri, 5 Aug 2016 16:35:34 +0530
-Subject: [PATCH 195/525] ASoC: Intel: Aggregation fixes for masters other than
+Subject: [PATCH 195/548] ASoC: Intel: Aggregation fixes for masters other than
  0 and 1
 
 Change-Id: Ie26608b30f75c69d039ee17c5703ad1f79e88f00

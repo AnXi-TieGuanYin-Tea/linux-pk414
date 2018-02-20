@@ -1,7 +1,7 @@
-From febe31cd2513293de819025986a0a78956c309f3 Mon Sep 17 00:00:00 2001
+From 8270735d2ac336f517b3fc8b2580adcb79bc4352 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Wed, 2 Nov 2016 18:18:36 -0400
-Subject: [PATCH 090/525] mei: dma ring: implement transmit flow
+Subject: [PATCH 090/548] mei: dma ring: implement transmit flow
 
 Implement a circular buffer on allocated system memory. Read and write
 indices are stored on the control block which is also shared between the

@@ -1,7 +1,7 @@
-From 25b2b65951b19bb429c875a2684871887a3a9bad Mon Sep 17 00:00:00 2001
+From 1bc20ce42b54dcc23e6f301c60bfd37723dea91a Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Wed, 6 Sep 2017 14:04:54 +0530
-Subject: [PATCH 334/525] ASoC: Intel: Skylake: Fix mconfig NULL pointer
+Subject: [PATCH 334/548] ASoC: Intel: Skylake: Fix mconfig NULL pointer
  dereferencing
 
 Pointer 'mconfig' returned from call to skl_tplg_fe_get_cpr_module()

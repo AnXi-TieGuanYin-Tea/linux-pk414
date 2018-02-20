@@ -1,4 +1,4 @@
-From 97aa4450fa836bb0ae85ddf922a76e727fa31178 Mon Sep 17 00:00:00 2001
+From eb186d8a02db69b686c29021665477148286a972 Mon Sep 17 00:00:00 2001
 From: Ramalingam C <ramalingam.c@intel.com>
 Date: Thu, 18 Jan 2018 11:18:06 +0530
 Subject: [PATCH 540/548] UPSTREAM: drm/i915: II stage HDCP auth for repeater

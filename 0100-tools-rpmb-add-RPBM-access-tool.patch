@@ -1,7 +1,7 @@
-From ed66d5c949260b5612669bedc71325a2eef73c17 Mon Sep 17 00:00:00 2001
+From 2853c54e5579ab6f703ed498fd2cca9c628475ca Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Sun, 20 Mar 2016 11:32:42 +0200
-Subject: [PATCH 100/525] tools rpmb: add RPBM access tool
+Subject: [PATCH 100/548] tools rpmb: add RPBM access tool
 
 Add simple RPMB host testing tool. It can be used
 to program key, write and read data block, and retrieve

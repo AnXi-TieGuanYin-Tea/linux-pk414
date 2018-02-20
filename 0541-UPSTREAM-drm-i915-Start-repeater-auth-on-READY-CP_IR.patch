@@ -1,4 +1,4 @@
-From 875c3f8a36bd670aecb1a21a4a518ce55af227e3 Mon Sep 17 00:00:00 2001
+From 0f35e59448909c90d6c44f572f11c6b0b5f952c4 Mon Sep 17 00:00:00 2001
 From: Ramalingam C <ramalingam.c@intel.com>
 Date: Thu, 18 Jan 2018 11:18:07 +0530
 Subject: [PATCH 541/548] UPSTREAM: drm/i915: Start repeater auth on

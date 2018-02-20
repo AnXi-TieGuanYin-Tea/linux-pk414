@@ -1,7 +1,7 @@
-From a10aa4a699036074482f989ef85f49165230980d Mon Sep 17 00:00:00 2001
+From 1c63a4933b8624ac788a2d5353217aa27813db2d Mon Sep 17 00:00:00 2001
 From: Gao Chun <chun.gao@intel.com>
 Date: Thu, 26 Oct 2017 23:12:03 +0800
-Subject: [PATCH 410/525] Internal: drm/i915: Add interface to set ctm post
+Subject: [PATCH 410/548] Internal: drm/i915: Add interface to set ctm post
  offset
 
 In Android a 4x4 color transform matrix is provided to set color

@@ -1,7 +1,7 @@
-From 0705696feac74880771d6b3810b1bfc73574fde1 Mon Sep 17 00:00:00 2001
+From dcebe67e6681dfcebe65cc89c54dae400066ba89 Mon Sep 17 00:00:00 2001
 From: "Rafael J. Wysocki" <rafael.j.wysocki@intel.com>
 Date: Tue, 26 Sep 2017 22:45:44 +0200
-Subject: [PATCH 376/525] PM: ARM: locomo: Drop suspend and resume bus type
+Subject: [PATCH 376/548] PM: ARM: locomo: Drop suspend and resume bus type
  callbacks
 
 None of the locomo drivers in the tree implements the suspend and

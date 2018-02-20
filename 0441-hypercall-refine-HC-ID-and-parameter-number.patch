@@ -1,7 +1,7 @@
-From 2e13f2e55b6cce10dff5b92b28fe3fa33775ab70 Mon Sep 17 00:00:00 2001
+From 795b2f32a66384a75afb03153e2f2e9d6e4ec0a7 Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Thu, 11 Jan 2018 00:26:57 +0800
-Subject: [PATCH 441/525] hypercall: refine HC ID and parameter number
+Subject: [PATCH 441/548] hypercall: refine HC ID and parameter number
 
 Change-Id: Ie5b73055add4c69b4dbf5cae1bb8bf941997ee6b
 Tracked-On: 218445

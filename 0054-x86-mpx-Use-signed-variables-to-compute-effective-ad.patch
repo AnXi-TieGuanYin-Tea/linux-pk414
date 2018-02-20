@@ -1,7 +1,7 @@
-From 2a788916ca01e5d28c870d90747d0617cce84750 Mon Sep 17 00:00:00 2001
+From 7e39b658b7f27a1d6dc0008305ff6d1ed8eb8ca3 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Tue, 5 Sep 2017 15:01:19 -0700
-Subject: [PATCH 054/525] x86/mpx: Use signed variables to compute effective
+Subject: [PATCH 054/548] x86/mpx: Use signed variables to compute effective
  addresses
 
 Even though memory addresses are unsigned, the operands used to compute the

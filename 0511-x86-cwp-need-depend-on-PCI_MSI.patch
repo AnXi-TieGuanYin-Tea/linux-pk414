@@ -1,7 +1,7 @@
-From a027f3a2a5da56a0f496e6e20bc6c8fe1a2286f9 Mon Sep 17 00:00:00 2001
+From 2f2cee1ae51dc05376c5008dbce362a9fdef4b90 Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Thu, 18 Jan 2018 19:12:31 +0800
-Subject: [PATCH 511/525] x86: cwp need depend on PCI_MSI
+Subject: [PATCH 511/548] x86: cwp need depend on PCI_MSI
 
 Change-Id: If090f301a4c1074c0771f8db641dc543a903daec
 Tracked-On: 218445

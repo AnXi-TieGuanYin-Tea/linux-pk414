@@ -1,7 +1,7 @@
-From e29e4825951a5d417e9e0ef79b5fea20e4cbec57 Mon Sep 17 00:00:00 2001
+From 9220c971a1016beff85f3ee68f3c9c63be321fb2 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Thu, 11 Jan 2018 13:06:41 +0800
-Subject: [PATCH 444/525] vhm: fix issue in do_map_guest_phys
+Subject: [PATCH 444/548] vhm: fix issue in do_map_guest_phys
 
 In do_map_guest_phys(), we need to add a correct offset to get
 physical address of gpa. This patch can avoid kernel panic issue

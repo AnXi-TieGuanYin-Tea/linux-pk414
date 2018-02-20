@@ -1,7 +1,7 @@
-From 74d76b2f05e104b4ae885becd926a107ef869ab1 Mon Sep 17 00:00:00 2001
+From 33ed891c5d9d52dd7f7cef3e5693b7e28aa5f383 Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Fri, 17 Feb 2017 12:08:49 +0530
-Subject: [PATCH 253/525] ASoC: Intel: Skylake: Use device type to determine
+Subject: [PATCH 253/548] ASoC: Intel: Skylake: Use device type to determine
  SoundWire stream type
 
 To determine SoundWire stream type, device type information is

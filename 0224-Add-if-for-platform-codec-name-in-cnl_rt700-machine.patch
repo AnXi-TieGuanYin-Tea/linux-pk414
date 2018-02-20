@@ -1,7 +1,7 @@
-From 034f1c3925f2522b988fc14dcf41c224f021237f Mon Sep 17 00:00:00 2001
+From 4e7a6eae5d071a17aa5d2feeef61a9b4acf401c7 Mon Sep 17 00:00:00 2001
 From: Shreyas NC <shreyas.nc@intel.com>
 Date: Tue, 25 Oct 2016 13:03:36 +0530
-Subject: [PATCH 224/525] Add #if for platform/codec name in cnl_rt700 machine
+Subject: [PATCH 224/548] Add #if for platform/codec name in cnl_rt700 machine
 
 This is done to ensure same machine driver works for both
 FPGA as well as RVP.

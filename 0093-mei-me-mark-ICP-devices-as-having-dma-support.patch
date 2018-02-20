@@ -1,7 +1,7 @@
-From 5ace6f9a30f5aad0381a2d2cfbf17cf325604e66 Mon Sep 17 00:00:00 2001
+From a754d9328c1d9f0784981822094346ef24e91cec Mon Sep 17 00:00:00 2001
 From: Alexander Usyskin <alexander.usyskin@intel.com>
 Date: Wed, 18 Jan 2017 10:55:06 +0200
-Subject: [PATCH 093/525] mei: me: mark ICP devices as having dma support
+Subject: [PATCH 093/548] mei: me: mark ICP devices as having dma support
 
 Change-Id: If56dc851e4f02bfd5b74284248e2e4143902941b
 Signed-off-by: Alexander Usyskin <alexander.usyskin@intel.com>

@@ -1,7 +1,7 @@
-From 1dff1ffc0c823ead42fc5efc7e67c5633d08d746 Mon Sep 17 00:00:00 2001
+From 33dd5a54be0132b7fa015e3d5670f497bb02432f Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Thu, 16 Jul 2015 12:29:50 +0300
-Subject: [PATCH 098/525] char: rpmb: provide a user space interface
+Subject: [PATCH 098/548] char: rpmb: provide a user space interface
 
 The user space API is achieved via two synchronous IOCTLs.
 Simplified one, RPMB_IOC_REQ_CMD, were read result cycles is performed

@@ -1,7 +1,7 @@
-From 6609a40ecf5dbeee1ccda572b5d5a70430cbac2a Mon Sep 17 00:00:00 2001
+From b5d8e0f863b494384f821bb29319b3cc5fa0a025 Mon Sep 17 00:00:00 2001
 From: "Panwar, Ashish" <ashish.panwar@intel.com>
 Date: Wed, 20 Jan 2016 19:13:49 +0530
-Subject: [PATCH 305/525] ASoC: Intel: bxtn: Initialize fw tracing window for
+Subject: [PATCH 305/548] ASoC: Intel: bxtn: Initialize fw tracing window for
  bxt
 
 Initializing the tracing window for the platform along

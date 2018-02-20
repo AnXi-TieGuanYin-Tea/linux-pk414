@@ -1,7 +1,7 @@
-From b56267f1d11cd50278d0e239cdc7fe1e0878e73a Mon Sep 17 00:00:00 2001
+From 8bec7f79b8a0b5d36571f8a9221c1c5fb820d98e Mon Sep 17 00:00:00 2001
 From: Alexander Usyskin <alexander.usyskin@intel.com>
 Date: Sun, 13 Nov 2016 10:17:48 +0200
-Subject: [PATCH 085/525] mei: define dma ring buffer sizes for PCH12 HW and
+Subject: [PATCH 085/548] mei: define dma ring buffer sizes for PCH12 HW and
  newer
 
 Define dma ring buffer sizes for PCH12 (CLN HW and newer)

@@ -1,7 +1,7 @@
-From d356fc2c429de66ad1fe0d4f38ff69a583802668 Mon Sep 17 00:00:00 2001
+From 3e6acee2cc9634a69de0baf773a9895e4bec6e88 Mon Sep 17 00:00:00 2001
 From: "Rafael J. Wysocki" <rafael.j.wysocki@intel.com>
 Date: Sat, 30 Sep 2017 01:31:15 +0200
-Subject: [PATCH 360/525] PCI / PM: Add dev_dbg() to print device suspend power
+Subject: [PATCH 360/548] PCI / PM: Add dev_dbg() to print device suspend power
  states
 
 It sometimes is useful to know what power states the kernel thinks

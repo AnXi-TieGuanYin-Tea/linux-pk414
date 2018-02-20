@@ -1,7 +1,7 @@
-From e140f5691704ef6f03572c4207d3fb37c63c1836 Mon Sep 17 00:00:00 2001
+From 0040d981e5d4b96ef3fa7fdb3646c453fa154ab2 Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Tue, 6 Dec 2016 15:22:43 +0530
-Subject: [PATCH 267/525] ASoC: Intel: Skylake: Set DUM bit in EM2 register
+Subject: [PATCH 267/548] ASoC: Intel: Skylake: Set DUM bit in EM2 register
 
 HW recommends that we set DUM bit so that DPIB write request
 will occur every frame regardless whether DPIB has changed or not.

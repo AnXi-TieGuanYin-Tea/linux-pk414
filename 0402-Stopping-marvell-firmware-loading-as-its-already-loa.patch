@@ -1,7 +1,7 @@
-From 96fb019a0edcb149c8a7793b239e3bc3e7c91902 Mon Sep 17 00:00:00 2001
+From 2a49e17dfb679082743ad986d529a7db3af1a85b Mon Sep 17 00:00:00 2001
 From: aprasadd <amalendu.prasad.das@intel.com>
 Date: Fri, 22 Dec 2017 16:52:31 +0530
-Subject: [PATCH 402/525] Stopping marvell firmware loading as its already
+Subject: [PATCH 402/548] Stopping marvell firmware loading as its already
  loaded with WiFi firmware
 
 Change-Id: Ic84052f09f53a7ddd0989d05f128cc20f8198c9d

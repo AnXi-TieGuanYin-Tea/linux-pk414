@@ -1,4 +1,4 @@
-From 4befc95f87655456f06525083ed36940fe7e2cab Mon Sep 17 00:00:00 2001
+From 2edd2d7dd0906596352a7f676bcfa0553b70ae28 Mon Sep 17 00:00:00 2001
 From: Sean Paul <seanpaul@chromium.org>
 Date: Mon, 8 Jan 2018 14:55:38 -0500
 Subject: [PATCH 531/548] UPSTREAM: drm: Add some HDCP related #defines

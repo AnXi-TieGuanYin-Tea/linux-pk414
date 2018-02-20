@@ -1,7 +1,7 @@
-From b38773584b8a125292b63a2f12ffe1e45db81297 Mon Sep 17 00:00:00 2001
+From 733cab5c31d39187192bd1e7b6ea716d631a1fe4 Mon Sep 17 00:00:00 2001
 From: "Diwakar, Praveen" <praveen.diwakar@intel.com>
 Date: Wed, 28 Jun 2017 16:42:00 +0530
-Subject: [PATCH 282/525] ASoC: Intel: Skylake: Add support for getting hw
+Subject: [PATCH 282/548] ASoC: Intel: Skylake: Add support for getting hw
  config from DSP
 
 This patch gets hw config from DSP by sending hw config ipc.

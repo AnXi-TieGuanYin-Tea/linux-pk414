@@ -1,7 +1,7 @@
-From e3e037c6d5cf316bf25892d743e870d50503191a Mon Sep 17 00:00:00 2001
+From 6d3ecc1d02d5d51f228c0c6c6b5f39e0b9c3be67 Mon Sep 17 00:00:00 2001
 From: Ping Gao <ping.a.gao@intel.com>
 Date: Wed, 6 Sep 2017 19:29:48 +0800
-Subject: [PATCH 486/525] drm/i915/gvt: Enable guest conformance detection
+Subject: [PATCH 486/548] drm/i915/gvt: Enable guest conformance detection
 
 The first overall comparison happen before the wordload submission.
 

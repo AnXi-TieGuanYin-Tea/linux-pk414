@@ -1,7 +1,7 @@
-From ce2bfe1281ed7aa48ad00ff22865707abebda7dc Mon Sep 17 00:00:00 2001
+From c78ea6f5b1899a60b7826cfbdb2b908fcf68da50 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Tue, 19 Dec 2017 10:22:34 +0800
-Subject: [PATCH 458/525] drm/i915/gvt: local display support
+Subject: [PATCH 458/548] drm/i915/gvt: local display support
 
 Added local display dispaly support for GVT-g.
 
@@ -24,12 +24,12 @@ Tested-by: Dong, Eddie <eddie.dong@intel.com>
  drivers/gpu/drm/i915/gvt/vgpu.c      |  4 ++
  drivers/gpu/drm/i915/i915_debugfs.c  |  7 +++
  drivers/gpu/drm/i915/i915_irq.c      | 25 +++++++++-
- drivers/gpu/drm/i915/intel_display.c | 49 ++++++++++++++++++++
+ drivers/gpu/drm/i915/intel_display.c | 42 +++++++++++++++++
  drivers/gpu/drm/i915/intel_dp.c      |  2 +-
  drivers/gpu/drm/i915/intel_drv.h     |  1 +
  drivers/gpu/drm/i915/intel_pm.c      | 58 ++++++++++++++++++++---
  drivers/gpu/drm/i915/intel_sprite.c  | 46 +++++++++++++++++++
- 15 files changed, 370 insertions(+), 37 deletions(-)
+ 15 files changed, 363 insertions(+), 37 deletions(-)
  mode change 100755 => 100644 drivers/gpu/drm/i915/gvt/handlers.c
 
 diff --git a/drivers/gpu/drm/i915/gvt/display.c b/drivers/gpu/drm/i915/gvt/display.c
@@ -550,7 +550,7 @@ index c37638141e36..d56811ee19f4 100644
  }
  
 diff --git a/drivers/gpu/drm/i915/intel_display.c b/drivers/gpu/drm/i915/intel_display.c
-index 095a2240af4f..12a57e984d03 100644
+index 46485692db48..b04cbe2a5676 100644
 --- a/drivers/gpu/drm/i915/intel_display.c
 +++ b/drivers/gpu/drm/i915/intel_display.c
 @@ -49,6 +49,10 @@
@@ -564,7 +564,7 @@ index 095a2240af4f..12a57e984d03 100644
  /* Primary plane formats for gen <= 3 */
  static const uint32_t i8xx_primary_formats[] = {
  	DRM_FORMAT_C8,
-@@ -3595,6 +3606,9 @@ static void skylake_update_primary_plane(struct intel_plane *plane,
+@@ -3559,6 +3563,9 @@ static void skylake_update_primary_plane(struct intel_plane *plane,
  	int dst_w = drm_rect_width(&plane_state->base.dst);
  	int dst_h = drm_rect_height(&plane_state->base.dst);
  	unsigned long irqflags;
@@ -574,7 +574,7 @@ index 095a2240af4f..12a57e984d03 100644
  
  	/* Sizes are 0 based */
  	src_w--;
-@@ -3616,6 +3630,30 @@ static void skylake_update_primary_plane(struct intel_plane *plane,
+@@ -3580,6 +3587,30 @@ static void skylake_update_primary_plane(struct intel_plane *plane,
  			      PLANE_COLOR_PLANE_GAMMA_DISABLE);
  	}
  
@@ -605,7 +605,7 @@ index 095a2240af4f..12a57e984d03 100644
  	I915_WRITE_FW(PLANE_CTL(pipe, plane_id), plane_ctl);
  	I915_WRITE_FW(PLANE_OFFSET(pipe, plane_id), (src_y << 16) | src_x);
  	I915_WRITE_FW(PLANE_STRIDE(pipe, plane_id), stride);
-@@ -3655,6 +3693,17 @@ static void skylake_disable_primary_plane(struct intel_plane *primary,
+@@ -3619,6 +3650,17 @@ static void skylake_disable_primary_plane(struct intel_plane *primary,
  	enum plane_id plane_id = primary->id;
  	enum pipe pipe = primary->pipe;
  	unsigned long irqflags;
@@ -624,7 +624,7 @@ index 095a2240af4f..12a57e984d03 100644
  	spin_lock_irqsave(&dev_priv->uncore.lock, irqflags);
  
 diff --git a/drivers/gpu/drm/i915/intel_dp.c b/drivers/gpu/drm/i915/intel_dp.c
-index e00569f6132c..c0e5e4a6fa6f 100644
+index 5eeb77439d67..65726b8aaa45 100644
 --- a/drivers/gpu/drm/i915/intel_dp.c
 +++ b/drivers/gpu/drm/i915/intel_dp.c
 @@ -428,7 +428,7 @@ uint32_t intel_dp_pack_aux(const uint8_t *src, int src_bytes)
@@ -637,10 +637,10 @@ index e00569f6132c..c0e5e4a6fa6f 100644
  	int i;
  	if (dst_bytes > 4)
 diff --git a/drivers/gpu/drm/i915/intel_drv.h b/drivers/gpu/drm/i915/intel_drv.h
-index 6a033c998ae1..7e4e0d2ab649 100644
+index 001fad2d6320..f7ea91c20e71 100644
 --- a/drivers/gpu/drm/i915/intel_drv.h
 +++ b/drivers/gpu/drm/i915/intel_drv.h
-@@ -1515,6 +1515,7 @@ int intel_dp_rate_select(struct intel_dp *intel_dp, int rate);
+@@ -1516,6 +1516,7 @@ int intel_dp_rate_select(struct intel_dp *intel_dp, int rate);
  void intel_dp_hot_plug(struct intel_encoder *intel_encoder);
  void intel_power_sequencer_reset(struct drm_i915_private *dev_priv);
  uint32_t intel_dp_pack_aux(const uint8_t *src, int src_bytes);
@@ -751,7 +751,7 @@ index 014e5c08571a..4fd77a5a7cd4 100644
  		struct intel_crtc_state *cstate;
  
 diff --git a/drivers/gpu/drm/i915/intel_sprite.c b/drivers/gpu/drm/i915/intel_sprite.c
-index 524933b01483..3c4eda596140 100644
+index f8ebeb5ffb96..5276027e7d58 100644
 --- a/drivers/gpu/drm/i915/intel_sprite.c
 +++ b/drivers/gpu/drm/i915/intel_sprite.c
 @@ -41,6 +41,10 @@

@@ -1,7 +1,7 @@
-From 1f95c9129e203a22db2486723c1d8574dc65df89 Mon Sep 17 00:00:00 2001
+From 3b5f0ae8fad3f87d85f80f6568cd0d18f9f24968 Mon Sep 17 00:00:00 2001
 From: Anamika Lal <anamikax.lal@intel.com>
 Date: Thu, 29 Jun 2017 11:57:13 +0530
-Subject: [PATCH 297/525] FIX Kconfigs to build compile with all platforms
+Subject: [PATCH 297/548] FIX Kconfigs to build compile with all platforms
 
 Change-Id: I4e29037b8c4d2068c244b30668133ae243cb957b
 Signed-off-by: Anamika Lal <anamikax.lal@intel.com>

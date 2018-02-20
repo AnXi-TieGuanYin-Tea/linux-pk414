@@ -1,4 +1,4 @@
-From dc5a5e3748b5173a82e9e1099583efa153b39d2a Mon Sep 17 00:00:00 2001
+From 845639ceb8c18169b1dddcb86214f8848bdf959a Mon Sep 17 00:00:00 2001
 From: Sean Paul <seanpaul@chromium.org>
 Date: Mon, 8 Jan 2018 14:55:36 -0500
 Subject: [PATCH 529/548] UPSTREAM: drm/i915: Add more control to wait_for
@@ -42,7 +42,7 @@ Change-Id: I44024180b4eaef7e214ca5c9aee130ea936ac9e4
  3 files changed, 39 insertions(+), 16 deletions(-)
 
 diff --git a/drivers/gpu/drm/i915/intel_drv.h b/drivers/gpu/drm/i915/intel_drv.h
-index 8a08334e941d..7a9d12c40a60 100644
+index 882fd2e5e39c..ed6399e9aa14 100644
 --- a/drivers/gpu/drm/i915/intel_drv.h
 +++ b/drivers/gpu/drm/i915/intel_drv.h
 @@ -41,20 +41,21 @@

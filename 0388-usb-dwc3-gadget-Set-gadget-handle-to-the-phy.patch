@@ -1,7 +1,7 @@
-From 4587cef8a6e8e27d59e2f0532c1b713b6944163b Mon Sep 17 00:00:00 2001
+From 3d7f75ca4d2ddced61c66123d47aaea5f606c08f Mon Sep 17 00:00:00 2001
 From: Sathyanarayanan Kuppuswamy <sathyanarayanan.kuppuswamy@intel.com>
 Date: Tue, 2 May 2017 17:13:46 -0700
-Subject: [PATCH 388/525] usb: dwc3: gadget: Set gadget handle to the phy
+Subject: [PATCH 388/548] usb: dwc3: gadget: Set gadget handle to the phy
 
 This patch adds support to set gadget handle to phy explictly.
 Some phy drivers uses this as an indication to change the

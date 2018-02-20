@@ -1,7 +1,7 @@
-From 17e15d97a67a7684362f2ac5db614f02102c9f56 Mon Sep 17 00:00:00 2001
+From fc256f0c5d1cf375380c2cbafe08a59b77524c96 Mon Sep 17 00:00:00 2001
 From: "Li, Fei1" <fei1.li@intel.com>
 Date: Fri, 12 Jan 2018 22:59:29 +0800
-Subject: [PATCH 503/525] Shared_buf: add shared buffer
+Subject: [PATCH 503/548] Shared_buf: add shared buffer
 
 Added a ring buffer shared between CWP hypervisor and service OS.
 

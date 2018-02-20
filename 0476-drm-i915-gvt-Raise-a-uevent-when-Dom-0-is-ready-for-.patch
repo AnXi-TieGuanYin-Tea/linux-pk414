@@ -1,7 +1,7 @@
-From f89dbe21ec058fcac98f0c0abd10bd5250e6046c Mon Sep 17 00:00:00 2001
+From fe4973cf084ae46f9133bb43366e3b1ebc5e3d6a Mon Sep 17 00:00:00 2001
 From: Satyeshwar Singh <satyeshwar.singh@intel.com>
 Date: Wed, 13 Sep 2017 17:29:57 -0700
-Subject: [PATCH 476/525] drm/i915/gvt: Raise a uevent when Dom 0 is ready for
+Subject: [PATCH 476/548] drm/i915/gvt: Raise a uevent when Dom 0 is ready for
  Dom U
 
 HV vendors want to know when Dom 0 is ready to start a Dom U
@@ -84,10 +84,10 @@ index 2068ab8cb23c..95b806c49397 100644
 +}
  #endif /* _GVT_MPT_H_ */
 diff --git a/drivers/gpu/drm/i915/intel_display.c b/drivers/gpu/drm/i915/intel_display.c
-index 871551022b45..166d1b3f305a 100644
+index 2695d01ec4c9..9e62f098842d 100644
 --- a/drivers/gpu/drm/i915/intel_display.c
 +++ b/drivers/gpu/drm/i915/intel_display.c
-@@ -13860,6 +13860,15 @@ static void intel_setup_outputs(struct drm_i915_private *dev_priv)
+@@ -13866,6 +13866,15 @@ static void intel_setup_outputs(struct drm_i915_private *dev_priv)
  			intel_encoder_clones(encoder);
  	}
  

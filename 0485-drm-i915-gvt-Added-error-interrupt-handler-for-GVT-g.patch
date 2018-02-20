@@ -1,7 +1,7 @@
-From 7c7459a18e6e57761e0125221ce0e8386fefcf8c Mon Sep 17 00:00:00 2001
+From de29cc08d73e161193f95ce1dc2ad2908602aea0 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Thu, 24 Aug 2017 06:59:52 +0800
-Subject: [PATCH 485/525] drm/i915/gvt: Added error interrupt handler for GVT-g
+Subject: [PATCH 485/548] drm/i915/gvt: Added error interrupt handler for GVT-g
  guest
 
 An draft version of adding error interrupt handler in GVT-g guest, to

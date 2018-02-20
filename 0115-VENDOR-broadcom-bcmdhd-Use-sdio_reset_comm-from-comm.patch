@@ -1,7 +1,7 @@
-From ac14fd952a434be01fda89eb790c0543a531fc6c Mon Sep 17 00:00:00 2001
+From aa1f1bca7cf46658038d89705e2b32eedb1178f6 Mon Sep 17 00:00:00 2001
 From: Mattias Nissler <mnissler@google.com>
 Date: Fri, 21 Apr 2017 23:34:26 +0000
-Subject: [PATCH 115/525] VENDOR: broadcom: bcmdhd: Use sdio_reset_comm from
+Subject: [PATCH 115/548] VENDOR: broadcom: bcmdhd: Use sdio_reset_comm from
  common kernel
 
 A proper definition of sdio_reset_comm() was brought in when merging

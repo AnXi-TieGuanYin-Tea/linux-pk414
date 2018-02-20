@@ -1,7 +1,7 @@
-From b3f48e79a2538428a195f3c85e1526bbe9046e6b Mon Sep 17 00:00:00 2001
+From c7c1c03e00246c1702d1d867c5b86315fa3c66e5 Mon Sep 17 00:00:00 2001
 From: "Zhang, Qi" <qi1.zhang@intel.com>
 Date: Tue, 12 Dec 2017 15:16:21 +0800
-Subject: [PATCH 396/525] trusty: Update Trusty timer solution
+Subject: [PATCH 396/548] trusty: Update Trusty timer solution
 
 1. Add new customized SMC calls
 2. Move send pending interrupt implementation to trusty-irq.c

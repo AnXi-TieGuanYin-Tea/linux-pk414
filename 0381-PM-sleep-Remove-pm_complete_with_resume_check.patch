@@ -1,7 +1,7 @@
-From f705d7c5c65e49cac1748d3ccee054a18ee9365a Mon Sep 17 00:00:00 2001
+From 8db48891ad454e37ada8e9aa4f4b417548e24c87 Mon Sep 17 00:00:00 2001
 From: Ulf Hansson <ulf.hansson@linaro.org>
 Date: Tue, 3 Oct 2017 09:11:07 +0200
-Subject: [PATCH 381/525] PM / sleep: Remove pm_complete_with_resume_check()
+Subject: [PATCH 381/548] PM / sleep: Remove pm_complete_with_resume_check()
 
 According to recent changes for ACPI, the are longer any users of
 pm_complete_with_resume_check(), thus let's drop it.

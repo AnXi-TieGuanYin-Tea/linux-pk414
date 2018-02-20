@@ -1,7 +1,7 @@
-From b165f1b764ad2f5293fa83287294125a6bd6be94 Mon Sep 17 00:00:00 2001
+From 0b7b7f804accab069e6c6398ea333e16a30fb8f5 Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Wed, 31 Jan 2018 21:05:00 +0800
-Subject: [PATCH 524/525] update MEM_ATTR_WRITE_PROT with WB policy
+Subject: [PATCH 524/548] update MEM_ATTR_WRITE_PROT with WB policy
 
 Change-Id: Icfc16c58148f8329528e27346dc2db047b7f37e2
 Tracked-On:

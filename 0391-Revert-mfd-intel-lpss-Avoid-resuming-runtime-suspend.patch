@@ -1,7 +1,7 @@
-From af93e5cd30daa8c7d704f383fd3745401889fb45 Mon Sep 17 00:00:00 2001
+From eeafc4da4bd8b44e66981456737e0af76943259c Mon Sep 17 00:00:00 2001
 From: Jarkko Nikula <jarkko.nikula@linux.intel.com>
 Date: Fri, 9 Jun 2017 14:45:43 +0300
-Subject: [PATCH 391/525] Revert "mfd: intel-lpss: Avoid resuming
+Subject: [PATCH 391/548] Revert "mfd: intel-lpss: Avoid resuming
  runtime-suspended lpss unnecessarily"
 
 This reverts commit d4688de00e18f1286122957e5f868c3091156bc3.

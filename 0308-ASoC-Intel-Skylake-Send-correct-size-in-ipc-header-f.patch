@@ -1,7 +1,7 @@
-From 2964dee43ea16f22389d0163a1a72b7520ca82a8 Mon Sep 17 00:00:00 2001
+From 42f51649bc80bc1f1cef4f72e862d986305efdb1 Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Thu, 25 Feb 2016 11:13:35 +0530
-Subject: [PATCH 308/525] ASoC: Intel: Skylake: Send correct size in ipc header
+Subject: [PATCH 308/548] ASoC: Intel: Skylake: Send correct size in ipc header
  for large config
 
 To query information from FW we use "Large Config Get" message which accept

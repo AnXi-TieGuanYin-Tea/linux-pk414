@@ -1,7 +1,7 @@
-From 0324f9cffbeb9be2c460dcb1f05c1cfae9619e41 Mon Sep 17 00:00:00 2001
+From e9c8b59a77ae348c9e77fa20d4c29d1209d3543f Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Fri, 7 Jul 2017 08:40:49 +0530
-Subject: [PATCH 127/525] Add support for CNL FPGA
+Subject: [PATCH 127/548] Add support for CNL FPGA
 
 This includes IMR allocation
 

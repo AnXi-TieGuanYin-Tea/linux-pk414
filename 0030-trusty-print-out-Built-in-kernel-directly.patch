@@ -1,7 +1,7 @@
-From 4a71d758402bfeddffe5742ab9c2f3eb047d2a68 Mon Sep 17 00:00:00 2001
+From 0ed74667c071c6e33a6fd8dcdac4a1325958a2b8 Mon Sep 17 00:00:00 2001
 From: "Yan, Shaoou" <shaopu.yan@intel.com>
 Date: Thu, 8 Dec 2016 04:58:55 +0000
-Subject: [PATCH 030/525] trusty: print out "Built: " in kernel directly.
+Subject: [PATCH 030/548] trusty: print out "Built: " in kernel directly.
 
 do this instead of get them from trusty which can save 28
 times vmexit/vmresume switch, so we can reduce some boot time

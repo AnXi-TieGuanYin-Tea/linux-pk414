@@ -1,7 +1,7 @@
-From 9663cb79708f3bf9ba83a9393b9f6dbc771f6440 Mon Sep 17 00:00:00 2001
+From d454f9764b4b703463ca86667a5966f989f32fdd Mon Sep 17 00:00:00 2001
 From: "Zhong,Fangjian" <fangjian.zhong@intel.com>
 Date: Tue, 11 Jul 2017 04:15:01 +0000
-Subject: [PATCH 044/525] Revert "[BXT][DYNAMIC TIMER] Enable dynamic timer"
+Subject: [PATCH 044/548] Revert "[BXT][DYNAMIC TIMER] Enable dynamic timer"
 
 This reverts commit 56dae7b0c686eeaf2ff604497ab940328124f611.
 

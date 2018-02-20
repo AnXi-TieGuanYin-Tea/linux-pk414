@@ -1,7 +1,7 @@
-From bb8fe9f178f3144ef4a4c3f6b1613678abd82b24 Mon Sep 17 00:00:00 2001
+From cad0d0c2c33edd1894931db888c490f24a07658f Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Arve=20Hj=C3=B8nnev=C3=A5g?= <arve@android.com>
 Date: Mon, 18 Nov 2013 20:46:48 -0800
-Subject: [PATCH 008/525] trusty: Add trusty driver
+Subject: [PATCH 008/548] trusty: Add trusty driver
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit

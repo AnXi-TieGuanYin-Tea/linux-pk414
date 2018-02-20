@@ -1,7 +1,7 @@
-From 9dcb52edfc1a84ae522dbd24a620ad0b4d3e810d Mon Sep 17 00:00:00 2001
+From 882fbf2c5f88b9b1e677f10de7a1ba1a5a284e38 Mon Sep 17 00:00:00 2001
 From: "Zhu, Bing" <bing.zhu@intel.com>
 Date: Fri, 15 Jul 2016 13:24:42 +0800
-Subject: [PATCH 026/525] trusty: implement trusty OS timer proxy for
+Subject: [PATCH 026/548] trusty: implement trusty OS timer proxy for
  performance enhancement
 
 Previously VMX timer causes 14 times of vmexit/vmresume switches every

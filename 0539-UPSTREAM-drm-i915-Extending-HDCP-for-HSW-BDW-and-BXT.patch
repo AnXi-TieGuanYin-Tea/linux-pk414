@@ -1,4 +1,4 @@
-From 21d4ebe4b521d8484bc33ada228724a581815624 Mon Sep 17 00:00:00 2001
+From 7e2d1fd733d417810e13a08fc7a56b0b1c53f906 Mon Sep 17 00:00:00 2001
 From: Ramalingam C <ramalingam.c@intel.com>
 Date: Thu, 18 Jan 2018 11:18:05 +0530
 Subject: [PATCH 539/548] UPSTREAM: drm/i915: Extending HDCP for HSW, BDW and
@@ -35,10 +35,10 @@ index 17f3650acb38..cf4cdfecdb4a 100644
  #define  HDCP_FUSE_IN_PROGRESS	BIT(7)
  #define  HDCP_FUSE_ERROR		BIT(6)
 diff --git a/drivers/gpu/drm/i915/intel_dp.c b/drivers/gpu/drm/i915/intel_dp.c
-index 1a0208b39502..91240483c18d 100644
+index 6e93b1c6a44c..85e770e3bd20 100644
 --- a/drivers/gpu/drm/i915/intel_dp.c
 +++ b/drivers/gpu/drm/i915/intel_dp.c
-@@ -6333,7 +6333,7 @@ intel_dp_init_connector(struct intel_digital_port *intel_dig_port,
+@@ -6339,7 +6339,7 @@ intel_dp_init_connector(struct intel_digital_port *intel_dig_port,
  
  	intel_dp_add_properties(intel_dp, connector);
  
@@ -48,10 +48,10 @@ index 1a0208b39502..91240483c18d 100644
  		if (ret)
  			DRM_DEBUG_KMS("HDCP init failed, skipping.\n");
 diff --git a/drivers/gpu/drm/i915/intel_drv.h b/drivers/gpu/drm/i915/intel_drv.h
-index 1ad0345834b2..81c9fff21758 100644
+index 92ff09fe32ac..b015511dbcb9 100644
 --- a/drivers/gpu/drm/i915/intel_drv.h
 +++ b/drivers/gpu/drm/i915/intel_drv.h
-@@ -1808,6 +1808,7 @@ int intel_hdcp_init(struct intel_connector *connector,
+@@ -1809,6 +1809,7 @@ int intel_hdcp_init(struct intel_connector *connector,
  int intel_hdcp_enable(struct intel_connector *connector);
  int intel_hdcp_disable(struct intel_connector *connector);
  int intel_hdcp_check_link(struct intel_connector *connector);

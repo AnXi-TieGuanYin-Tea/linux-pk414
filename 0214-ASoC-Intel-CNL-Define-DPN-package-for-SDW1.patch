@@ -1,7 +1,7 @@
-From e4d570486e6dcfc5d88479f1f6ea6396138a8d48 Mon Sep 17 00:00:00 2001
+From 66d3195da78e132ba045b99bc905a7c5988ede5f Mon Sep 17 00:00:00 2001
 From: Anil Bhawangirkar <anil.k.bhawangirkar@intel.com>
 Date: Wed, 17 Aug 2016 12:23:35 +0530
-Subject: [PATCH 214/525] =?UTF-8?q?ASoC:=20Intel:=20CNL:=20Define=20?=
+Subject: [PATCH 214/548] =?UTF-8?q?ASoC:=20Intel:=20CNL:=20Define=20?=
  =?UTF-8?q?=E2=80=9CDPN=E2=80=9D=20package=20for=20SDW1.?=
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

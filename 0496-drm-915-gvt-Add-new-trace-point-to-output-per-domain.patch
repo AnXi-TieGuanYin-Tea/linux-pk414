@@ -1,7 +1,7 @@
-From f08a58bb521240cbd12e983d9a7335cb6b3d7a73 Mon Sep 17 00:00:00 2001
+From 82e1b62684989cb625e3e8e3cc3c5b9c44e48081 Mon Sep 17 00:00:00 2001
 From: Brahim Abes <brahimx.abes@intel.com>
 Date: Thu, 4 Jan 2018 21:51:33 +0800
-Subject: [PATCH 496/525] drm/915/gvt: Add new trace point to output per domain
+Subject: [PATCH 496/548] drm/915/gvt: Add new trace point to output per domain
  info
 
 Added trace point "i915_gem_request_add_domain" that prints the following
@@ -139,10 +139,10 @@ index ef72da74b87f..281521f0fcfa 100644
  	    TP_PROTO(struct drm_i915_gem_request *req),
  	    TP_ARGS(req),
 diff --git a/drivers/gpu/drm/i915/intel_drv.h b/drivers/gpu/drm/i915/intel_drv.h
-index 7e4e0d2ab649..299b5d89992e 100644
+index f7ea91c20e71..72d05ec59e86 100644
 --- a/drivers/gpu/drm/i915/intel_drv.h
 +++ b/drivers/gpu/drm/i915/intel_drv.h
-@@ -1230,6 +1230,11 @@ static inline bool intel_irqs_enabled(struct drm_i915_private *dev_priv)
+@@ -1231,6 +1231,11 @@ static inline bool intel_irqs_enabled(struct drm_i915_private *dev_priv)
  	return dev_priv->pm.irqs_enabled;
  }
  

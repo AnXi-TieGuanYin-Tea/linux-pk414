@@ -1,7 +1,7 @@
-From 8d8849fcc457f2321495c98380de6596f2dee6af Mon Sep 17 00:00:00 2001
+From b71a43de79b3fee03c7fa625c70a6eb499643739 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Thu, 1 Jun 2017 12:30:10 -0700
-Subject: [PATCH 064/525] x86/insn-eval: Add function to get default params of
+Subject: [PATCH 064/548] x86/insn-eval: Add function to get default params of
  code segment
 
 Obtain the default values of the address and operand sizes as specified in

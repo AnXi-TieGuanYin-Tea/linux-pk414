@@ -1,7 +1,7 @@
-From f886ddc8c80aedc197c6839023f7ef4718601ce4 Mon Sep 17 00:00:00 2001
+From 68699297607dce7bab3a52bc59e2b45c2e426c9d Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Thu, 28 Dec 2017 12:21:16 +0800
-Subject: [PATCH 459/525] drm/i915/gvt: local display support in GVT-g guest
+Subject: [PATCH 459/548] drm/i915/gvt: local display support in GVT-g guest
 
 This patch includes below features in GVT-g guest
 1. DP on port A will be treated as external DP
@@ -33,7 +33,7 @@ index 5e5fe03b638c..c14fc25678f3 100644
  
  	if (type == INTEL_OUTPUT_HDMI)
 diff --git a/drivers/gpu/drm/i915/intel_display.c b/drivers/gpu/drm/i915/intel_display.c
-index 12a57e984d03..871551022b45 100644
+index b04cbe2a5676..2695d01ec4c9 100644
 --- a/drivers/gpu/drm/i915/intel_display.c
 +++ b/drivers/gpu/drm/i915/intel_display.c
 @@ -11692,7 +11692,16 @@ verify_crtc_state(struct drm_crtc *crtc,
@@ -55,7 +55,7 @@ index 12a57e984d03..871551022b45 100644
  		I915_STATE_WARN(1, "pipe state doesn't match!\n");
  		intel_dump_pipe_config(intel_crtc, pipe_config,
 diff --git a/drivers/gpu/drm/i915/intel_dp.c b/drivers/gpu/drm/i915/intel_dp.c
-index c0e5e4a6fa6f..dfdab853734d 100644
+index 65726b8aaa45..4e4929a31f0a 100644
 --- a/drivers/gpu/drm/i915/intel_dp.c
 +++ b/drivers/gpu/drm/i915/intel_dp.c
 @@ -1973,7 +1973,12 @@ static void wait_panel_status(struct intel_dp *intel_dp,

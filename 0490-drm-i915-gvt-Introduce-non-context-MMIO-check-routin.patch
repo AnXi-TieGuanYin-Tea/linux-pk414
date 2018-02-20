@@ -1,7 +1,7 @@
-From ea11019030e4fe176de612afa9c115a9a3cbf8e5 Mon Sep 17 00:00:00 2001
+From 6f76059de2d78078a957908d50eb979efcdeb001 Mon Sep 17 00:00:00 2001
 From: Ping Gao <ping.a.gao@intel.com>
 Date: Thu, 31 Aug 2017 10:45:05 +0800
-Subject: [PATCH 490/525] drm/i915/gvt: Introduce non-context MMIO check
+Subject: [PATCH 490/548] drm/i915/gvt: Introduce non-context MMIO check
  routines
 
 Guest conformance check can be implemented by verifying whether the

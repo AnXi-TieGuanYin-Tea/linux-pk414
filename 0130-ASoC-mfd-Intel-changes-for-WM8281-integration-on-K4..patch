@@ -1,7 +1,7 @@
-From 657b822b6c3fa1024b9b6779e5b00142ffe0640d Mon Sep 17 00:00:00 2001
+From d4f1a34bf817890c9c552430e32765d095b6240c Mon Sep 17 00:00:00 2001
 From: Ramesh Babu <ramesh.babu@intel.com>
 Date: Thu, 30 Apr 2015 12:36:21 +0530
-Subject: [PATCH 130/525] ASoC: mfd: Intel changes for WM8281 integration on
+Subject: [PATCH 130/548] ASoC: mfd: Intel changes for WM8281 integration on
  K4.0
 
 The changes are related to arizona MFD changes

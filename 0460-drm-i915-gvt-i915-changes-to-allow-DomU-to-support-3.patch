@@ -1,7 +1,7 @@
-From 3274cb143e2fb63817c6e62e804112fe1726997b Mon Sep 17 00:00:00 2001
+From 47bc6494bf7d9bfc451f6c9375524ccbc1fe56af Mon Sep 17 00:00:00 2001
 From: Michael Byrne <michaelx.byrne@intel.com>
 Date: Wed, 25 Oct 2017 13:12:34 +0200
-Subject: [PATCH 460/525] drm/i915/gvt: i915 changes to allow DomU to support 3
+Subject: [PATCH 460/548] drm/i915/gvt: i915 changes to allow DomU to support 3
  HDMI displays.
 
 If vgpu is active;

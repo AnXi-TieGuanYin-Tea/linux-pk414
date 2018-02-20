@@ -1,7 +1,7 @@
-From 026660a6824f7a624ed07692f760a8fa5d6c1088 Mon Sep 17 00:00:00 2001
+From 62f702587b7b706ba3c94596a7274a9469c4ae86 Mon Sep 17 00:00:00 2001
 From: Imed BEN ROMDHANE <imedx.ben.romdhane@intel.com>
 Date: Tue, 12 Sep 2017 20:44:07 +0530
-Subject: [PATCH 330/525] ASoC: Intel: Skylake: Return default sampling rate
+Subject: [PATCH 330/548] ASoC: Intel: Skylake: Return default sampling rate
  for Trace compress devices.
 
 Defining sampling rate for getting FW logs from FwLogging/Trace compress

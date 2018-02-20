@@ -1,7 +1,7 @@
-From 06dce0ee7cd836f51b38563f7485b6b4bf983b6b Mon Sep 17 00:00:00 2001
+From fb8c8d5bbd3ac27d78d7062d7a3f0e587639de8b Mon Sep 17 00:00:00 2001
 From: Anamika Lal <anamikax.lal@intel.com>
 Date: Thu, 10 Aug 2017 12:28:20 +0530
-Subject: [PATCH 314/525] ASoC: rt700: Remove unused variables.
+Subject: [PATCH 314/548] ASoC: rt700: Remove unused variables.
 
 Change-Id: Ia975415cafad536832d3383ed3e8c4314bf0d313
 Signed-off-by: Anamika Lal <anamikax.lal@intel.com>

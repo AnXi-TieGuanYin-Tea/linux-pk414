@@ -1,7 +1,7 @@
-From f436207d4a45c7c6821b7b613584952e4b45b6c3 Mon Sep 17 00:00:00 2001
+From 268ad2ce2101617592f79042424e269bcb0a3d59 Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Fri, 21 Jul 2017 02:08:12 +0530
-Subject: [PATCH 414/525] ALSA: hda: Make sure DMA is started by reading back
+Subject: [PATCH 414/548] ALSA: hda: Make sure DMA is started by reading back
  the RUN bit
 
 As per HW recommendation, after setting the RUN bit,

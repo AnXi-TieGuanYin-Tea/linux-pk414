@@ -1,4 +1,4 @@
-From 001cc55b3f3b3bd3669ae50bca78527dd01e8ed7 Mon Sep 17 00:00:00 2001
+From 70345556e0d73d7d45c6b3f977ddf40259419bb4 Mon Sep 17 00:00:00 2001
 From: Sean Paul <seanpaul@chromium.org>
 Date: Tue, 9 Jan 2018 13:53:13 -0500
 Subject: [PATCH 538/548] UPSTREAM: drm/i915: Only disable HDCP when it's

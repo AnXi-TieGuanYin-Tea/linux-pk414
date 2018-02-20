@@ -1,7 +1,7 @@
-From b56b9e94c0d14abf14ceaaf5b3f9383ed72406a0 Mon Sep 17 00:00:00 2001
+From b6c76f9d45c6bf1e3b68ec449422f350d1021fdb Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Fri, 29 Dec 2017 16:51:36 +0800
-Subject: [PATCH 426/525] VHM: add API to get vm info
+Subject: [PATCH 426/548] VHM: add API to get vm info
 
 Added API vhm_get_vm_info: get guest vm's max_vcpu & max_gfn
 

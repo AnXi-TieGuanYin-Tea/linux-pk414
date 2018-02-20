@@ -1,7 +1,7 @@
-From 82fb9add746d63d6608d2cdf8c59263e2a0e91b5 Mon Sep 17 00:00:00 2001
+From c289cb2c0c92b211cf858c9b6984a2d64743dfaf Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Mon, 22 May 2017 10:19:55 +0800
-Subject: [PATCH 118/525] Fix compile error found from gcc 6
+Subject: [PATCH 118/548] Fix compile error found from gcc 6
 
 Change-Id: I20fe771d759a96642630b7456c986dab4311b4ef
 ---

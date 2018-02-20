@@ -1,7 +1,7 @@
-From 47233a62dd2c35e6a921221936f4b7d09632ecbb Mon Sep 17 00:00:00 2001
+From 6f0466afc89f1d83a2d78f0312b87b4bcdd5c102 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 17 Nov 2016 10:57:43 +0530
-Subject: [PATCH 132/525] ASoC: rt274: Force load rt274 without acpi
+Subject: [PATCH 132/548] ASoC: rt274: Force load rt274 without acpi
 
 ACPI entries are not present in CNL FPGA BIOS, so force load
 rt274 codec driver. This is required only for FPGA.

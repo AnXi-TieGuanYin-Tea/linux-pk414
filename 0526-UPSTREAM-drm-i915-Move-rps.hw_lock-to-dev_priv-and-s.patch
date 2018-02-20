@@ -1,4 +1,4 @@
-From cb4538b8097ba0a0f80064e5c3a71be1265ec984 Mon Sep 17 00:00:00 2001
+From b4f8e6ccf39fce297aa0d06cccdca906c5abbfcb Mon Sep 17 00:00:00 2001
 From: Sagar Arun Kamble <sagar.a.kamble@intel.com>
 Date: Tue, 10 Oct 2017 22:30:05 +0100
 Subject: [PATCH 526/548] UPSTREAM: drm/i915: Move rps.hw_lock to dev_priv and
@@ -864,3 +864,6 @@ index 7d971cb56116..75c872bb8cc9 100644
  
  	mutex_lock(&dev_priv->sb_lock);
  	vlv_sideband_rw(dev_priv, PCI_DEVFN(0, 0), IOSF_PORT_NC,
+-- 
+2.16.1
+

@@ -1,7 +1,7 @@
-From 053ee21ad7507522ab67b5517494ae79426872f7 Mon Sep 17 00:00:00 2001
+From 1dd3e1f2ef413725ac8e837d956bed5abf5fd3e6 Mon Sep 17 00:00:00 2001
 From: "Zhong,Fangjian" <fangjian.zhong@intel.com>
 Date: Tue, 11 Jul 2017 05:09:10 +0000
-Subject: [PATCH 049/525] trusty: add support for trusty backup timer
+Subject: [PATCH 049/548] trusty: add support for trusty backup timer
 
 On some platforms, in certain cpu idle modes, Trusty might
 lose the state of secure timer that it is using for work

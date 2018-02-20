@@ -1,7 +1,7 @@
-From 1ee0677124f8082d89990246def155aedf342194 Mon Sep 17 00:00:00 2001
+From 1476b7e10239c228345f7f20a28f7ccb71f17a4b Mon Sep 17 00:00:00 2001
 From: Arvind Yadav <arvind.yadav.cs@gmail.com>
 Date: Mon, 25 Sep 2017 15:43:49 +0530
-Subject: [PATCH 364/525] cpufreq: SPEAr: pr_err() strings should end with
+Subject: [PATCH 364/548] cpufreq: SPEAr: pr_err() strings should end with
  newlines
 
 pr_err() messages should terminated with a new-line to avoid

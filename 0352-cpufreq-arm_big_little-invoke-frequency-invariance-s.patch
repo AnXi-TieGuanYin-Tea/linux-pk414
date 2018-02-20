@@ -1,7 +1,7 @@
-From 10e176d2b77e6582ab34f8992390b1ecc91e361d Mon Sep 17 00:00:00 2001
+From 912af180402787ba0a5558a9dcbaaae665df5970 Mon Sep 17 00:00:00 2001
 From: Dietmar Eggemann <dietmar.eggemann@arm.com>
 Date: Tue, 26 Sep 2017 17:41:08 +0100
-Subject: [PATCH 352/525] cpufreq: arm_big_little: invoke frequency-invariance
+Subject: [PATCH 352/548] cpufreq: arm_big_little: invoke frequency-invariance
  setter function
 
 Call the frequency-invariance setter function arch_set_freq_scale()

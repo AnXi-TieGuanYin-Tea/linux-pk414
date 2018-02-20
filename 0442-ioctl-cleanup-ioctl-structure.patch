@@ -1,7 +1,7 @@
-From 605ed982519d844604deb663b98c5c7105f24bd5 Mon Sep 17 00:00:00 2001
+From b3a0bc4d2f13b6d3922a180efeb9f2f6561eca45 Mon Sep 17 00:00:00 2001
 From: Edwin Zhai <edwin.zhai@intel.com>
 Date: Wed, 10 Jan 2018 18:37:57 +0800
-Subject: [PATCH 442/525] ioctl: cleanup ioctl structure
+Subject: [PATCH 442/548] ioctl: cleanup ioctl structure
 
 vm_memseg/vm_memmap: remove unused fileds and define field size
 

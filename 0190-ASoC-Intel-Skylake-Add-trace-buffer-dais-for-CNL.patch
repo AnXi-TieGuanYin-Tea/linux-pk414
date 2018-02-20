@@ -1,7 +1,7 @@
-From 6c1435e315c0c3f28547e6e558f37049c7c05843 Mon Sep 17 00:00:00 2001
+From 42bdd0411fa0bd15f28da80e66db2d3d1091beea Mon Sep 17 00:00:00 2001
 From: "Panwar, Ashish" <ashish.panwar@intel.com>
 Date: Fri, 18 Mar 2016 16:02:19 +0530
-Subject: [PATCH 190/525] ASoC: Intel: Skylake: Add trace buffer dais for CNL
+Subject: [PATCH 190/548] ASoC: Intel: Skylake: Add trace buffer dais for CNL
 
 CNL needs 4 dais for logging, one for each core. Added 2
 more dais here. It depends on the machine driver to make

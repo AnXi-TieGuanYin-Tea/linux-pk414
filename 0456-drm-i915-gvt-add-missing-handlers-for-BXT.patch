@@ -1,7 +1,7 @@
-From a53f8cb526ca0ec37111325d83a3d10527ef25ea Mon Sep 17 00:00:00 2001
+From a2bda8218419d23c4a5f66627d19ec0affd9afc7 Mon Sep 17 00:00:00 2001
 From: Chang Ying <ying.chang@intel.com>
 Date: Tue, 18 Apr 2017 09:46:04 +0800
-Subject: [PATCH 456/525] drm/i915/gvt: add missing handlers for BXT
+Subject: [PATCH 456/548] drm/i915/gvt: add missing handlers for BXT
 
 Change-Id: I8517c6b470401c0c2ca3e1c39938609c2bff0d75
 Signed-off-by: Chang Ying <ying.chang@intel.com>

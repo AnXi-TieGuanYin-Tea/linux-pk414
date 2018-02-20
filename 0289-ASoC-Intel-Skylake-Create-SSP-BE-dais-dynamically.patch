@@ -1,7 +1,7 @@
-From 8decee80b07949e7fa11fd3eb6dcd6d2b8e877d6 Mon Sep 17 00:00:00 2001
+From 4fdc1360e6113adbf9a9d519b3e7678ff61639a5 Mon Sep 17 00:00:00 2001
 From: "Diwakar, Praveen" <praveen.diwakar@intel.com>
 Date: Tue, 6 Jun 2017 21:04:21 +0530
-Subject: [PATCH 289/525] ASoC: Intel: Skylake: Create SSP BE dais dynamically
+Subject: [PATCH 289/548] ASoC: Intel: Skylake: Create SSP BE dais dynamically
 
 This patch creates BE SSP dai dynamically, by getting SSP
 link information from NHLT.
@@ -18,10 +18,10 @@ Tested-by: Sm, Bhadur A <bhadur.a.sm@intel.com>
  3 files changed, 100 insertions(+), 120 deletions(-)
 
 diff --git a/sound/soc/intel/skylake/skl-nhlt.c b/sound/soc/intel/skylake/skl-nhlt.c
-index 89ece2c64fcb..72c5ae25e447 100644
+index 48eb5e20b476..fd17dba80c35 100644
 --- a/sound/soc/intel/skylake/skl-nhlt.c
 +++ b/sound/soc/intel/skylake/skl-nhlt.c
-@@ -278,3 +278,39 @@ void skl_nhlt_remove_sysfs(struct skl *skl)
+@@ -279,3 +279,39 @@ void skl_nhlt_remove_sysfs(struct skl *skl)
  
  	sysfs_remove_file(&dev->kobj, &dev_attr_platform_id.attr);
  }

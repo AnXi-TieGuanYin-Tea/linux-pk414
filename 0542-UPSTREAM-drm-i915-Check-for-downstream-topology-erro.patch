@@ -1,4 +1,4 @@
-From fca0ae9f759e5aaa0661a9fecceab94100f2720c Mon Sep 17 00:00:00 2001
+From ad9940828e889e73ea662635a4fcedbf8bfb70ab Mon Sep 17 00:00:00 2001
 From: Ramalingam C <ramalingam.c@intel.com>
 Date: Thu, 18 Jan 2018 11:18:08 +0530
 Subject: [PATCH 542/548] UPSTREAM: drm/i915: Check for downstream topology

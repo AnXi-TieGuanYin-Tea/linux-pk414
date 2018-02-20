@@ -1,7 +1,7 @@
-From 7df0aa4f131d2366df7d626d77e06c44a62e0282 Mon Sep 17 00:00:00 2001
+From 0d6c9f3582f2a5f028a5093cf99e7dd27736a9b4 Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Arve=20Hj=C3=B8nnev=C3=A5g?= <arve@android.com>
 Date: Tue, 26 Nov 2013 20:18:35 -0800
-Subject: [PATCH 012/525] trusty: Add fiq support
+Subject: [PATCH 012/548] trusty: Add fiq support
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit

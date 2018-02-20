@@ -1,4 +1,4 @@
-From 738d7473a6b63df4e8d137f4da11c05bebc59bb3 Mon Sep 17 00:00:00 2001
+From 0e693855ffabd0754172a5965cbe62c1bb2ce429 Mon Sep 17 00:00:00 2001
 From: Sean Paul <seanpaul@chromium.org>
 Date: Mon, 8 Jan 2018 14:55:42 -0500
 Subject: [PATCH 535/548] UPSTREAM: drm/i915: Implement HDCP for HDMI
@@ -89,10 +89,10 @@ index a738cceb4e37..74dd2b2af9ab 100644
  {
  	struct drm_device *dev = intel_connector->base.dev;
 diff --git a/drivers/gpu/drm/i915/intel_drv.h b/drivers/gpu/drm/i915/intel_drv.h
-index 1baa03cebc57..1ad0345834b2 100644
+index 163873cf3020..92ff09fe32ac 100644
 --- a/drivers/gpu/drm/i915/intel_drv.h
 +++ b/drivers/gpu/drm/i915/intel_drv.h
-@@ -1353,6 +1353,8 @@ void intel_ddi_set_vc_payload_alloc(const struct intel_crtc_state *crtc_state,
+@@ -1354,6 +1354,8 @@ void intel_ddi_set_vc_payload_alloc(const struct intel_crtc_state *crtc_state,
  				    bool state);
  uint32_t ddi_signal_levels(struct intel_dp *intel_dp);
  u8 intel_ddi_dp_voltage_max(struct intel_encoder *encoder);

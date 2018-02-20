@@ -1,7 +1,7 @@
-From 5f3679d9fb6ed08b31bd4d1387b922461688b6e9 Mon Sep 17 00:00:00 2001
+From 3a378225fa00c9d11ed6481e12d50d2dfdf08a2f Mon Sep 17 00:00:00 2001
 From: "Sinha, Mohit" <mohit.sinha@intel.com>
 Date: Fri, 4 Aug 2017 16:06:57 +0530
-Subject: [PATCH 312/525] ASoC: Intel: Skylake: Removed duplicate IPC call for
+Subject: [PATCH 312/548] ASoC: Intel: Skylake: Removed duplicate IPC call for
  Probe Injector DMA
 
 Removed duplicate IPC call for attaching DMA for Probe Injector.

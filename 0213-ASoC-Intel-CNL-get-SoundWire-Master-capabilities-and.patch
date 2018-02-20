@@ -1,7 +1,7 @@
-From d2b767bd23a42a73302f4df2bcecfab36ab212bc Mon Sep 17 00:00:00 2001
+From 099579e37582a296c36ee84bb8247633cc7d3595 Mon Sep 17 00:00:00 2001
 From: Anil Bhawangirkar <anil.k.bhawangirkar@intel.com>
 Date: Tue, 23 Aug 2016 15:08:03 +0530
-Subject: [PATCH 213/525] ASoC: Intel: CNL: get SoundWire Master capabilities
+Subject: [PATCH 213/548] ASoC: Intel: CNL: get SoundWire Master capabilities
  and map it
 
 This patch get the SoundWire Master capabilities and map

@@ -1,7 +1,7 @@
-From ac37b67b8b3f5cbed4b713cd5fdaa32eebef8bd8 Mon Sep 17 00:00:00 2001
+From d9e01bb3b6343d47de3e1b5224ef2522e0869255 Mon Sep 17 00:00:00 2001
 From: weideng <wei.a.deng@intel.com>
 Date: Fri, 13 May 2016 10:36:16 +0800
-Subject: [PATCH 023/525] Modify the static analysis errors for google's trusty
+Subject: [PATCH 023/548] Modify the static analysis errors for google's trusty
  driver patches.
 
 Totally 15 patches for Google's trusty driver are ported into kernel/glv.

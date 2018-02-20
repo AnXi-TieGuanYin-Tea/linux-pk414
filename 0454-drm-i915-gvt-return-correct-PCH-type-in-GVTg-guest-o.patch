@@ -1,7 +1,7 @@
-From a53403c7b1cbb5a57e7f5b94c12eb4ff5f35f404 Mon Sep 17 00:00:00 2001
+From 21ece0640231ba00a4aa095bc9a86fcc1fee5ba9 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Tue, 28 Mar 2017 01:37:02 +0800
-Subject: [PATCH 454/525] drm/i915/gvt: return correct PCH type in GVTg guest
+Subject: [PATCH 454/548] drm/i915/gvt: return correct PCH type in GVTg guest
  of BXT
 
 In GVT environment on BXT platform, intel_detect_pch will return PCH_NOP,

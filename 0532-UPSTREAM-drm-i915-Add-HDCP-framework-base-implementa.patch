@@ -1,4 +1,4 @@
-From c0a52f74dfa806dbe8f4cba55e9ced36847c116f Mon Sep 17 00:00:00 2001
+From c18d4f4b0d27b61192a33b135a57632ee0d619be Mon Sep 17 00:00:00 2001
 From: Sean Paul <seanpaul@chromium.org>
 Date: Mon, 8 Jan 2018 14:55:39 -0500
 Subject: [PATCH 532/548] UPSTREAM: drm/i915: Add HDCP framework + base
@@ -214,10 +214,10 @@ index 3d8baee642c1..a738cceb4e37 100644
  		intel_audio_codec_disable(intel_encoder);
  
 diff --git a/drivers/gpu/drm/i915/intel_display.c b/drivers/gpu/drm/i915/intel_display.c
-index 927c874c9049..195740d0a05a 100644
+index e5cbbea9f2c2..69d9a618a641 100644
 --- a/drivers/gpu/drm/i915/intel_display.c
 +++ b/drivers/gpu/drm/i915/intel_display.c
-@@ -15336,6 +15336,10 @@ static void intel_hpd_poll_fini(struct drm_device *dev)
+@@ -15340,6 +15340,10 @@ static void intel_hpd_poll_fini(struct drm_device *dev)
  	for_each_intel_connector_iter(connector, &conn_iter) {
  		if (connector->modeset_retry_work.func)
  			cancel_work_sync(&connector->modeset_retry_work);
@@ -229,7 +229,7 @@ index 927c874c9049..195740d0a05a 100644
  	drm_connector_list_iter_end(&conn_iter);
  }
 diff --git a/drivers/gpu/drm/i915/intel_drv.h b/drivers/gpu/drm/i915/intel_drv.h
-index 7a9d12c40a60..1baa03cebc57 100644
+index ed6399e9aa14..163873cf3020 100644
 --- a/drivers/gpu/drm/i915/intel_drv.h
 +++ b/drivers/gpu/drm/i915/intel_drv.h
 @@ -298,6 +298,76 @@ struct intel_panel {
@@ -322,7 +322,7 @@ index 7a9d12c40a60..1baa03cebc57 100644
  };
  
  struct intel_digital_connector_state {
-@@ -1721,6 +1797,16 @@ static inline void intel_backlight_device_unregister(struct intel_connector *con
+@@ -1722,6 +1798,16 @@ static inline void intel_backlight_device_unregister(struct intel_connector *con
  }
  #endif /* CONFIG_BACKLIGHT_CLASS_DEVICE */
  

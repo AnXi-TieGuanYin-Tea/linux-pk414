@@ -1,7 +1,7 @@
-From 8bb05f6a842f3c6411138d616b7c6d6b7eda142b Mon Sep 17 00:00:00 2001
+From df46e8b17d72d4adecd9fe1f3f113cae7dd312a6 Mon Sep 17 00:00:00 2001
 From: "Pawse, GuruprasadX" <guruprasadx.pawse@intel.com>
 Date: Wed, 24 Feb 2016 17:03:16 +0530
-Subject: [PATCH 196/525] ASoC: Fix TLV control size in TLV handler
+Subject: [PATCH 196/548] ASoC: Fix TLV control size in TLV handler
 
 Size passed to TLV callback is sum of payload size and TLV header.
 TLV header consumes 8 bytes. The callback handler has to  pass the

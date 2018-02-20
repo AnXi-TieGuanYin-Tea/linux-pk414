@@ -1,7 +1,7 @@
-From a7d66e74d8bff619e619fe7ab4e0adf95ef3f999 Mon Sep 17 00:00:00 2001
+From acbd5d7cfecc33a151bf17e65233858b36a23d63 Mon Sep 17 00:00:00 2001
 From: Mingqiang Chi <mingqiang.chi@intel.com>
 Date: Fri, 5 Jan 2018 16:53:20 +0800
-Subject: [PATCH 433/525] sos: Update the common head file
+Subject: [PATCH 433/548] sos: Update the common head file
 
 --remove unused data structures
 --move data structure(vm_gpa2hpa) to cwp_hv_defs.h

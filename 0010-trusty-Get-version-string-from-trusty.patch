@@ -1,7 +1,7 @@
-From 7a65c469de86cdbb7e3b933b0b4102ee504114a1 Mon Sep 17 00:00:00 2001
+From 92ed1bdd66551336291677814b04615bc207f1a2 Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Arve=20Hj=C3=B8nnev=C3=A5g?= <arve@android.com>
 Date: Thu, 9 Oct 2014 21:24:17 -0700
-Subject: [PATCH 010/525] trusty: Get version string from trusty
+Subject: [PATCH 010/548] trusty: Get version string from trusty
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit

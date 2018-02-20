@@ -1,7 +1,7 @@
-From 7be268cbd7a69a74d1bb573c1b7865d3213ec241 Mon Sep 17 00:00:00 2001
+From 0b5fe4bde1a5d7a8639721b7b92977488bcf8dc2 Mon Sep 17 00:00:00 2001
 From: Kranthi G <gudishax.kranthikumar@intel.com>
 Date: Wed, 18 Nov 2015 15:26:17 +0530
-Subject: [PATCH 172/525] ASoC: Intel: Skylake: Add updown mixer changes
+Subject: [PATCH 172/548] ASoC: Intel: Skylake: Add updown mixer changes
 
 As firmware structure modified for updown mixer,
 this commit will add channel map member to updown

@@ -1,7 +1,7 @@
-From 08cd4a065a9316cd457531744c4e447386636e87 Mon Sep 17 00:00:00 2001
+From 6231cbb70022609684505ee5e9d71b713c79f7dd Mon Sep 17 00:00:00 2001
 From: Yin Fengwei <fengwei.yin@intel.com>
 Date: Tue, 9 Jan 2018 20:27:09 +0800
-Subject: [PATCH 440/525] vhm: refine vm related hypercall/ioctrl
+Subject: [PATCH 440/548] vhm: refine vm related hypercall/ioctrl
 
 Change-Id: I028f59998733f3d066e2ead7768297570d97bf22
 Tracked-On:218445

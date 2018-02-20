@@ -1,7 +1,7 @@
-From 580e4cc4a1f538afdb3e02358b5c4f7c32954610 Mon Sep 17 00:00:00 2001
+From 22731e2982f59026250ee528b5b4ad4698012fda Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Wed, 10 Jan 2018 05:55:30 +0800
-Subject: [PATCH 500/525] drm/i915/gvt: Fixed the building errors during
+Subject: [PATCH 500/548] drm/i915/gvt: Fixed the building errors during
  integration
 
 1. modified cwpgt.c to accommodate latest CWP hypervisor changes

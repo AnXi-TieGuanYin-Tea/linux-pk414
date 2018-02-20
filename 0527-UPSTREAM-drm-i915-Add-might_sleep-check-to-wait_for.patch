@@ -1,4 +1,4 @@
-From 1cf3568337889078d4bd2d1f9c1c734c31a01a2c Mon Sep 17 00:00:00 2001
+From d1c8f5cb0a5cb316ffa8db51c07935606fa9e023 Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Tue, 14 Nov 2017 21:56:55 +0000
 Subject: [PATCH 527/548] UPSTREAM: drm/i915: Add might_sleep() check to
@@ -21,7 +21,7 @@ Change-Id: I73c826a3701010d6a54984b2e2970aca2011b2eb
  1 file changed, 2 insertions(+), 9 deletions(-)
 
 diff --git a/drivers/gpu/drm/i915/intel_drv.h b/drivers/gpu/drm/i915/intel_drv.h
-index 299b5d89992e..9d87a4f0ae16 100644
+index 72d05ec59e86..b16334bf250a 100644
 --- a/drivers/gpu/drm/i915/intel_drv.h
 +++ b/drivers/gpu/drm/i915/intel_drv.h
 @@ -47,14 +47,11 @@

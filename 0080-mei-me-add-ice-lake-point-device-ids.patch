@@ -1,7 +1,7 @@
-From b2735c8d7a92cd68348752bfd6a3218537382fab Mon Sep 17 00:00:00 2001
+From e2a5a6a1ca9341ba6f0047afe0489c2b4b4bae47 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Mon, 31 Oct 2016 20:29:05 +0200
-Subject: [PATCH 080/525] mei: me: add ice lake point device ids
+Subject: [PATCH 080/548] mei: me: add ice lake point device ids
 
 Add icelake device ids: ICP LP, N and H
 

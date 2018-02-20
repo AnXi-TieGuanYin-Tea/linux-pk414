@@ -1,4 +1,4 @@
-From 3a374184a985d9edef0dc8412d676e0804eff71a Mon Sep 17 00:00:00 2001
+From 67586a6ca5682e321a5da18c109c9ce3f27627bc Mon Sep 17 00:00:00 2001
 From: Yin Fengwei <fengwei.yin@intel.com>
 Date: Wed, 7 Feb 2018 10:05:05 +0800
 Subject: [PATCH 547/548] vhm cleanup: update one field name in vhm

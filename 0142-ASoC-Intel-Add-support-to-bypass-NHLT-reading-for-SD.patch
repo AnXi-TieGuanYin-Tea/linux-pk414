@@ -1,7 +1,7 @@
-From 4186f478861114a6dad07020fc688e86ab5c5692 Mon Sep 17 00:00:00 2001
+From 70ee5057b88f9e51899f73adc0b3e85fa2e67619 Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Thu, 10 Mar 2016 12:55:38 +0530
-Subject: [PATCH 142/525] ASoC: Intel: Add support to bypass NHLT reading for
+Subject: [PATCH 142/548] ASoC: Intel: Add support to bypass NHLT reading for
  SDW link.
 
 NHLT reading is not required for the SDW link. So bypass

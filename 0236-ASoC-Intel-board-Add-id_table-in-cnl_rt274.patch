@@ -1,7 +1,7 @@
-From e074851b024c3471bd55c2ef038a5223264546f2 Mon Sep 17 00:00:00 2001
+From 35f23202d5dce4fce72151db560c7a16177fe780 Mon Sep 17 00:00:00 2001
 From: Dharageswari R <dharageswari.r@intel.com>
 Date: Wed, 3 Jan 2007 09:21:03 +0530
-Subject: [PATCH 236/525] ASoC: Intel: board: Add id_table in cnl_rt274
+Subject: [PATCH 236/548] ASoC: Intel: board: Add id_table in cnl_rt274
 
 ICL and CNL use the same machine driver with rt274 codec.
 Hence added id_table to facilitate this.

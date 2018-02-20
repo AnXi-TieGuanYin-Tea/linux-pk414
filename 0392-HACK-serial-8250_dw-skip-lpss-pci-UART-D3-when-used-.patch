@@ -1,7 +1,7 @@
-From 60161debf58e7fcee959638427a476001e39916b Mon Sep 17 00:00:00 2001
+From 8739ec098c73f0a8abe5eebe2c3dbb1d1dc339fe Mon Sep 17 00:00:00 2001
 From: Archana Patni <archana.patni@intel.com>
 Date: Tue, 10 Nov 2015 16:43:15 +0530
-Subject: [PATCH 392/525] HACK: serial: 8250_dw: skip lpss pci UART D3 when
+Subject: [PATCH 392/548] HACK: serial: 8250_dw: skip lpss pci UART D3 when
  used with no_console_suspend
 
 For Platforms with lpss pci UARTs, the parent device should

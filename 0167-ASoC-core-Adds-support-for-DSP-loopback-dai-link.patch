@@ -1,7 +1,7 @@
-From b1ae590d0ffc9ef5ee2e0e1ef0cf9159e89c8205 Mon Sep 17 00:00:00 2001
+From 5a072fea5279b038a3a23418210a82c07fd484b5 Mon Sep 17 00:00:00 2001
 From: Jeeja KP <jeeja.kp@intel.com>
 Date: Wed, 16 Sep 2015 01:56:54 +0530
-Subject: [PATCH 167/525] ASoC: core: Adds support for DSP loopback dai link
+Subject: [PATCH 167/548] ASoC: core: Adds support for DSP loopback dai link
 
 Only codec-codec dai link is supported. This patch adds support
 for dsp loopback dai link

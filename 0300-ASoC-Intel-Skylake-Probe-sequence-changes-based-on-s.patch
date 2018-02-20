@@ -1,7 +1,7 @@
-From 7a5cb32f899628f14dade6b0249c057760b0103d Mon Sep 17 00:00:00 2001
+From cb08f0e7337518a2a211f969b7121fa47f645229 Mon Sep 17 00:00:00 2001
 From: "Pawse, GuruprasadX" <guruprasadx.pawse@intel.com>
 Date: Mon, 11 Jul 2016 18:29:27 +0530
-Subject: [PATCH 300/525] ASoC: Intel: Skylake: Probe sequence changes based on
+Subject: [PATCH 300/548] ASoC: Intel: Skylake: Probe sequence changes based on
  state transition
 
 PROBE STATE TRANSITIONS:

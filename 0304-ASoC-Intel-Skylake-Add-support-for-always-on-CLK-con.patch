@@ -1,7 +1,7 @@
-From 169fc6d9b7b7178dde66255d3cf7304bf5dcd0fe Mon Sep 17 00:00:00 2001
+From 9e8bf1e175753c65b52cd96961bb6f0f53135f6b Mon Sep 17 00:00:00 2001
 From: "Kareem,Shaik" <kareem.m.shaik@intel.com>
 Date: Thu, 15 Jun 2017 13:40:04 +0530
-Subject: [PATCH 304/525] ASoC: Intel: Skylake: Add support for always on CLK
+Subject: [PATCH 304/548] ASoC: Intel: Skylake: Add support for always on CLK
  configuration
 
 For some platforms it is required that ADSP generate BCLK, Frame_sync
@@ -197,10 +197,10 @@ index def6297dc075..6209071131f3 100644
  			struct skl_module_cfg *mconfig,
  			struct skl_audio_data_format *out_fmt)
 diff --git a/sound/soc/intel/skylake/skl-nhlt.c b/sound/soc/intel/skylake/skl-nhlt.c
-index 72c5ae25e447..025f3de4d1e6 100644
+index fd17dba80c35..f9689d0007bf 100644
 --- a/sound/soc/intel/skylake/skl-nhlt.c
 +++ b/sound/soc/intel/skylake/skl-nhlt.c
-@@ -133,6 +133,26 @@ static bool skl_check_ep_match(struct device *dev, struct nhlt_endpoint *epnt,
+@@ -134,6 +134,26 @@ static bool skl_check_ep_match(struct device *dev, struct nhlt_endpoint *epnt,
  		return false;
  }
  

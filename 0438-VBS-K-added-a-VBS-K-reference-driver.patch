@@ -1,7 +1,7 @@
-From 940bcf51f06b4222fcc5205b031e8b2d50b531f6 Mon Sep 17 00:00:00 2001
+From 946388541956e3e5a62821e97b81ed2596d91660 Mon Sep 17 00:00:00 2001
 From: Hao Li <hao.l.li@intel.com>
 Date: Wed, 3 Jan 2018 13:52:14 -0500
-Subject: [PATCH 438/525] VBS-K: added a VBS-K reference driver.
+Subject: [PATCH 438/548] VBS-K: added a VBS-K reference driver.
 
 This patch implemented a VBS-K reference driver: virtio RNG.
 

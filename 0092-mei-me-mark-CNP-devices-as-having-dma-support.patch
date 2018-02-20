@@ -1,7 +1,7 @@
-From aed0360aa7f7e48bb356aa8be34b5477498f197b Mon Sep 17 00:00:00 2001
+From b7cf15f5a92d1cb7617d3b2499b3a441fa8c9800 Mon Sep 17 00:00:00 2001
 From: Alexander Usyskin <alexander.usyskin@intel.com>
 Date: Thu, 17 Nov 2016 13:00:41 +0200
-Subject: [PATCH 092/525] mei: me: mark CNP devices as having dma support
+Subject: [PATCH 092/548] mei: me: mark CNP devices as having dma support
 
 Change-Id: Ic3b0351ba9b74eec80cc6c7ac8b5565ff80f371b
 Signed-off-by: Alexander Usyskin <alexander.usyskin@intel.com>

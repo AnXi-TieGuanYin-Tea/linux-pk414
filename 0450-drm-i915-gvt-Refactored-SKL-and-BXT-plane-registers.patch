@@ -1,7 +1,7 @@
-From 9c2354f540c8f6e78267ff8312c710b751a6ce94 Mon Sep 17 00:00:00 2001
+From f87572a935e30929bd3b460a934f0072220d8a83 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Tue, 14 Mar 2017 03:49:55 +0800
-Subject: [PATCH 450/525] drm/i915/gvt: Refactored SKL and BXT plane registers
+Subject: [PATCH 450/548] drm/i915/gvt: Refactored SKL and BXT plane registers
 
 Refactored the SKL and BXT plane registers and implemented their plane register handlers.
 Signed-off-by: Min He <min.he@intel.com>

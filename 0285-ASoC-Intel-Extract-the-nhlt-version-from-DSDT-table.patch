@@ -1,7 +1,7 @@
-From ba54c474e2b351c38ad505b3b034edc770b0be17 Mon Sep 17 00:00:00 2001
+From fc150309c8be473a8ebc4164339bd141dc4b39fc Mon Sep 17 00:00:00 2001
 From: Leoni Prodduvaka <leoni.prodduvaka@intel.com>
 Date: Thu, 18 May 2017 21:56:06 +0530
-Subject: [PATCH 285/525] ASoC: Intel: Extract the "nhlt-version" from DSDT
+Subject: [PATCH 285/548] ASoC: Intel: Extract the "nhlt-version" from DSDT
  table
 
 This patch extracts the "nhlt-version" from the DSDT table present at
@@ -25,7 +25,7 @@ Tested-by: Sm, Bhadur A <bhadur.a.sm@intel.com>
  4 files changed, 25 insertions(+)
 
 diff --git a/sound/soc/intel/skylake/skl-nhlt.c b/sound/soc/intel/skylake/skl-nhlt.c
-index e7d766d56c8e..89ece2c64fcb 100644
+index 55859c5b456f..48eb5e20b476 100644
 --- a/sound/soc/intel/skylake/skl-nhlt.c
 +++ b/sound/soc/intel/skylake/skl-nhlt.c
 @@ -25,6 +25,22 @@ static guid_t osc_guid =

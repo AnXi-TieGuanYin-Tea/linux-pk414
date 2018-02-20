@@ -1,7 +1,7 @@
-From a90721bafb5e206e479e8e1532485a74ae70bf01 Mon Sep 17 00:00:00 2001
+From 6dd869c5c15c3716c2231c7cca2f209826a192e0 Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Fri, 29 Dec 2017 17:03:22 +0800
-Subject: [PATCH 427/525] VHM: add API to do guest gpa2hpa translation
+Subject: [PATCH 427/548] VHM: add API to do guest gpa2hpa translation
 
 Added API vhm_vm_gpa2hpa: do translation between gpa and hpa for
 corresponding guest.

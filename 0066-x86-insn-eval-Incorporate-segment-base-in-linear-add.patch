@@ -1,7 +1,7 @@
-From 1dc487fcd057269bf948e84348685a38dd0a97b6 Mon Sep 17 00:00:00 2001
+From 3e80dd426c8c3c73a8ad7db2d89aa0a8d4cd6166 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Tue, 5 Sep 2017 15:39:55 -0700
-Subject: [PATCH 066/525] x86/insn-eval: Incorporate segment base in linear
+Subject: [PATCH 066/548] x86/insn-eval: Incorporate segment base in linear
  address computation
 
 insn_get_addr_ref() returns the effective address as defined by the

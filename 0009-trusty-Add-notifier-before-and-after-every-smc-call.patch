@@ -1,7 +1,7 @@
-From 79e674963e1a4686ef8bce081029c79d0cdec14a Mon Sep 17 00:00:00 2001
+From da4797080e853bce182d7670dc305d7a682db54c Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Arve=20Hj=C3=B8nnev=C3=A5g?= <arve@android.com>
 Date: Thu, 5 May 2016 15:43:44 -0700
-Subject: [PATCH 009/525] trusty: Add notifier before and after every smc call.
+Subject: [PATCH 009/548] trusty: Add notifier before and after every smc call.
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit

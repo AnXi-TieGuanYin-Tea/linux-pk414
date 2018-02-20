@@ -1,7 +1,7 @@
-From 8c0238e6ce207bccfbe2064647d91bc6a4fad349 Mon Sep 17 00:00:00 2001
+From 2a5a5eccb55f4e6f3611a93d37a3c0d0a405d3c3 Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Tue, 23 Jan 2018 23:03:19 +0800
-Subject: [PATCH 514/525] Check x86_hyper type before doing hypercall
+Subject: [PATCH 514/548] Check x86_hyper type before doing hypercall
 
 this is to fix native boot failure issue with CONFIG_CWP
 

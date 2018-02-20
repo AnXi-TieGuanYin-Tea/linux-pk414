@@ -1,7 +1,7 @@
-From b7d4c6a990727e9c3a3a2ac20d85b0e9e36e4360 Mon Sep 17 00:00:00 2001
+From f84cab759ecf60b4bee5f0f17726866f5675ae96 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Wed, 23 Aug 2017 10:58:55 +0300
-Subject: [PATCH 079/525] mei: me: add cannon point iTouch device ids
+Subject: [PATCH 079/548] mei: me: add cannon point iTouch device ids
 
 Add cannon point device ids: for HECI3 (itouch) device.
 

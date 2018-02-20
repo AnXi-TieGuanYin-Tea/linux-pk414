@@ -1,7 +1,7 @@
-From 84b17589ec8f38acdba8c43bbbcb39f3fd162998 Mon Sep 17 00:00:00 2001
+From 437399816b45a7d23ea92bdc121d26e71603cc0a Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Tue, 5 Sep 2017 15:26:03 -0700
-Subject: [PATCH 056/525] x86/mpx: Do not use SIB.base if its value is 101b and
+Subject: [PATCH 056/548] x86/mpx: Do not use SIB.base if its value is 101b and
  ModRM.mod = 0
 
 Section 2.2.1.2 of the Intel 64 and IA-32 Architectures Software

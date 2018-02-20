@@ -1,7 +1,7 @@
-From 9b9ed12cf14f0a2df1d620c3bdf6c59ca7d9c8b4 Mon Sep 17 00:00:00 2001
+From 1db48fb95c605e30abdd2ed7ed93e9492d9f1ccd Mon Sep 17 00:00:00 2001
 From: Yin Fengwei <fengwei.yin@intel.com>
 Date: Fri, 29 Dec 2017 11:18:32 +0800
-Subject: [PATCH 431/525] vcpu: export vcpu create interface to DM
+Subject: [PATCH 431/548] vcpu: export vcpu create interface to DM
 
 Change-Id: I64a179c2452f67285f347bbaa60c702dec5f55de
 Tracked-On: 218445

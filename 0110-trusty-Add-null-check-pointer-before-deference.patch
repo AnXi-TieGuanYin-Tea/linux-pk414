@@ -1,7 +1,7 @@
-From b456984454b98b8ad2cf6ebe8ef426fb71a93055 Mon Sep 17 00:00:00 2001
+From a118dd2cbd66a6461e08a89d8a6170b961caf033 Mon Sep 17 00:00:00 2001
 From: "Zhang, Qi" <qi1.zhang@intel.com>
 Date: Mon, 6 Nov 2017 12:35:31 +0800
-Subject: [PATCH 110/525] trusty: Add null check pointer before deference
+Subject: [PATCH 110/548] trusty: Add null check pointer before deference
 
 Add null check before deference pointer.
 

@@ -1,7 +1,7 @@
-From 6f21854c88a117286011d53c1a2cfad111f0afbd Mon Sep 17 00:00:00 2001
+From cb361b14d189a683b830e1eaf45f6dc06959afd8 Mon Sep 17 00:00:00 2001
 From: "Yan, Shaoou" <shaopu.yan@intel.com>
 Date: Fri, 9 Dec 2016 05:32:20 +0000
-Subject: [PATCH 032/525] trusty-log: Add vmm panic notifier for vmm deadloop
+Subject: [PATCH 032/548] trusty-log: Add vmm panic notifier for vmm deadloop
  dumping
 
 register a new vmcall TRUSTY_VMCALL_DUMP_INIT.

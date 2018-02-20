@@ -1,8 +1,8 @@
-From 6e88c3841488f2de7445a5846c74f28dae0ebb6e Mon Sep 17 00:00:00 2001
+From 9120e0581cb067d5d57c0c10d5a4e11261e999dc Mon Sep 17 00:00:00 2001
 From: Dronamraju Santosh Pavan Kumar
  <santosh.pavan.kumarx.dronamraju@intel.com>
 Date: Wed, 16 Aug 2017 17:04:49 +0530
-Subject: [PATCH 318/525] ASoC: Intel: CNL: Remove larger frame size warnings
+Subject: [PATCH 318/548] ASoC: Intel: CNL: Remove larger frame size warnings
  from cnl_sdw_bra_pipe_cfg_pb and cnl_sdw_bra_pipe_cfg_cp functions.
 
 Below warning message observed due to static allocation of struct

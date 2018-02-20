@@ -1,7 +1,7 @@
-From e8dbb2ea5bd82f309ca41390b2bd0ce281d8040f Mon Sep 17 00:00:00 2001
+From 88d65e709dcf239e03ca828a461a5a220f8379cb Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Tue, 9 Aug 2016 12:48:24 -0700
-Subject: [PATCH 076/525] selftests/x86: Add tests for User-Mode Instruction
+Subject: [PATCH 076/548] selftests/x86: Add tests for User-Mode Instruction
  Prevention
 
 Certain user space programs that run on virtual-8086 mode may utilize

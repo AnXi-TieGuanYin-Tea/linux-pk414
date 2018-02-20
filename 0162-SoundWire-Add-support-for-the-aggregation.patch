@@ -1,7 +1,7 @@
-From 1d2d5884870eba87bb4b3c2176039b4437aeb9d6 Mon Sep 17 00:00:00 2001
+From ab0fc3bed6f36d1f30d47887eea8f6ebf594f695 Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Sun, 1 May 2016 18:29:30 +0530
-Subject: [PATCH 162/525] SoundWire: Add support for the aggregation
+Subject: [PATCH 162/548] SoundWire: Add support for the aggregation
 
 Add support for the master aggregation in
 SoundWire bus driver. For the aggregated masters

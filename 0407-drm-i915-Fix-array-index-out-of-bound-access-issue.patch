@@ -1,7 +1,7 @@
-From 5c81e7c557a93ad2079e62af38cc56c677c207a7 Mon Sep 17 00:00:00 2001
+From 17903793be2cac17bcf96f2e4ccbde9f642506cf Mon Sep 17 00:00:00 2001
 From: Vaibhav Agarwal <vaibhav.agarwal@intel.com>
 Date: Fri, 22 Dec 2017 01:10:48 +0800
-Subject: [PATCH 407/525] drm/i915: Fix array index out of bound access issue
+Subject: [PATCH 407/548] drm/i915: Fix array index out of bound access issue
 
 "Buffer Overflow - Array Index Out of Bounds, intel_pm.c: 3093" error is
 reported during static code analysis
@@ -19,7 +19,7 @@ Reviewed-by: Pankaj Laxminarayan Bharadiya <pankaj.laxminarayan.bharadiya@intel.
  1 file changed, 1 insertion(+), 1 deletion(-)
 
 diff --git a/drivers/gpu/drm/i915/intel_drv.h b/drivers/gpu/drm/i915/intel_drv.h
-index 79fbaf78f604..6a033c998ae1 100644
+index 10ae9681f02d..001fad2d6320 100644
 --- a/drivers/gpu/drm/i915/intel_drv.h
 +++ b/drivers/gpu/drm/i915/intel_drv.h
 @@ -495,7 +495,7 @@ struct intel_crtc_scaler_state {

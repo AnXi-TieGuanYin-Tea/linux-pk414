@@ -1,7 +1,7 @@
-From bd3a8a6c161de3f332fd6d90246f380b10a39338 Mon Sep 17 00:00:00 2001
+From 73eb8f58a4f7cef6f6ade0d7e9e4a99b87c38aea Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Mon, 6 Mar 2017 09:47:50 +0530
-Subject: [PATCH 248/525] ASoC: Intel: Skylake: Split dais and add flag for
+Subject: [PATCH 248/548] ASoC: Intel: Skylake: Split dais and add flag for
  dynamic dais
 
 Since FE dais can come from topology, split the FE dais from

@@ -1,4 +1,4 @@
-From 537b9a9d7eb83a44cfb3e729c914ee7409529f8a Mon Sep 17 00:00:00 2001
+From a923d7a1e29bcb5d4e743190b86fdb4ea66b34bc Mon Sep 17 00:00:00 2001
 From: Sean Paul <seanpaul@chromium.org>
 Date: Mon, 8 Jan 2018 14:55:40 -0500
 Subject: [PATCH 533/548] UPSTREAM: drm/i915: Make use of indexed write GMBUS
