@@ -12,7 +12,7 @@ pages of the guest context.
 Change-Id: I6b806da29fa75eff73122d0328b1a277780eabe1
 Signed-off-by: Ping Gao <ping.a.gao@intel.com>
 Acknowledged-by: Singh, Satyeshwar <satyeshwar.singh@intel.com>
-Reviewed-on: https://android.intel.com/613361
+Reviewed-on: https://localhost/613361
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

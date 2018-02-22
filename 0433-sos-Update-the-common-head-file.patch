@@ -12,7 +12,7 @@ Subject: [PATCH 433/548] sos: Update the common head file
 Change-Id: Ice1f93bf7083b08001b2dfdea257aa7d58e9e751
 Tracked-On:218445
 Signed-off-by: Mingqiang Chi <mingqiang.chi@intel.com>
-Reviewed-on: https://android.intel.com/614861
+Reviewed-on: https://localhost/614861
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>
 ---

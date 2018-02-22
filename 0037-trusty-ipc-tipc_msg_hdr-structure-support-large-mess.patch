@@ -11,7 +11,7 @@ larger message.
 Change-Id: I9f08d699842723224a10242d19165fa748a8c8b4
 Tracked-On: https://localhost/browse/OAM-43927
 Signed-off-by: Yan, Xiangyang <xiangyangx.yan@intel.com>
-Reviewed-on: https://android.intel.com:443/575370
+Reviewed-on: https://localhost:443/575370
 ---
  drivers/trusty/trusty-ipc.c | 4 ++--
  1 file changed, 2 insertions(+), 2 deletions(-)

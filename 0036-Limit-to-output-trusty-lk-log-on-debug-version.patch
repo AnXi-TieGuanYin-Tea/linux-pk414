@@ -13,7 +13,7 @@ Tracked-On: https://localhost/browse/OAM-43042
 Tracked-On: https://localhost/browse/OAM-42979
 Signed-off-by: yingbinx <yingbinx.zeng@intel.com>
 Signed-off-by: weideng <wei.a.deng@intel.com>
-Reviewed-on: https://android.intel.com:443/569747
+Reviewed-on: https://localhost:443/569747
 ---
  drivers/trusty/trusty-log.c | 15 +++++++++++----
  1 file changed, 11 insertions(+), 4 deletions(-)

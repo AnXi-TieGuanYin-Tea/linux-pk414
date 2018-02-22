@@ -10,7 +10,7 @@ static value initialization, and do nothing in write handler.
 Change-Id: I1a85f717ef23c171651f1a1cad5c73880d538e3d
 Signed-off-by: Pei Zhang <pei.zhang@intel.com>
 Acknowledged-by: Singh, Satyeshwar <satyeshwar.singh@intel.com>
-Reviewed-on: https://android.intel.com/613362
+Reviewed-on: https://localhost/613362
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

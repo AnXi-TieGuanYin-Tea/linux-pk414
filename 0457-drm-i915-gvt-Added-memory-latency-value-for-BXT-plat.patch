@@ -11,7 +11,7 @@ Reviewed-by: Singh, Satyeshwar <satyeshwar.singh@intel.com>
 (cherry picked from commit 437e34f49b0a082e8bd421ebcefa8d335e6b4863)
 
 Change-Id: Ibe2cb6203e4b094f3dd660d94792d03c478ee8b6
-Reviewed-on: https://android.intel.com/613353
+Reviewed-on: https://localhost/613353
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

@@ -6,7 +6,7 @@ Subject: [PATCH 511/548] x86: cwp need depend on PCI_MSI
 Change-Id: If090f301a4c1074c0771f8db641dc543a903daec
 Tracked-On: 218445
 Signed-off-by: Jason Chen CJ <jason.cj.chen@intel.com>
-Reviewed-on: https://android.intel.com/615533
+Reviewed-on: https://localhost/615533
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>
 ---

@@ -38,7 +38,7 @@ pretty some changes were made since then.
 
 Change-Id: Ic0821f58dd568217a44b1b478c9659c709889c43
 Signed-off-by: Zhiyuan Lv <zhiyuan.lv@intel.com>
-Reviewed-on: https://android.intel.com/613384
+Reviewed-on: https://localhost/613384
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

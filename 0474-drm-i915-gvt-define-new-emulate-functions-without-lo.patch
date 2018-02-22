@@ -9,7 +9,7 @@ Move the gvt->lock protection to an out wrapper function.
 Change-Id: I98f0521a154ffda9e77b8c5c6b74d49ea40b3a3d
 Signed-off-by: Pei Zhang <pei.zhang@intel.com>
 Acknowledged-by: Vivek Kasireddy <vivek.kasireddy@intel.com>
-Reviewed-on: https://android.intel.com/613371
+Reviewed-on: https://localhost/613371
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

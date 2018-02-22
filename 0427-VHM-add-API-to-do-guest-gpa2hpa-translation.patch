@@ -9,7 +9,7 @@ corresponding guest.
 Change-Id: I5ccdc3c6ac73d02d854878957093895c7f0cbee6
 Tracked-On: 218445
 Signed-off-by: Jason Chen CJ <jason.cj.chen@intel.com>
-Reviewed-on: https://android.intel.com/614850
+Reviewed-on: https://localhost/614850
 Reviewed-by: Chi, Mingqiang <mingqiang.chi@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

@@ -12,7 +12,7 @@ channel buffer size to 68K.
 Change-Id: I2bfb0174430962c6e66c08033be958aaffeca515
 Tracked-On: https://localhost/browse/OAM-43928
 Signed-off-by: Yan, Shaopu <shaopu.yan@intel.com>
-Reviewed-on: https://android.intel.com:443/575371
+Reviewed-on: https://localhost:443/575371
 ---
  drivers/trusty/trusty-ipc.c | 3 ++-
  1 file changed, 2 insertions(+), 1 deletion(-)

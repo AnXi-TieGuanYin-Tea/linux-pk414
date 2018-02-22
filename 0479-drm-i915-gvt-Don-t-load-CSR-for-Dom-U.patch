@@ -11,7 +11,7 @@ loading. Tests have shown this can be anywhere between 80 to 500 ms.
 Change-Id: Ic8119d69eaf01fda3082f055e306a2d6263411ed
 Signed-off-by: Satyeshwar Singh <satyeshwar.singh@intel.com>
 Reviewed-by: Vivek Kasireddy <vivek.kasireddy@intel.com>
-Reviewed-on: https://android.intel.com/613402
+Reviewed-on: https://localhost/613402
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

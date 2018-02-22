@@ -10,7 +10,7 @@ this file.
 Change-Id: Id896a8300cf54279151a9d5674ed27a352df3f3f
 Tracked-On:218445
 Signed-off-by: Mingqiang Chi <mingqiang.chi@intel.com>
-Reviewed-on: https://android.intel.com/614857
+Reviewed-on: https://localhost/614857
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>
 ---

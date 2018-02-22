@@ -11,7 +11,7 @@ Change-Id: I295785b0510729aa2e9d212b243d7c242370389f
 Tracked-On: https://localhost/browse/OAM-43859
 Signed-off-by: yingbinx <yingbinx.zeng@intel.com>
 Signed-off-by: weideng <wei.a.deng@intel.com>
-Reviewed-on: https://android.intel.com:443/574947
+Reviewed-on: https://localhost:443/574947
 ---
  drivers/trusty/trusty-ipc.c    |  7 +++++++
  drivers/trusty/trusty-irq.c    |  6 ++++++

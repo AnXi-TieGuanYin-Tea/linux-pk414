@@ -12,7 +12,7 @@ Signed-off-by: liang ding <liang.ding@intel.com>
 Signed-off-by: Xiao Zheng <xiao.zheng@intel.com>
 Signed-off-by: Jason Chen CJ <jason.cj.chen@intel.com>
 Signed-off-by: Mingqiang Chi <mingqiang.chi@intel.com>
-Reviewed-on: https://android.intel.com/614848
+Reviewed-on: https://localhost/614848
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>
 ---

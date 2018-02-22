@@ -14,7 +14,7 @@ Notice: this patch is required to be applied to guest kernel.
 Change-Id: I570f1fe02101e518595c02fce67601b692871aa9
 Signed-off-by: Pei Zhang <pei.zhang@intel.com>
 Acknowledged-by: Singh, Satyeshwar <satyeshwar.singh@intel.com>
-Reviewed-on: https://android.intel.com/613366
+Reviewed-on: https://localhost/613366
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

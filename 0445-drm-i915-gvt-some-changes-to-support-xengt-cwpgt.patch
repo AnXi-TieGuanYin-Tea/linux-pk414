@@ -9,7 +9,7 @@ opregion in host.
 
 Change-Id: Ic6e46561f58eec1a17fb8d5bd9c5dd76d32b5350
 Signed-off-by: Min He <min.he@intel.com>
-Reviewed-on: https://android.intel.com/613341
+Reviewed-on: https://localhost/613341
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

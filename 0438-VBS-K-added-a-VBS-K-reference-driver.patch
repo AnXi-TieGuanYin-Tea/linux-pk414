@@ -24,7 +24,7 @@ Key points from the reference driver:
 Change-Id: Id590930d2f64d391ceb18c6ef491ec48412a89d8
 Tracked-On:218445
 Signed-off-by: Hao Li <hao.l.li@intel.com>
-Reviewed-on: https://android.intel.com/614931
+Reviewed-on: https://localhost/614931
 Reviewed-by: Chi, Mingqiang <mingqiang.chi@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

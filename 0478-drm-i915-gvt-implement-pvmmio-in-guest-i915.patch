@@ -14,7 +14,7 @@ Notice: this patch is required in GVTg guest.
 Change-Id: I8d51430015822976450c14085979460b9cc021d7
 Signed-off-by: Pei Zhang <pei.zhang@intel.com>
 Acknowledged-by: Singh, Satyeshwar <satyeshwar.singh@intel.com>
-Reviewed-on: https://android.intel.com/613367
+Reviewed-on: https://localhost/613367
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

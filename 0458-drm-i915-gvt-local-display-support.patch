@@ -8,7 +8,7 @@ Added local display dispaly support for GVT-g.
 Signed-off-by: Min He <min.he@intel.com>
 
 Change-Id: I430fbf98318cd35f7104657c4d1c128e50f56f2d
-Reviewed-on: https://android.intel.com/613354
+Reviewed-on: https://localhost/613354
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

@@ -8,7 +8,7 @@ Added API vhm_get_vm_info: get guest vm's max_vcpu & max_gfn
 Change-Id: Ibe668c75e893092a1e5ea824aa09d9b65825fabb
 Tracked-On: 218445
 Signed-off-by: Jason Chen CJ <jason.cj.chen@intel.com>
-Reviewed-on: https://android.intel.com/614849
+Reviewed-on: https://localhost/614849
 Reviewed-by: Chi, Mingqiang <mingqiang.chi@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

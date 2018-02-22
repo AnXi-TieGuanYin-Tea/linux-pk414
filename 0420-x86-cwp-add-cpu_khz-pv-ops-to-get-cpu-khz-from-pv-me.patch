@@ -12,7 +12,7 @@ Change-Id: Ia018d0f1f34127ae3603208894044a7d13fea947
 Tracked-On: 218445
 Signed-off-by: Jason Chen CJ <jason.cj.chen@intel.com>
 Signed-off-by: Shiqing Gao <shiqing.gao@intel.com>
-Reviewed-on: https://android.intel.com/614842
+Reviewed-on: https://localhost/614842
 Reviewed-by: Chi, Mingqiang <mingqiang.chi@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

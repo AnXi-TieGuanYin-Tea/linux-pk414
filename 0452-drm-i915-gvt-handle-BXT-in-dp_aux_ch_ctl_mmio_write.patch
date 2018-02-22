@@ -7,7 +7,7 @@ Signed-off-by: Min He <min.he@intel.com>
 (cherry picked from commit 58b5112009611b5d78282d33e278ccd6850a1017)
 
 Change-Id: I31c7f1d5da366b28fdc7958318a0009302ba5ccd
-Reviewed-on: https://android.intel.com/613348
+Reviewed-on: https://localhost/613348
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

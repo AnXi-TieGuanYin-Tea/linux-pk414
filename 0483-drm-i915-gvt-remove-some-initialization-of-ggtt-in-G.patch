@@ -19,7 +19,7 @@ Conflicts:
 	drivers/gpu/drm/i915/i915_gem_gtt.c
 
 Change-Id: I2d854d5fea65dfbd92c12b9426fa882075d766e1
-Reviewed-on: https://android.intel.com/613382
+Reviewed-on: https://localhost/613382
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

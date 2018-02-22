@@ -13,7 +13,7 @@ Subject: [PATCH 432/548] sos: clean up ptdev msi-x table ioremap operations
 Change-Id: Ie8330bc5054ba549a11866b84770df5d1a257a6c
 Tracked-On:218445
 Signed-off-by: Shiqing Gao <shiqing.gao@intel.com>
-Reviewed-on: https://android.intel.com/614860
+Reviewed-on: https://localhost/614860
 Reviewed-by: Chi, Mingqiang <mingqiang.chi@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

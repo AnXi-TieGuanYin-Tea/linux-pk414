@@ -15,7 +15,7 @@ Change-Id: Ie5d143ee0db45f386af223e64afa8daffa843de1
 Signed-off-by: Ping Gao <ping.a.gao@intel.com>
 Reviewed-by: Kevin Tian <kevin.tian@intel.com>
 Reviewed-by: Singh, Satyeshwar <satyeshwar.singh@intel.com>
-Reviewed-on: https://android.intel.com/613375
+Reviewed-on: https://localhost/613375
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

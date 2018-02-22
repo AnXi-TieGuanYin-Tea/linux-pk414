@@ -13,7 +13,7 @@ Change-Id: Ib5c0687c6227b527ff629c7884246417686b5896
 Tracked-On: 218445
 Signed-off-by: Jason Chen CJ <jason.cj.chen@intel.com>
 Signed-off-by: Zheng Xiao <xiao.zheng@intel.com>
-Reviewed-on: https://android.intel.com/614852
+Reviewed-on: https://localhost/614852
 Reviewed-by: Chi, Mingqiang <mingqiang.chi@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

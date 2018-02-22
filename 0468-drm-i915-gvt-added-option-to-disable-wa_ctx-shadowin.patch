@@ -13,7 +13,7 @@ can enable it manually by modifying the code.
 Change-Id: I535af0a720e7ccfbca80686e45c79c5c2a3dd9c6
 Signed-off-by: Min He <min.he@intel.com>
 Reviewed-by: Singh, Satyeshwar <satyeshwar.singh@intel.com>
-Reviewed-on: https://android.intel.com/613364
+Reviewed-on: https://localhost/613364
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

@@ -25,7 +25,7 @@ Signed-off-by: Fei Jiang <fei.jiang@intel.com>
 Reviewed-by: Singh, Satyeshwar <satyeshwar.singh@intel.com>
 Reviewed-by: Abes, Brahim <brahimx.abes@intel.com>
 Reviewed-by: He, Min <min.he@intel.com>
-Reviewed-on: https://android.intel.com/613918
+Reviewed-on: https://localhost/613918
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>
 ---

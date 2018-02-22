@@ -5,7 +5,7 @@ Subject: [PATCH 451/548] drm/i915/gvt: add MMIO handler for PPS/BLC/CLK/DDI
 
 Change-Id: I3f53e257bb4475f6e635d465ce7e1daba2dabc65
 Signed-off-by: Chang Ying <ying.chang@intel.com>
-Reviewed-on: https://android.intel.com/613347
+Reviewed-on: https://localhost/613347
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

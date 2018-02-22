@@ -13,7 +13,7 @@ Change-Id: Ie9f6af005160a807335b2f266d7139abc06d8db9
 Tracked-On: 218445
 Signed-off-by: Jason Chen CJ <jason.cj.chen@intel.com>
 Signed-off-by: Edwin Zhai <edwin.zhai@intel.com>
-Reviewed-on: https://android.intel.com/614932
+Reviewed-on: https://localhost/614932
 Reviewed-by: Chi, Mingqiang <mingqiang.chi@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

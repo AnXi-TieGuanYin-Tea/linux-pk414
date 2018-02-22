@@ -11,7 +11,7 @@ Signed-off-by: Vivek Kasireddy <vivek.kasireddy@intel.com>
 (cherry picked from commit 9e26c9d08da2a5ccd65ab27f5795da5ecfbe5dd1)
 
 Change-Id: Ie207295f1efac15f695990eed01c4e3b43a9ab6c
-Reviewed-on: https://android.intel.com/613343
+Reviewed-on: https://localhost/613343
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

@@ -11,7 +11,7 @@ address.
 Change-Id: Ifcbd0e55783e19125e98036622cd5d08624d34fa
 Signed-off-by: Pei Zhang <pei.zhang@intel.com>
 Acknowledged-by: Singh, Satyeshwar <satyeshwar.singh@intel.com>
-Reviewed-on: https://android.intel.com/613368
+Reviewed-on: https://localhost/613368
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

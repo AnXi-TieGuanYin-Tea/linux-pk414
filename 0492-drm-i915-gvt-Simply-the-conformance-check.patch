@@ -12,7 +12,7 @@ Change-Id: Ib3b3c29f3e63303b06847fc8b45d4d501eb871b4
 Signed-off-by: Ping Gao <ping.a.gao@intel.com>
 Reviewed-by: Kevin Tian <kevin.tian@intel.com>
 Reviewed-by: Singh, Satyeshwar <satyeshwar.singh@intel.com>
-Reviewed-on: https://android.intel.com/613377
+Reviewed-on: https://localhost/613377
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

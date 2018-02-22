@@ -11,7 +11,7 @@ Signed-off-by: Min He <min.he@intel.com>
 
 Change-Id: I509310bf1febb4cd9918440521c29eacad8c06eb
 Acknowledged-by: Vivek Kasireddy <vivek.kasireddy@intel.com>
-Reviewed-on: https://android.intel.com/613358
+Reviewed-on: https://localhost/613358
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

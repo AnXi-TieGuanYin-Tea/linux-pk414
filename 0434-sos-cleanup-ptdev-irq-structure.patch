@@ -8,7 +8,7 @@ Subject: [PATCH 434/548] sos: cleanup ptdev irq structure
 Change-Id: Id7b02038d0c149a0d1206206f18d54c91c7350d3
 Tracked-On: 218445
 Signed-off-by: Binbin Wu <binbin.wu@intel.com>
-Reviewed-on: https://android.intel.com/614862
+Reviewed-on: https://localhost/614862
 Reviewed-by: Chi, Mingqiang <mingqiang.chi@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

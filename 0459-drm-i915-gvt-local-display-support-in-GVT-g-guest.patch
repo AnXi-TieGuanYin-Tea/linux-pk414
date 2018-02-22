@@ -9,7 +9,7 @@ This patch includes below features in GVT-g guest
 
 Change-Id: I6f6dfa4e5c801e7a63105310d5991adb0a0acad1
 Signed-off-by: Min He <min.he@intel.com>
-Reviewed-on: https://android.intel.com/613355
+Reviewed-on: https://localhost/613355
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

@@ -14,7 +14,7 @@ This patch added the virtqueue runtime API to the VBS-K framework:
 Change-Id: Ie7f81d96c895a16e210133c19aca99b185b8682d
 Tracked-On:218445
 Signed-off-by: Hao Li <hao.l.li@intel.com>
-Reviewed-on: https://android.intel.com/614930
+Reviewed-on: https://localhost/614930
 Reviewed-by: Chi, Mingqiang <mingqiang.chi@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

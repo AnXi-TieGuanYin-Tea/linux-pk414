@@ -12,7 +12,7 @@ Conflicts:
 	drivers/gpu/drm/i915/gvt/sched_policy.c
 
 Change-Id: Icf7e6bff09db0c9a5afe0d0725c65ff5b73eee16
-Reviewed-on: https://android.intel.com/613943
+Reviewed-on: https://localhost/613943
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

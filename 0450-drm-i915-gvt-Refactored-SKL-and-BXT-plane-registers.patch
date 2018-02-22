@@ -7,7 +7,7 @@ Refactored the SKL and BXT plane registers and implemented their plane register 
 Signed-off-by: Min He <min.he@intel.com>
 
 Change-Id: Id72f6aa11db332008b73ce4ad1069386b9b81f35
-Reviewed-on: https://android.intel.com/613346
+Reviewed-on: https://localhost/613346
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

@@ -9,7 +9,7 @@ add disable_gvt_fw_loading to speed up sos boot up time.
 
 Change-Id: I07aca795057fec09ff9ee729a65a5f96006c5ef8
 Signed-off-by: Fei Jiang <fei.jiang@intel.com>
-Reviewed-on: https://android.intel.com/613418
+Reviewed-on: https://localhost/613418
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>
 ---

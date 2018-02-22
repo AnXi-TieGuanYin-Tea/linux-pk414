@@ -11,7 +11,7 @@ Change-Id: I2710dd94dfb635f12f5b482a894891bcf725f6be
 Tracked-On: https://localhost/browse/OAM-45413
 Signed-off-by: yingbinx <yingbinx.zeng@intel.com>
 Signed-off-by: weideng <wei.a.deng@intel.com>
-Reviewed-on: https://android.intel.com:443/581978
+Reviewed-on: https://localhost:443/581978
 ---
  drivers/trusty/trusty-log.c    | 10 +++++++---
  drivers/trusty/trusty-virtio.c |  2 +-

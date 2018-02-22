@@ -10,7 +10,7 @@ when there're multiple mem_segs for a guest.
 Change-Id: Iacef2c562ea7e0ec0b0cda02684633279ccefd36
 Tracked-On:218445
 Signed-off-by: Min He <min.he@intel.com>
-Reviewed-on: https://android.intel.com/614956
+Reviewed-on: https://localhost/614956
 Reviewed-by: Chi, Mingqiang <mingqiang.chi@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

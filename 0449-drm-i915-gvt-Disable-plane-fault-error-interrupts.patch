@@ -8,7 +8,7 @@ by not masking them as a workaround.
 
 Change-Id: Ida5fe3037e3d547a066b460a814a98283435ef5a
 Signed-off-by: Min He <min.he@intel.com>
-Reviewed-on: https://android.intel.com/613345
+Reviewed-on: https://localhost/613345
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

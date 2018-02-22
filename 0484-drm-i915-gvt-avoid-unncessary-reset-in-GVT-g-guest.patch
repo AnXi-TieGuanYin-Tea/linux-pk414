@@ -9,7 +9,7 @@ boot time.
 
 Change-Id: Id8c120c3229118af3c41fb1ef4ddbfbf71cb69fe
 Signed-off-by: Min He <min.he@intel.com>
-Reviewed-on: https://android.intel.com/613403
+Reviewed-on: https://localhost/613403
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

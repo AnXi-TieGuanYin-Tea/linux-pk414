@@ -12,7 +12,7 @@ Tracked-On: 218445
 Signed-off-by: Jason Zeng <jason.zeng@intel.com>
 Signed-off-by: liang ding <liang.ding@intel.com>
 Signed-off-by: Jason Chen CJ <jason.cj.chen@intel.com>
-Reviewed-on: https://android.intel.com/614846
+Reviewed-on: https://localhost/614846
 Reviewed-by: Chi, Mingqiang <mingqiang.chi@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

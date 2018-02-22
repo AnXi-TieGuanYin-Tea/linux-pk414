@@ -14,7 +14,7 @@ Notice: this is to apply to the guest.
 Change-Id: Ib7b3e911d4ca9b6e11a6ec1e10be8807550fc030
 Reviewed-by: Singh, Satyeshwar <satyeshwar.singh@intel.com>
 Reviewed-by: He, Min <min.he@intel.com>
-Reviewed-on: https://android.intel.com/613365
+Reviewed-on: https://localhost/613365
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

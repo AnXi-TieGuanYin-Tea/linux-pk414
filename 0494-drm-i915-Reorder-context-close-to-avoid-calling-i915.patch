@@ -28,7 +28,7 @@ Cc: Joonas Lahtinen <joonas.lahtinen@linux.intel.com>
 Cc: Matthew Auld <matthew.william.auld@gmail.com>
 Link: https://patchwork.freedesktop.org/patch/msgid/20171109085540.32264-1-chris@chris-wilson.co.uk
 Reviewed-by: Tvrtko Ursulin <tvrtko.ursulin@intel.com>
-Reviewed-on: https://android.intel.com/613958
+Reviewed-on: https://localhost/613958
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

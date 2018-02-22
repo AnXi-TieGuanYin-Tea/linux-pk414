@@ -16,7 +16,7 @@ d) allow HDMI to specify pins for port A to allow initialisation.
 Change-Id: I99f9636dc6403d67a0de0422eff9b504190fc5f1
 Reviewed-by: Min He <min.he@intel.com>
 Signed-off-by: Michael Byrne <michaelx.byrne@intel.com>
-Reviewed-on: https://android.intel.com/613356
+Reviewed-on: https://localhost/613356
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

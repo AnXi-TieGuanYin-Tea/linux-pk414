@@ -11,7 +11,7 @@ we are done.
 Change-Id: Ic6bbec7e9d5a4f1b81a3880f1dcf2a96dc89c4a3
 Signed-off-by: Vivek Kasireddy <vivek.kasireddy@intel.com>
 Signed-off-by: Walter Mack <walter.mack@intel.com>
-Reviewed-on: https://android.intel.com/613359
+Reviewed-on: https://localhost/613359
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

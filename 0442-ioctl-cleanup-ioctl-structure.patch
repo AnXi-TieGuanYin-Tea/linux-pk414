@@ -8,7 +8,7 @@ vm_memseg/vm_memmap: remove unused fileds and define field size
 Change-Id: I9cb01cc6ea8eb97989e0b4b4ff6c55fa9b9822c8
 Tracked-On: 218445
 Signed-off-by: Edwin Zhai <edwin.zhai@intel.com>
-Reviewed-on: https://android.intel.com/614935
+Reviewed-on: https://localhost/614935
 Reviewed-by: Chi, Mingqiang <mingqiang.chi@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

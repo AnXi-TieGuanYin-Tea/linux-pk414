@@ -7,7 +7,7 @@ It is a work around patch due to plane restriction patches are not porting
 
 Change-Id: If09ff8c40254ec275dc2d9b9674d7267d306a7e7
 Signed-off-by: Fei Jiang <fei.jiang@intel.com>
-Reviewed-on: https://android.intel.com/613428
+Reviewed-on: https://localhost/613428
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>
 ---

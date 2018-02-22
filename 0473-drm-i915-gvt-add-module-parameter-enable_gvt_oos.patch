@@ -10,7 +10,7 @@ will be reduced.
 Change-Id: Ifc2393fc23b99bf804e4c9a504443fc883589710
 Signed-off-by: Pei Zhang <pei.zhang@intel.com>
 Reviewed-by: Vivek Kasireddy <vivek.kasireddy@intel.com>
-Reviewed-on: https://android.intel.com/613370
+Reviewed-on: https://localhost/613370
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

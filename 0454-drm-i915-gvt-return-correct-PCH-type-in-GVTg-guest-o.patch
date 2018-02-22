@@ -12,7 +12,7 @@ V2: uses a more elegant way to assign correct PCH type
 
 Change-Id: I6fa13f78ca10ae2d5b41cd43fd0902559f68ba16
 Signed-off-by: Min He <min.he@intel.com>
-Reviewed-on: https://android.intel.com/613350
+Reviewed-on: https://localhost/613350
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

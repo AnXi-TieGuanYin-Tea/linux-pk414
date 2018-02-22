@@ -10,7 +10,7 @@ Change-Id: Ib9e7d9a8e971d5f32290953b4916dea064de8638
 Tracked-On: 218445
 Signed-off-by: Jason Chen CJ <jason.cj.chen@intel.com>
 Signed-off-by: Jack Ren <jack.ren@intel.com>
-Reviewed-on: https://android.intel.com/614840
+Reviewed-on: https://localhost/614840
 Reviewed-by: Chi, Mingqiang <mingqiang.chi@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

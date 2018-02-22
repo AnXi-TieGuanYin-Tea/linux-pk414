@@ -17,7 +17,7 @@ Reviewed-by: Adebisi, YetundeX <yetundex.adebisi@intel.com>
 Verified-by: Van Der Wath, Daniel J <danielx.j.van.der.wath@intel.com>
 (cherry picked from commit 3e52d8f679eb93c2c1eb7e0f69de34c7d78260d2)
 (cherry picked from commit 74c64f2595b70a2079c28bbda960fff7d3e99289)
-Reviewed-on: https://android.intel.com/613916
+Reviewed-on: https://localhost/613916
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

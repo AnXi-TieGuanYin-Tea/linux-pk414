@@ -6,7 +6,7 @@ Subject: [PATCH 440/548] vhm: refine vm related hypercall/ioctrl
 Change-Id: I028f59998733f3d066e2ead7768297570d97bf22
 Tracked-On:218445
 Signed-off-by: Yin Fengwei <fengwei.yin@intel.com>
-Reviewed-on: https://android.intel.com/614933
+Reviewed-on: https://localhost/614933
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>
 ---

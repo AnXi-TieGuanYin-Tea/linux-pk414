@@ -6,7 +6,7 @@ Subject: [PATCH 431/548] vcpu: export vcpu create interface to DM
 Change-Id: I64a179c2452f67285f347bbaa60c702dec5f55de
 Tracked-On: 218445
 Signed-off-by: Yin Fengwei <fengwei.yin@intel.com>
-Reviewed-on: https://android.intel.com/614858
+Reviewed-on: https://localhost/614858
 Reviewed-by: Chi, Mingqiang <mingqiang.chi@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
 Tested-by: Dong, Eddie <eddie.dong@intel.com>

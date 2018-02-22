@@ -15,7 +15,7 @@ Change-Id: I482dacb83f61229783bfe0c61721b73f47ee4703
 Tracked-On: https://localhost/browse/OAM-16548
 Signed-off-by: Jayachandran B <jayachandran.b@intel.com>
 Signed-off-by: Ramesh Babu <Ramesh.Babu@intel.com>
-Reviewed-on: https://android.intel.com:443/471195
+Reviewed-on: https://localhost:443/471195
 Reviewed-on: https://localhost/gerrit/8254
 Reviewed-by: Babu, Ramesh <ramesh.babu@intel.com>
 Tested-by: Babu, Ramesh <ramesh.babu@intel.com>

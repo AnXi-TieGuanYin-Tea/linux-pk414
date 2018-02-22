@@ -12,7 +12,7 @@ would get a high improvement.
 Change-Id: I172650807b95495d4a82788306eaf74c848717d3
 Signed-off-by: Pei Zhang <pei.zhang@intel.com>
 Acknowledged-by: Singh, Satyeshwar <satyeshwar.singh@intel.com>
-Reviewed-on: https://android.intel.com/613363
+Reviewed-on: https://localhost/613363
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>

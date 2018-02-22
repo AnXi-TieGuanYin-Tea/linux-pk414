@@ -14,7 +14,7 @@ extra fields per each packet:
 Change-Id: I3a71e1d5909260df5a07c98291ee9e908f698ea2
 Signed-off-by: Brahim Abes <brahimx.abes@intel.com>
 Reviewed-by: Singh, Satyeshwar <satyeshwar.singh@intel.com>
-Reviewed-on: https://android.intel.com/613919
+Reviewed-on: https://localhost/613919
 Reviewed-by: Jiang, Fei <fei.jiang@intel.com>
 Reviewed-by: He, Min <min.he@intel.com>
 Reviewed-by: Dong, Eddie <eddie.dong@intel.com>
