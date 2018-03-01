@@ -1,7 +1,7 @@
-From 4676f6cd9e0157073d6d07c06a2d65fcc501f00c Mon Sep 17 00:00:00 2001
+From 33ac8fe70c7341117a4fc9997d7267d9eb8fc617 Mon Sep 17 00:00:00 2001
 From: Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>
 Date: Thu, 9 Feb 2017 18:40:32 -0800
-Subject: [PATCH 004/548] thermal:pch: Add CNL support
+Subject: [PATCH 004/637] thermal:pch: Add CNL support
 
 Signed-off-by: Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>
 ---
@@ -49,5 +49,5 @@ index c60b1cfcc64e..ddd777cf5309 100644
  };
  MODULE_DEVICE_TABLE(pci, intel_pch_thermal_id);
 -- 
-2.16.1
+2.16.2
 

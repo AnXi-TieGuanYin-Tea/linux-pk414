@@ -1,7 +1,7 @@
-From ffd5d2005d6d06331b82405a685e9e338c364e85 Mon Sep 17 00:00:00 2001
+From c510d5adde931ee2c44d8e5cba7e3d912de2594a Mon Sep 17 00:00:00 2001
 From: "Zhang, Qi" <qi1.zhang@intel.com>
 Date: Tue, 11 Jul 2017 04:42:49 +0000
-Subject: [PATCH 046/548] trusty: add support for parameterized NOP ops
+Subject: [PATCH 046/637] trusty: add support for parameterized NOP ops
 
 Parameterized NOPs are introduced by Trusty secure side to
 facilitate better SMP concurrency. They are effectively NOP
@@ -476,5 +476,5 @@ index aba204b9ff3a..eaa833bdea73 100644
  #define EVMM_SIGNATURE_CORP 0x43544E49  /* "INTC", edx */
  #define EVMM_SIGNATURE_VMM  0x4D4D5645  /* "EVMM", ecx */
 -- 
-2.16.1
+2.16.2
 

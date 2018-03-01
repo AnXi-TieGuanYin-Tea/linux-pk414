@@ -1,7 +1,7 @@
-From ea98c16899d6b69c7a411fabe47c80f265087815 Mon Sep 17 00:00:00 2001
+From 72e131c16d1c66a12477cddd8ea0e2b2443df55c Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Tue, 11 Jul 2017 13:25:34 -0700
-Subject: [PATCH 074/548] x86: Enable User-Mode Instruction Prevention
+Subject: [PATCH 074/637] x86: Enable User-Mode Instruction Prevention
 
 User-Mode Instruction Prevention (UMIP) is enabled by setting/clearing a
 bit in %cr4.
@@ -43,10 +43,10 @@ Signed-off-by: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
  2 files changed, 34 insertions(+), 1 deletion(-)
 
 diff --git a/arch/x86/Kconfig b/arch/x86/Kconfig
-index 17de6acc0eab..ad678af73944 100644
+index 559b37bf5a2e..80dc00a15269 100644
 --- a/arch/x86/Kconfig
 +++ b/arch/x86/Kconfig
-@@ -1817,6 +1817,16 @@ config X86_SMAP
+@@ -1816,6 +1816,16 @@ config X86_SMAP
  
  	  If unsure, say Y.
  
@@ -64,7 +64,7 @@ index 17de6acc0eab..ad678af73944 100644
  	prompt "Intel MPX (Memory Protection Extensions)"
  	def_bool n
 diff --git a/arch/x86/kernel/cpu/common.c b/arch/x86/kernel/cpu/common.c
-index 92b66e21bae5..ebb88e691e9b 100644
+index 651b7afed4da..ac838c3ae326 100644
 --- a/arch/x86/kernel/cpu/common.c
 +++ b/arch/x86/kernel/cpu/common.c
 @@ -331,6 +331,28 @@ static __always_inline void setup_smap(struct cpuinfo_x86 *c)
@@ -109,5 +109,5 @@ index 92b66e21bae5..ebb88e691e9b 100644
  	/*
  	 * The vendor-specific functions might have changed features.
 -- 
-2.16.1
+2.16.2
 

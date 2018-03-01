@@ -1,7 +1,7 @@
-From 0e3f6ab8f60a769e7eb7c60624acc30252da4516 Mon Sep 17 00:00:00 2001
+From da615c436e3845c96145decec1485624096eca90 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Mon, 19 Dec 2016 15:29:11 -0800
-Subject: [PATCH 075/548] x86/traps: Fixup general protection faults caused by
+Subject: [PATCH 075/637] x86/traps: Fixup general protection faults caused by
  UMIP
 
 If the User-Mode Instruction Prevention CPU feature is available and
@@ -47,10 +47,10 @@ Signed-off-by: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
  1 file changed, 5 insertions(+)
 
 diff --git a/arch/x86/kernel/traps.c b/arch/x86/kernel/traps.c
-index b33e860d32fe..c274f01a515d 100644
+index a66428dc92ae..d233bba17ba7 100644
 --- a/arch/x86/kernel/traps.c
 +++ b/arch/x86/kernel/traps.c
-@@ -61,6 +61,7 @@
+@@ -60,6 +60,7 @@
  #include <asm/trace/mpx.h>
  #include <asm/mpx.h>
  #include <asm/vm86.h>
@@ -58,7 +58,7 @@ index b33e860d32fe..c274f01a515d 100644
  
  #ifdef CONFIG_X86_64
  #include <asm/x86_init.h>
-@@ -537,6 +538,10 @@ do_general_protection(struct pt_regs *regs, long error_code)
+@@ -536,6 +537,10 @@ do_general_protection(struct pt_regs *regs, long error_code)
  	RCU_LOCKDEP_WARN(!rcu_is_watching(), "entry code didn't wake RCU");
  	cond_local_irq_enable(regs);
  
@@ -70,5 +70,5 @@ index b33e860d32fe..c274f01a515d 100644
  		local_irq_enable();
  		handle_vm86_fault((struct kernel_vm86_regs *) regs, error_code);
 -- 
-2.16.1
+2.16.2
 

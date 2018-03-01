@@ -1,7 +1,7 @@
-From a936bd2d8b879c2227f9983175f8f80a1f10c87d Mon Sep 17 00:00:00 2001
+From 77c68d12f59989b9dba76d0cff19d845185a6ef9 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Tue, 2 May 2017 18:41:58 -0700
-Subject: [PATCH 060/548] x86/insn-eval: Add utility function to identify
+Subject: [PATCH 060/637] x86/insn-eval: Add utility function to identify
  string instructions
 
 String instructions are special because, in protected mode, the linear
@@ -81,5 +81,5 @@ index c9d3cde50761..36bd847828b4 100644
  			  enum reg_type type)
  {
 -- 
-2.16.1
+2.16.2
 

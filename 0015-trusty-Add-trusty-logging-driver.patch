@@ -1,7 +1,7 @@
-From efacffbd75c81cea82f823a155781a2e49116e80 Mon Sep 17 00:00:00 2001
+From 843925cefa4477990399a1f1979c8c00c5d71023 Mon Sep 17 00:00:00 2001
 From: Riley Andrews <riandrews@google.com>
 Date: Thu, 5 May 2016 14:42:41 -0700
-Subject: [PATCH 015/548] trusty: Add trusty logging driver.
+Subject: [PATCH 015/637] trusty: Add trusty logging driver.
 
 This driver is the consumer side of a ringbuffer of log data
 that the secure operating system dumps prints into. Trusty
@@ -363,5 +363,5 @@ index e8704974d3e3..aaad5cee6143 100644
  
  /* FC = Fast call, SC = Standard call */
 -- 
-2.16.1
+2.16.2
 

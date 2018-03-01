@@ -1,7 +1,7 @@
-From fcc402c6df89d718f46682751727257a6aa490b1 Mon Sep 17 00:00:00 2001
+From cce02bba4ed65cce9a94e84b74c2b2b91986e709 Mon Sep 17 00:00:00 2001
 From: "Pottratz, Dwane" <dwane.pottratz@intel.com>
 Date: Fri, 27 Jan 2017 10:18:38 -0800
-Subject: [PATCH 001/548] greybus: Remove android make file
+Subject: [PATCH 001/637] greybus: Remove android make file
 
 Remove the andorid make file.  With multiple kernel repos in the android
 build system the make file will cause a redefine and fail
@@ -29,5 +29,5 @@ index fdadbf611757..000000000000
 -include $(BUILD_EXECUTABLE)
 -
 -- 
-2.16.1
+2.16.2
 

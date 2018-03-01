@@ -1,7 +1,7 @@
-From f369c64172304efc4f54fd90d8166aacacc94840 Mon Sep 17 00:00:00 2001
+From 8df9e8e03b3e92910feb4290f9326148d8e0f62b Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Thu, 1 Jun 2017 12:28:15 -0700
-Subject: [PATCH 062/548] x86/insn-eval: Add utility function to get segment
+Subject: [PATCH 062/637] x86/insn-eval: Add utility function to get segment
  descriptor
 
 The segment descriptor contains information that is relevant to how linear
@@ -114,5 +114,5 @@ index 44e22473892d..11a5d774e3fc 100644
   * insn_get_modrm_rm_off() - Obtain register in r/m part of ModRM byte
   * @insn:	Instruction structure containing the ModRM byte
 -- 
-2.16.1
+2.16.2
 

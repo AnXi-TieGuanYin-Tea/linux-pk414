@@ -1,7 +1,7 @@
-From 92ed1bdd66551336291677814b04615bc207f1a2 Mon Sep 17 00:00:00 2001
+From d4ad89e1b60f19b3d53aa83e6f4a9c012ce836d3 Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Arve=20Hj=C3=B8nnev=C3=A5g?= <arve@android.com>
 Date: Thu, 9 Oct 2014 21:24:17 -0700
-Subject: [PATCH 010/548] trusty: Get version string from trusty
+Subject: [PATCH 010/637] trusty: Get version string from trusty
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit
@@ -151,5 +151,5 @@ index ce00c1d46a5e..abb77f1db74d 100644
 +const char *trusty_version_str_get(struct device *dev);
  #endif
 -- 
-2.16.1
+2.16.2
 

@@ -1,7 +1,7 @@
-From 06b95651ba199fdb08415acb76e6f189245113e8 Mon Sep 17 00:00:00 2001
+From 2d78b0da2496d117fad087f22440df07ad9b504e Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Arve=20Hj=C3=B8nnev=C3=A5g?= <arve@android.com>
 Date: Mon, 18 Nov 2013 20:52:55 -0800
-Subject: [PATCH 011/548] trusty: Add interrupt support
+Subject: [PATCH 011/637] trusty: Add interrupt support
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit
@@ -589,5 +589,5 @@ index 000000000000..ae9535af77dd
 +
 +module_platform_driver(trusty_irq_driver);
 -- 
-2.16.1
+2.16.2
 

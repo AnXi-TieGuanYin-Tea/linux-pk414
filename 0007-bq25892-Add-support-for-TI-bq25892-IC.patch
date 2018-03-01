@@ -1,7 +1,7 @@
-From 44a227561d52a70616303354cc5e751eb4ee40b8 Mon Sep 17 00:00:00 2001
+From 1d104969f744d707066086841b27d6c47ee414f5 Mon Sep 17 00:00:00 2001
 From: Rohit S Kenchanpura <rohit.s.kenchanpura@intel.com>
 Date: Wed, 3 Aug 2016 15:13:11 -0700
-Subject: [PATCH 007/548] bq25892: Add support for TI bq25892 IC.
+Subject: [PATCH 007/637] bq25892: Add support for TI bq25892 IC.
 
 Change-Id: I2b117644279a9cc0e42843411b8276bac3b1edbf
 Signed-off-by: Rohit S Kenchanpura <rohit.s.kenchanpura@intel.com>
@@ -180,5 +180,5 @@ index 000000000000..6caf1987f41c
 +
 +#endif
 -- 
-2.16.1
+2.16.2
 

@@ -1,7 +1,7 @@
-From bf8e62971f18bf0f4b097557c907db3468b885ce Mon Sep 17 00:00:00 2001
+From 7b932ae4e1550dbd09fd8c924c92976841eb9725 Mon Sep 17 00:00:00 2001
 From: "Yan, Xiangyang" <xiangyangx.yan@intel.com>
 Date: Tue, 21 Mar 2017 13:31:33 +0800
-Subject: [PATCH 037/548] trusty-ipc:tipc_msg_hdr structure: support large
+Subject: [PATCH 037/637] trusty-ipc:tipc_msg_hdr structure: support large
  message transfer
 
 len field type of tipc_msg_hdr structure is u16 which will only
@@ -33,5 +33,5 @@ index 363b0239310a..44843eb811bd 100644
  } __packed;
  
 -- 
-2.16.1
+2.16.2
 

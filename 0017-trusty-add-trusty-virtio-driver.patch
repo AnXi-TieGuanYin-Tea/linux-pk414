@@ -1,7 +1,7 @@
-From 6c2d7e7580d8ecacb9eaccb53e2c1955f84f734c Mon Sep 17 00:00:00 2001
+From b06870a018be571b4d679ecbea5da264630b88da Mon Sep 17 00:00:00 2001
 From: Michael Ryleev <gmar@google.com>
 Date: Mon, 30 Mar 2015 12:43:59 -0700
-Subject: [PATCH 017/548] trusty: add trusty virtio driver
+Subject: [PATCH 017/637] trusty: add trusty virtio driver
 
 Trusty virtio driver is responsible for management an
 interaction with virtio devices exposed by Trusty.
@@ -765,5 +765,5 @@ index aaad5cee6143..a2be2e3579f3 100644
 +
  #endif /* __LINUX_TRUSTY_SMCALL_H */
 -- 
-2.16.1
+2.16.2
 

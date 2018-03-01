@@ -1,7 +1,7 @@
-From 47e954be7d7d1bb8244b0015115c21a5c212e7d4 Mon Sep 17 00:00:00 2001
+From 39b0ffcdb0fbe495771bb31f5c63cecec86e845a Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Wed, 3 May 2017 11:48:46 -0700
-Subject: [PATCH 073/548] x86/umip: Force a page fault when unable to copy
+Subject: [PATCH 073/637] x86/umip: Force a page fault when unable to copy
  emulated result to user
 
 fixup_umip_exception() will be called from do_general_protection(). If the
@@ -101,5 +101,5 @@ index cd3201a7deca..6e38b8f5d305 100644
  
  	/* increase IP to let the program keep going */
 -- 
-2.16.1
+2.16.2
 

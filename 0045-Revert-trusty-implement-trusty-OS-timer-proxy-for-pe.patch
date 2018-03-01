@@ -1,7 +1,7 @@
-From 60f656c12caea9cabe210025506780b124641dd0 Mon Sep 17 00:00:00 2001
+From a17ff560cb94308eabd0e172ef5686c615c56598 Mon Sep 17 00:00:00 2001
 From: "Zhong,Fangjian" <fangjian.zhong@intel.com>
 Date: Tue, 11 Jul 2017 04:19:21 +0000
-Subject: [PATCH 045/548] Revert "trusty: implement trusty OS timer proxy for
+Subject: [PATCH 045/637] Revert "trusty: implement trusty OS timer proxy for
  performance enhancement"
 
 This reverts commit 3e30c8c0a0b5928bc11fa44571563635a9b1e0a8.
@@ -169,5 +169,5 @@ index 2fc1b232fee3..7e55453ae5f5 100644
  	return 0;
  }
 -- 
-2.16.1
+2.16.2
 

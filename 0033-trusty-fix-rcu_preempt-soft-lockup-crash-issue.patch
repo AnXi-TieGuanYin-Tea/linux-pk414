@@ -1,7 +1,7 @@
-From 89946a40b6b43374ab4567e606119335f24950d3 Mon Sep 17 00:00:00 2001
+From 5d4b00b6866fbb99a1e58b16c8b76e417a97e399 Mon Sep 17 00:00:00 2001
 From: "Yan, Shaoou" <shaopu.yan@intel.com>
 Date: Fri, 9 Dec 2016 05:33:22 +0000
-Subject: [PATCH 033/548] trusty: fix rcu_preempt soft lockup crash issue
+Subject: [PATCH 033/637] trusty: fix rcu_preempt soft lockup crash issue
 
 since we'll run a long TEE/Trusty task, e.g generate 3K RSA key pair,
 the previous API not meet the requirement of "must be fast and non-blocking
@@ -153,5 +153,5 @@ index cfef965402c4..679c5a9a7acf 100644
  
  int trusty_call_notifier_register(struct device *dev, struct notifier_block *n)
 -- 
-2.16.1
+2.16.2
 

@@ -1,7 +1,7 @@
-From 216210fce68a71214c05c795babff211a3923ae3 Mon Sep 17 00:00:00 2001
+From fded38d29ff11eaa39f4ce85aa0cb463750f9a1c Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Thu, 1 Jun 2017 12:29:23 -0700
-Subject: [PATCH 063/548] x86/insn-eval: Add utility functions to get segment
+Subject: [PATCH 063/637] x86/insn-eval: Add utility functions to get segment
  descriptor base address and limit
 
 With segmentation, the base address of the segment is needed to compute a
@@ -201,5 +201,5 @@ index 11a5d774e3fc..a048bad0d14c 100644
   * insn_get_modrm_rm_off() - Obtain register in r/m part of ModRM byte
   * @insn:	Instruction structure containing the ModRM byte
 -- 
-2.16.1
+2.16.2
 

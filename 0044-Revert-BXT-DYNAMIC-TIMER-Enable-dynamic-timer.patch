@@ -1,7 +1,7 @@
-From d454f9764b4b703463ca86667a5966f989f32fdd Mon Sep 17 00:00:00 2001
+From e3f8f247739eab49b8de423fcd58c964bf60313f Mon Sep 17 00:00:00 2001
 From: "Zhong,Fangjian" <fangjian.zhong@intel.com>
 Date: Tue, 11 Jul 2017 04:15:01 +0000
-Subject: [PATCH 044/548] Revert "[BXT][DYNAMIC TIMER] Enable dynamic timer"
+Subject: [PATCH 044/637] Revert "[BXT][DYNAMIC TIMER] Enable dynamic timer"
 
 This reverts commit 56dae7b0c686eeaf2ff604497ab940328124f611.
 
@@ -195,5 +195,5 @@ index 974b7b3e753d..1160890a3d90 100644
  #define SMC_SC_VIRTIO_GET_DESCR	SMC_STDCALL_NR(SMC_ENTITY_TRUSTED_OS, 20)
  #define SMC_SC_VIRTIO_START	SMC_STDCALL_NR(SMC_ENTITY_TRUSTED_OS, 21)
 -- 
-2.16.1
+2.16.2
 

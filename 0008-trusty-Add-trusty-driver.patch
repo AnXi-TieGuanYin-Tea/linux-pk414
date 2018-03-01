@@ -1,7 +1,7 @@
-From cad0d0c2c33edd1894931db888c490f24a07658f Mon Sep 17 00:00:00 2001
+From 6b85f3470e52b4c2437a1c99679ff2fd0554af5d Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Arve=20Hj=C3=B8nnev=C3=A5g?= <arve@android.com>
 Date: Mon, 18 Nov 2013 20:46:48 -0800
-Subject: [PATCH 008/548] trusty: Add trusty driver
+Subject: [PATCH 008/637] trusty: Add trusty driver
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit
@@ -73,10 +73,10 @@ index 1d7af3c2ff27..842a1aa167c8 100644
  
  source "drivers/ssb/Kconfig"
 diff --git a/drivers/Makefile b/drivers/Makefile
-index d242d3514d30..7640661f8d00 100644
+index 5f5ccdbad21a..02ce883bc0fd 100644
 --- a/drivers/Makefile
 +++ b/drivers/Makefile
-@@ -119,6 +119,7 @@ obj-$(CONFIG_W1)		+= w1/
+@@ -120,6 +120,7 @@ obj-$(CONFIG_W1)		+= w1/
  obj-y				+= power/
  obj-$(CONFIG_HWMON)		+= hwmon/
  obj-$(CONFIG_THERMAL)		+= thermal/
@@ -555,5 +555,5 @@ index 000000000000..30d4300ba301
 +
 +#endif
 -- 
-2.16.1
+2.16.2
 

@@ -1,7 +1,7 @@
-From 2970e7c4c41e62a5b46adb7a46e1c6cfd28209fd Mon Sep 17 00:00:00 2001
+From 0383c92819c36fe0410efa49b6de56cbde62d996 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Tue, 3 Jan 2017 17:13:30 -0800
-Subject: [PATCH 059/548] x86/insn-eval: Add a utility function to get register
+Subject: [PATCH 059/637] x86/insn-eval: Add a utility function to get register
  offsets
 
 The function get_reg_offset() returns the offset to the register the
@@ -73,5 +73,5 @@ index 4931d9252dde..c9d3cde50761 100644
   * return the address being referenced be instruction
   * for rm=3 returning the content of the rm reg
 -- 
-2.16.1
+2.16.2
 

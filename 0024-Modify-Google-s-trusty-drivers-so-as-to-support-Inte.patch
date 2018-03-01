@@ -1,7 +1,7 @@
-From 20c59983f20f5cd2f461a2377bdcc9d31befafff Mon Sep 17 00:00:00 2001
+From 288d132284190681e96b17c8e87aecc08353c109 Mon Sep 17 00:00:00 2001
 From: weideng <wei.a.deng@intel.com>
 Date: Fri, 28 Oct 2016 13:46:37 +0800
-Subject: [PATCH 024/548] Modify Google's trusty drivers so as to support Intel
+Subject: [PATCH 024/637] Modify Google's trusty drivers so as to support Intel
  platform
 
 Previously, Google's trusty drivers can just work on ARM platform. With
@@ -892,5 +892,5 @@ index 24fe2101a528..74598389c308 100644
  s32 trusty_fast_call32(struct device *dev, u32 smcnr, u32 a0, u32 a1, u32 a2);
  #ifdef CONFIG_64BIT
 -- 
-2.16.1
+2.16.2
 

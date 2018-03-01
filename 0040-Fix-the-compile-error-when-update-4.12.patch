@@ -1,7 +1,7 @@
-From 9b4a9559eb4f43ac6683e7248d819c2f09528709 Mon Sep 17 00:00:00 2001
+From 7f3d32647cb8e0a9ef3aa9837957b23ac64f6b2d Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Thu, 18 May 2017 16:31:32 +0800
-Subject: [PATCH 040/548] Fix the compile error when update 4.12
+Subject: [PATCH 040/637] Fix the compile error when update 4.12
 
 virtio API updated on 4.12, trusty need update accordingly.
 
@@ -47,5 +47,5 @@ index 2ce818cef175..2368c10f1b7b 100644
  {
  	uint i;
 -- 
-2.16.1
+2.16.2
 
