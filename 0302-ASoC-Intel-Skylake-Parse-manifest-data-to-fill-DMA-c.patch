@@ -1,7 +1,7 @@
-From 1f28ee5824a849caf5f779c71a293868442df549 Mon Sep 17 00:00:00 2001
+From 70b261dd3ebc7a77d4a9718ceda441fc9ce1ed80 Mon Sep 17 00:00:00 2001
 From: "Kareem,Shaik" <kareem.m.shaik@intel.com>
 Date: Thu, 15 Jun 2017 13:25:09 +0530
-Subject: [PATCH 302/637] ASoC: Intel: Skylake: Parse manifest data to fill DMA
+Subject: [PATCH 302/662] ASoC: Intel: Skylake: Parse manifest data to fill DMA
  control parameters
 
 DMA control parameters are required in order to initialize or

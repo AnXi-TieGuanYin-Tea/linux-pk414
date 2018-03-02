@@ -1,7 +1,7 @@
-From 83a23a0188d2adb5815c545309fc56e4dc48d9a2 Mon Sep 17 00:00:00 2001
+From c45fd62af77406d86b3fb53ea1a2d1025a148fa8 Mon Sep 17 00:00:00 2001
 From: Mousumi Jana <mousumix.jana@intel.com>
 Date: Tue, 4 Jul 2017 18:39:18 +0530
-Subject: [PATCH 310/637] ASoC: Intel: Skylake: Support for DSP exception
+Subject: [PATCH 310/662] ASoC: Intel: Skylake: Support for DSP exception
  record dump
 
 In the cases where the DSP encounters an exception

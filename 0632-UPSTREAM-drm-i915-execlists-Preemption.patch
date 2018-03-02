@@ -1,7 +1,7 @@
-From 7020fbc2201386ec184cd07eeb962bf3339cceeb Mon Sep 17 00:00:00 2001
+From 103e02f68d0dd6c372d48116f625b37ce2162780 Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Tue, 3 Oct 2017 21:34:52 +0100
-Subject: [PATCH 632/637] UPSTREAM: drm/i915/execlists: Preemption!
+Subject: [PATCH 632/662] UPSTREAM: drm/i915/execlists: Preemption!
 
 When we write to ELSP, it triggers a context preemption at the earliest
 arbitration point (3DPRIMITIVE, some PIPECONTROLs, a few other

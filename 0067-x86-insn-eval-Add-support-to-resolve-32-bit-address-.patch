@@ -1,7 +1,7 @@
-From 6afb5159923bade1d37ae92905992f5a4b1b0c44 Mon Sep 17 00:00:00 2001
+From bb5a1185bd95cc7f56f6edf03e6ce150a242990a Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Wed, 16 Aug 2017 17:51:05 -0700
-Subject: [PATCH 067/637] x86/insn-eval: Add support to resolve 32-bit address
+Subject: [PATCH 067/662] x86/insn-eval: Add support to resolve 32-bit address
  encodings
 
 32-bit and 64-bit address encodings are identical. Thus, the same logic

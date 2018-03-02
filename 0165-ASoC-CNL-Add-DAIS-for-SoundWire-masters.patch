@@ -1,7 +1,7 @@
-From 133310f3a8f9395cb07a274c6f2d85361cbee023 Mon Sep 17 00:00:00 2001
+From 2e8fe2e5b8615d90325b7ae58355c778cfe8377b Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Mon, 2 May 2016 15:12:59 +0530
-Subject: [PATCH 165/637] ASoC:CNL: Add DAIS for SoundWire masters.
+Subject: [PATCH 165/662] ASoC:CNL: Add DAIS for SoundWire masters.
 
 Add new DAIs for SoundWire master for aggregation.
 Add DAI IDs to find the master controller from DAI.

@@ -1,7 +1,7 @@
-From 491fa5619c1ed8e8776faa72080e1f03d0ffb50f Mon Sep 17 00:00:00 2001
+From 5707f49e33615326dba8e9f7e65157668b5ffb9a Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Thu, 23 Mar 2017 04:24:02 +0800
-Subject: [PATCH 481/637] drm/i915/gvt: Support vGPU guest framebuffer GEM
+Subject: [PATCH 481/662] drm/i915/gvt: Support vGPU guest framebuffer GEM
  object
 
 In the compositor mode of display, dom0/host needs to get the guest

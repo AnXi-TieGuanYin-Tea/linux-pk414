@@ -1,7 +1,7 @@
-From 568eb7f6298d4e405455177af83194b034567160 Mon Sep 17 00:00:00 2001
+From 37a2b7f4d8e61f75cc1f78609c79b0b624642d90 Mon Sep 17 00:00:00 2001
 From: Oscar Mateo <oscar.mateo@intel.com>
 Date: Thu, 7 Sep 2017 08:40:07 -0700
-Subject: [PATCH 578/637] UPSTREAM: drm/i915: Transform
+Subject: [PATCH 578/662] UPSTREAM: drm/i915: Transform
  WaDisableGafsUnitClkGating into a simple reg write
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

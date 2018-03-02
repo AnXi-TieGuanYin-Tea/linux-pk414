@@ -1,7 +1,7 @@
-From 2fb38d628fdf91d5be7ccee3f9ddf858933ac62c Mon Sep 17 00:00:00 2001
+From e5ea3907f1ce8cc6d3c279a84b96c02e52b1acf6 Mon Sep 17 00:00:00 2001
 From: Lionel Landwerlin <lionel.g.landwerlin@intel.com>
 Date: Wed, 30 Aug 2017 17:12:06 +0100
-Subject: [PATCH 570/637] UPSTREAM: drm/i915: mark all device info struct with
+Subject: [PATCH 570/662] UPSTREAM: drm/i915: mark all device info struct with
  __initconst
 
 As recommended by Chris.

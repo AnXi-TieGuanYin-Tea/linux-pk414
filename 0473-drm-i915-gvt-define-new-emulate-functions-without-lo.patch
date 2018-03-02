@@ -1,7 +1,7 @@
-From 740ceafb711d597d6589ddb4dd786790f66ee11e Mon Sep 17 00:00:00 2001
+From 4b0cb483efd8c6f3964e77b9e9178b9a1318d951 Mon Sep 17 00:00:00 2001
 From: Pei Zhang <pei.zhang@intel.com>
 Date: Thu, 22 Jun 2017 22:50:15 +0800
-Subject: [PATCH 473/637] drm/i915/gvt: define new emulate functions without
+Subject: [PATCH 473/662] drm/i915/gvt: define new emulate functions without
  lock
 
 Move the gvt->lock protection to an out wrapper function.

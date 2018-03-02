@@ -1,7 +1,7 @@
-From 8aed9b9d288a8d5af210cecfa8169083e4a88a2a Mon Sep 17 00:00:00 2001
+From 02075d70d6ea94e38321f1c3e5402ccdb19b7bd6 Mon Sep 17 00:00:00 2001
 From: Vinod Koul <vinod.koul@intel.com>
 Date: Wed, 26 Aug 2015 13:13:56 +0530
-Subject: [PATCH 175/637] ASoC: Intel: Skylake: Read blobs from debugfs on
+Subject: [PATCH 175/662] ASoC: Intel: Skylake: Read blobs from debugfs on
  override
 
 Add API to read blobs from debugfs when override is enabled and

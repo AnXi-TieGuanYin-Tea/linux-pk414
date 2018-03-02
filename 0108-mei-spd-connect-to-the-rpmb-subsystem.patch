@@ -1,7 +1,7 @@
-From a69bfeb00c59c9ced18a7fa19529248445ba24f6 Mon Sep 17 00:00:00 2001
+From 9826407187a3541a6f6d4fbb52074ee0d7c84201 Mon Sep 17 00:00:00 2001
 From: Alexander Usyskin <alexander.usyskin@intel.com>
 Date: Mon, 9 Feb 2015 17:13:20 +0200
-Subject: [PATCH 108/637] mei: spd: connect to the rpmb subsystem
+Subject: [PATCH 108/662] mei: spd: connect to the rpmb subsystem
 
 Connect SPD to RPMB subsystem and implement RPMB storage commands.
 

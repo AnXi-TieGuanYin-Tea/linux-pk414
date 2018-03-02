@@ -1,7 +1,7 @@
-From 7b77b5031dee185fde6b599cdf67e35b5a010b2c Mon Sep 17 00:00:00 2001
+From be06c6fa1dde073153f33829f9c674fc5e94500f Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Tue, 12 Sep 2017 22:49:05 +0100
-Subject: [PATCH 585/637] UPSTREAM: drm/i915: Move the context descriptor to an
+Subject: [PATCH 585/662] UPSTREAM: drm/i915: Move the context descriptor to an
  inline helper
 
 The context descriptor is stored inside the per-engine context state, as

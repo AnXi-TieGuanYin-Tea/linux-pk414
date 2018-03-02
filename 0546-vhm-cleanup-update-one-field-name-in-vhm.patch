@@ -1,7 +1,7 @@
-From 1261173c08fa1d3d02843a326fdfdca8a060af7a Mon Sep 17 00:00:00 2001
+From d6d801125b2b41261315d5c6a7f03e2031cdbb06 Mon Sep 17 00:00:00 2001
 From: Yin Fengwei <fengwei.yin@intel.com>
 Date: Wed, 7 Feb 2018 10:05:05 +0800
-Subject: [PATCH 546/637] vhm cleanup: update one field name in vhm
+Subject: [PATCH 546/662] vhm cleanup: update one field name in vhm
 
 Change-Id: Ib125147ff72b566b183d20496251fa74244d7970
 Tracked-On: 212688

@@ -1,7 +1,7 @@
-From 83712ce6ed62d5180bf839c55e1d22697f70f82a Mon Sep 17 00:00:00 2001
+From c97d137b0c4f21b51dc5a80ff7c4e11639343b84 Mon Sep 17 00:00:00 2001
 From: Pierre-Louis Bossart <pierre-louis.bossart@linux.intel.com>
 Date: Thu, 16 Jun 2016 16:01:00 +0530
-Subject: [PATCH 208/637] ALSA: pcm: conditionally avoid mmap of control data.
+Subject: [PATCH 208/662] ALSA: pcm: conditionally avoid mmap of control data.
 
 In case of mmap, by default alsa-lib mmaps both control and status data.
 

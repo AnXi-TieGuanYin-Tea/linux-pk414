@@ -1,7 +1,7 @@
-From 261a985d16452b631e9ca104425eb956c7b65e23 Mon Sep 17 00:00:00 2001
+From 7c4a797ac7489302ce7dca9bdf29ee39ecabad39 Mon Sep 17 00:00:00 2001
 From: Michal Wajdeczko <michal.wajdeczko@intel.com>
 Date: Tue, 19 Sep 2017 19:38:44 +0000
-Subject: [PATCH 609/637] UPSTREAM: drm/i915: Rename global i915 to
+Subject: [PATCH 609/662] UPSTREAM: drm/i915: Rename global i915 to
  i915_modparams
 
 Our global struct with params is named exactly the same way

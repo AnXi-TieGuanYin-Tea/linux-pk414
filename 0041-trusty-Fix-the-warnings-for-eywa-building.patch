@@ -1,7 +1,7 @@
-From 0779c46f92d7b3d1efffdf72e0debd259e543b5c Mon Sep 17 00:00:00 2001
+From a743e1989e85c99013daff6eddecd70e8ff9d58b Mon Sep 17 00:00:00 2001
 From: yingbinx <yingbinx.zeng@intel.com>
 Date: Tue, 9 May 2017 13:45:06 +0800
-Subject: [PATCH 041/637] trusty: Fix the warnings for eywa building
+Subject: [PATCH 041/662] trusty: Fix the warnings for eywa building
 
 Several warnings are generated while we build for eywa with ARCH i386.
 The patch is to fix the warnings.

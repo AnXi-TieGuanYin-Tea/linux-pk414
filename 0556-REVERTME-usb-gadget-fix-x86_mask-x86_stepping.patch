@@ -1,7 +1,7 @@
-From cc0205d30264b1b5d56e94609ac894053fdd261c Mon Sep 17 00:00:00 2001
+From 013d3662d87abdc5dedefce50ada1de55a327baf Mon Sep 17 00:00:00 2001
 From: Saul Wold <sgw@linux.intel.com>
 Date: Thu, 22 Feb 2018 12:38:17 -0800
-Subject: [PATCH 556/637] REVERTME: usb/gadget: fix x86_mask -> x86_stepping
+Subject: [PATCH 556/662] REVERTME: usb/gadget: fix x86_mask -> x86_stepping
 
 The upstream commit 325cbb04dc61692ba01445c34fd551ad91df9e6d changed
 the cpu_data member name from x86_mask to x86_stepping so patch the

@@ -1,7 +1,7 @@
-From c7789a8bc52b677fc182b7f164c519c73f0e42e8 Mon Sep 17 00:00:00 2001
+From da7151e987ca633aa5c28aa8fa8e0dc12f5f5d93 Mon Sep 17 00:00:00 2001
 From: Mousumi Jana <mousumix.jana@intel.com>
 Date: Thu, 26 Nov 2015 01:28:34 +0530
-Subject: [PATCH 221/637] ASoC: Intel: Skylake:Add support to get fw
+Subject: [PATCH 221/662] ASoC: Intel: Skylake:Add support to get fw
  configuration
 
 Debugfs gives the support to get the fw configuration depending on

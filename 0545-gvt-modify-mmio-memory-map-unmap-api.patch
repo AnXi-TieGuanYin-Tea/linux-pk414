@@ -1,7 +1,7 @@
-From 6fdcc3cfdac1990e881c0c489c5c77d9f37d692b Mon Sep 17 00:00:00 2001
+From 5f0e61427a05eb6ce6f4e5f27ffd6777aeb20c5c Mon Sep 17 00:00:00 2001
 From: Mingqiang Chi <mingqiang.chi@intel.com>
 Date: Fri, 2 Feb 2018 16:24:12 +0800
-Subject: [PATCH 545/637] gvt: modify mmio/memory map/unmap api
+Subject: [PATCH 545/662] gvt: modify mmio/memory map/unmap api
 
 Split the parameter(prot) to two parameters(mem_type and mem_access)
 Remove the parameter(prot) in unset_mmio_map

@@ -1,7 +1,7 @@
-From f99c9d75772731b3104a2790d2dc31ab365fa917 Mon Sep 17 00:00:00 2001
+From f59aa66a0b2c0e2558c0b62f9dba3822a81bbbfb Mon Sep 17 00:00:00 2001
 From: "Sinha, Mohit" <mohit.sinha@intel.com>
 Date: Thu, 8 Jun 2017 20:37:58 +0530
-Subject: [PATCH 294/637] ASoC: Intel: Skylake: Added support for creating BXTP
+Subject: [PATCH 294/662] ASoC: Intel: Skylake: Added support for creating BXTP
  GPMRB machine with TDF8532 codec
 
 GPMRB board has TDF8532 codec on board, so added the machine name.

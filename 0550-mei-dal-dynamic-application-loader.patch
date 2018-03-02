@@ -1,7 +1,7 @@
-From 0375308cfa6632a99397d64b1f0c30b9dfb6ccef Mon Sep 17 00:00:00 2001
+From 7bdc4585ad61bb84f1a7527e1a60043ac5bf643a Mon Sep 17 00:00:00 2001
 From: Yael Samet <yael.samet@intel.com>
 Date: Tue, 5 Sep 2017 12:21:49 +0300
-Subject: [PATCH 550/637] mei: dal: dynamic application loader
+Subject: [PATCH 550/662] mei: dal: dynamic application loader
 
 DAL stands for Dynamic Application Loader, it provides the ability
 to run Java applets in a secured environment inside of Intel ME security

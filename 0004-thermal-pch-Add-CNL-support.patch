@@ -1,7 +1,7 @@
-From 33ac8fe70c7341117a4fc9997d7267d9eb8fc617 Mon Sep 17 00:00:00 2001
+From 1c499181086cdd36e69904842c64cb7c77a86883 Mon Sep 17 00:00:00 2001
 From: Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>
 Date: Thu, 9 Feb 2017 18:40:32 -0800
-Subject: [PATCH 004/637] thermal:pch: Add CNL support
+Subject: [PATCH 004/662] thermal:pch: Add CNL support
 
 Signed-off-by: Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>
 ---

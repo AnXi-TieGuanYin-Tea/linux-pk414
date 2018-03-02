@@ -1,7 +1,7 @@
-From f7a2547a6e155fcb46384b03466d764672f67222 Mon Sep 17 00:00:00 2001
+From bad5c395454851497e70c6d2b89873ca46e1577c Mon Sep 17 00:00:00 2001
 From: Dietmar Eggemann <dietmar.eggemann@arm.com>
 Date: Tue, 26 Sep 2017 17:41:11 +0100
-Subject: [PATCH 354/637] drivers base/arch_topology: allow inlining
+Subject: [PATCH 354/662] drivers base/arch_topology: allow inlining
  cpu-invariant accounting support
 
 Allow inlining of topology_get_cpu_scale() into the task

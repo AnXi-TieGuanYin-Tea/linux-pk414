@@ -1,7 +1,7 @@
-From b609e5fecfb55115c5b477a75026f10570a7e8a7 Mon Sep 17 00:00:00 2001
+From 92f71a304ccc0a149bbae6cbc0d0debfe57e07fb Mon Sep 17 00:00:00 2001
 From: Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>
 Date: Wed, 21 Jun 2017 09:57:45 -0700
-Subject: [PATCH 006/637] thermal: int340x: processor_thermal: Add Coffee Lake
+Subject: [PATCH 006/662] thermal: int340x: processor_thermal: Add Coffee Lake
  device id
 
 Add new PCI id for Coffee lake processor thermal device.

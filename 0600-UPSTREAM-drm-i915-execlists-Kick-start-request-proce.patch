@@ -1,7 +1,7 @@
-From e82c82b6df4aa130444f57b3ceb585042303a947 Mon Sep 17 00:00:00 2001
+From 267f5d927e48cc33a4f1556ac97b9f72d08cc41e Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Sat, 16 Sep 2017 21:44:11 +0100
-Subject: [PATCH 600/637] UPSTREAM: drm/i915/execlists: Kick start request
+Subject: [PATCH 600/662] UPSTREAM: drm/i915/execlists: Kick start request
  processing after a reset
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

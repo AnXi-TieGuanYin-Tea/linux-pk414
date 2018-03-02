@@ -1,7 +1,7 @@
-From 8d38fd2e138e1aa529552175d22d60ddc45f74b8 Mon Sep 17 00:00:00 2001
+From 747c8350c603625fb55a6f566bf744427eb22890 Mon Sep 17 00:00:00 2001
 From: Heikki Krogerus <heikki.krogerus@linux.intel.com>
 Date: Fri, 5 Jun 2015 14:49:56 +0300
-Subject: [PATCH 382/637] extcon: add driver for Intel USB mux
+Subject: [PATCH 382/662] extcon: add driver for Intel USB mux
 
 Several Intel PCHs and SOCs have an internal mux that is
 used to share one USB port between USB Device Controller and

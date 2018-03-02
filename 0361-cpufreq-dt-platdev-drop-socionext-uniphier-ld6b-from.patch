@@ -1,7 +1,7 @@
-From e6a557a8d472f2ed97fe5b70854b9e038b951631 Mon Sep 17 00:00:00 2001
+From 3d835f219d952445ce1d50571e75e56aa99aeca8 Mon Sep 17 00:00:00 2001
 From: Masahiro Yamada <yamada.masahiro@socionext.com>
 Date: Wed, 30 Aug 2017 00:37:03 +0900
-Subject: [PATCH 361/637] cpufreq: dt-platdev: drop socionext,uniphier-ld6b
+Subject: [PATCH 361/662] cpufreq: dt-platdev: drop socionext,uniphier-ld6b
  from whitelist
 
 As you see arch/arm/boot/dts/uniphier-ld6b.dtsi, it includes

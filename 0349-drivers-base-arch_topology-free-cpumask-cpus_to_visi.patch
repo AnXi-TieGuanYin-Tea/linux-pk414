@@ -1,7 +1,7 @@
-From 48dfc1ba5ddc5cfec5c5e43cef6a5700d61af005 Mon Sep 17 00:00:00 2001
+From 0c34d9f0715e3d8b4c19fdf944421cf699abd157 Mon Sep 17 00:00:00 2001
 From: Dietmar Eggemann <dietmar.eggemann@arm.com>
 Date: Tue, 26 Sep 2017 17:41:06 +0100
-Subject: [PATCH 349/637] drivers base/arch_topology: free cpumask
+Subject: [PATCH 349/662] drivers base/arch_topology: free cpumask
  cpus_to_visit
 
 Free cpumask cpus_to_visit in case registering

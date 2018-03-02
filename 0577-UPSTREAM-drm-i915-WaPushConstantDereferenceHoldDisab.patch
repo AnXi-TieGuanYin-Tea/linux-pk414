@@ -1,7 +1,7 @@
-From e119925c2d75af2c343137ea776d65a946124aa2 Mon Sep 17 00:00:00 2001
+From ae4c5ec8b914dc59562bf281e3f572484a57f3e4 Mon Sep 17 00:00:00 2001
 From: Oscar Mateo <oscar.mateo@intel.com>
 Date: Thu, 7 Sep 2017 08:40:06 -0700
-Subject: [PATCH 577/637] UPSTREAM: drm/i915:
+Subject: [PATCH 577/662] UPSTREAM: drm/i915:
  WaPushConstantDereferenceHoldDisable needs to modify a masked register
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

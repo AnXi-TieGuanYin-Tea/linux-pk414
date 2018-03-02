@@ -1,7 +1,7 @@
-From 7da0695aa0b092f4e0843a995d4ef8b61c68e639 Mon Sep 17 00:00:00 2001
+From 9f8dd82486d53e97b6703b3911917bcf2641a063 Mon Sep 17 00:00:00 2001
 From: Oscar Mateo <oscar.mateo@intel.com>
 Date: Tue, 12 Sep 2017 14:36:37 -0700
-Subject: [PATCH 587/637] UPSTREAM: drm/i915/guc: Small improvements to
+Subject: [PATCH 587/662] UPSTREAM: drm/i915/guc: Small improvements to
  guc_wq_item_append
 
 Spare some comments and other small style changes.

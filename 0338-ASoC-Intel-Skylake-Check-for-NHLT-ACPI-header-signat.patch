@@ -1,7 +1,7 @@
-From 01289cc43c2d69e627c2ec351f5c303507379618 Mon Sep 17 00:00:00 2001
+From da76cfee2b85615142345ef3c192344ef7bdff74 Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Mon, 18 Sep 2017 16:03:41 +0530
-Subject: [PATCH 338/637] ASoC: Intel: Skylake: Check for NHLT ACPI header
+Subject: [PATCH 338/662] ASoC: Intel: Skylake: Check for NHLT ACPI header
  signature
 
 Due to buggy BIOS acpi_evaluate_dsm() may not return the correct NHLT

@@ -1,7 +1,7 @@
-From 4be35c0abbc502bcddba7729e22a764908b51494 Mon Sep 17 00:00:00 2001
+From 26ff163b885dec217b1ae7a11ca4ae3126fceb39 Mon Sep 17 00:00:00 2001
 From: Mitul Chokshi <mitul.chokshi@intel.com>
 Date: Thu, 30 Mar 2017 17:01:57 +0100
-Subject: [PATCH 456/637] drm/i915/gvt: Added memory latency value for BXT
+Subject: [PATCH 456/662] drm/i915/gvt: Added memory latency value for BXT
  platform
 
 Value is acquired from read memory latency command on BXT MRB

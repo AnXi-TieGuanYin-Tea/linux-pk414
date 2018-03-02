@@ -1,7 +1,7 @@
-From f6b44cbffcfee088bad34b68058fa518d9a4203e Mon Sep 17 00:00:00 2001
+From 7dc5adc2c578de1fcfe5e2a97822761335477c0d Mon Sep 17 00:00:00 2001
 From: Yipeng <yipeng.yao@intel.com>
 Date: Wed, 20 Sep 2017 14:15:02 +0800
-Subject: [PATCH 381/637] alarmtimer: add config to skip suspend flow
+Subject: [PATCH 381/662] alarmtimer: add config to skip suspend flow
 
 Port from kernel4.4(bxtp_ivi_m).
 Unlike phone design, IVI should be always lighten on when driver is

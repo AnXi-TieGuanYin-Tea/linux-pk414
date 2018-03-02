@@ -1,7 +1,7 @@
-From 415d07b7ff227c46f5197d57b92d36e7d119480a Mon Sep 17 00:00:00 2001
+From 4a29640f19beb5d443d3e9830d1dbd59a261a90e Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Thu, 22 Dec 2016 12:20:59 -0800
-Subject: [PATCH 072/637] x86: Add emulation code for UMIP instructions
+Subject: [PATCH 072/662] x86: Add emulation code for UMIP instructions
 
 The feature User-Mode Instruction Prevention present in recent Intel
 processor prevents a group of instructions (sgdt, sidt, sldt, smsw, and

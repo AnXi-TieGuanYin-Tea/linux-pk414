@@ -1,7 +1,7 @@
-From 9174ca08964661edd9edc9c8e82dc294c39303ce Mon Sep 17 00:00:00 2001
+From 986820d85fb5ef7915b5f0d856f140f0e4e025e4 Mon Sep 17 00:00:00 2001
 From: Zumeng Chen <zumeng.chen@gmail.com>
 Date: Wed, 27 Sep 2017 15:08:17 +0800
-Subject: [PATCH 364/637] cpufreq: ti-cpufreq: kfree opp_data when failure
+Subject: [PATCH 364/662] cpufreq: ti-cpufreq: kfree opp_data when failure
 
 memory leakage was found by kmemleak. opp_data needs to be freed
 when failure, including fail_put_node.

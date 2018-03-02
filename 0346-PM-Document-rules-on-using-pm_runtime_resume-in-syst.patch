@@ -1,7 +1,7 @@
-From d2e2f145c83def066e6ab000857a636676d2784d Mon Sep 17 00:00:00 2001
+From 73c99becdbd3ccd9539530ede3e1ceb4f09f0230 Mon Sep 17 00:00:00 2001
 From: "Rafael J. Wysocki" <rafael.j.wysocki@intel.com>
 Date: Wed, 20 Sep 2017 02:26:00 +0200
-Subject: [PATCH 346/637] PM: Document rules on using pm_runtime_resume() in
+Subject: [PATCH 346/662] PM: Document rules on using pm_runtime_resume() in
  system suspend callbacks
 
 It quite often is necessary to resume devices from runtime suspend

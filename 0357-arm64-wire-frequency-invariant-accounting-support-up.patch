@@ -1,7 +1,7 @@
-From 8f8563c91cf53c7db50597dce115fc89c11aebe4 Mon Sep 17 00:00:00 2001
+From 5c1d022c3d9831d25ac4669c24e69de420494bfc Mon Sep 17 00:00:00 2001
 From: Dietmar Eggemann <dietmar.eggemann@arm.com>
 Date: Tue, 26 Sep 2017 17:41:14 +0100
-Subject: [PATCH 357/637] arm64: wire frequency-invariant accounting support up
+Subject: [PATCH 357/662] arm64: wire frequency-invariant accounting support up
  to the task scheduler
 
 Commit dfbca41f3479 ("sched: Optimize freq invariant accounting")

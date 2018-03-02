@@ -1,7 +1,7 @@
-From 326fd6d65c8d220c7fabba462dbc8390d3ae12c4 Mon Sep 17 00:00:00 2001
+From e5cc5f7d1385d08a83dfaa52cf09186b49a62ece Mon Sep 17 00:00:00 2001
 From: Michael Ryleev <gmar@google.com>
 Date: Fri, 26 Jun 2015 13:47:02 -0700
-Subject: [PATCH 022/637] trusty-irq: Add support for secure interrupt mapping
+Subject: [PATCH 022/662] trusty-irq: Add support for secure interrupt mapping
 
 Trusty TEE is using flat IRQ space to identify its
 interrupts which does not match to IRQ domain model

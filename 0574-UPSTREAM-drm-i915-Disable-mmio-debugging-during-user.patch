@@ -1,7 +1,7 @@
-From 614a0e5a7031267e7e0a72f6e0793c7c5674ba16 Mon Sep 17 00:00:00 2001
+From a49f91f3686e856bcc1bfa5fcb418430a43ecc0e Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Thu, 7 Sep 2017 14:44:41 +0100
-Subject: [PATCH 574/637] UPSTREAM: drm/i915: Disable mmio debugging during
+Subject: [PATCH 574/662] UPSTREAM: drm/i915: Disable mmio debugging during
  user access
 
 If the user bypasses i915 and accesses mmio directly, that easily

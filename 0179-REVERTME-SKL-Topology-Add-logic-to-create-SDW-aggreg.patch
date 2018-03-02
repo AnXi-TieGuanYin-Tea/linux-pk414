@@ -1,7 +1,7 @@
-From c3c6a27ab4d84b19f9ab0d66fbd527cafdda120e Mon Sep 17 00:00:00 2001
+From 5e979dde6a4996a1d8dafe75b132a5d5dcd2e5d4 Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Fri, 20 May 2016 14:42:17 +0530
-Subject: [PATCH 179/637] REVERTME:SKL:Topology: Add logic to create SDW
+Subject: [PATCH 179/662] REVERTME:SKL:Topology: Add logic to create SDW
  aggregation blob.
 
 Blob needs to be sent to copier for SDW aggregation. Normally

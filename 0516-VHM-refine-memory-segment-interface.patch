@@ -1,7 +1,7 @@
-From 4ff039ac036da4db1c92994a595e36bfecc3eaba Mon Sep 17 00:00:00 2001
+From 4b453a0c1d33f1bd93e40d353fb3a1899fe20196 Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Mon, 22 Jan 2018 03:27:37 +0800
-Subject: [PATCH 516/637] VHM: refine memory segment interface
+Subject: [PATCH 516/662] VHM: refine memory segment interface
 
 - restruct guest_memseg & remove redundant paramters in it
 - restruct vm_memmap & remove redundant paramters in it

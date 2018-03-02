@@ -1,7 +1,7 @@
-From 5e4064a52562e886d88dd385ce9dc2c0be9aced9 Mon Sep 17 00:00:00 2001
+From abe2b56746ef1568c42b57e0d9e8e9585da4d7be Mon Sep 17 00:00:00 2001
 From: fred gao <fred.gao@intel.com>
 Date: Fri, 18 Aug 2017 15:41:07 +0800
-Subject: [PATCH 582/637] UPSTREAM: drm/i915/gvt: Add error handling for
+Subject: [PATCH 582/662] UPSTREAM: drm/i915/gvt: Add error handling for
  intel_gvt_scan_and_shadow_workload
 
 When an error occurs after shadow_indirect_ctx, this patch is to do the

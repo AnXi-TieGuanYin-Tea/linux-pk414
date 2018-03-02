@@ -1,7 +1,7 @@
-From da53ed375ce638e3681d9fe2425f514489d635ac Mon Sep 17 00:00:00 2001
+From fe4f18503d00702f1f657c61d115147db3c461b4 Mon Sep 17 00:00:00 2001
 From: Dietmar Eggemann <dietmar.eggemann@arm.com>
 Date: Tue, 26 Sep 2017 17:41:07 +0100
-Subject: [PATCH 350/637] cpufreq: provide default frequency-invariance setter
+Subject: [PATCH 350/662] cpufreq: provide default frequency-invariance setter
  function
 
 Frequency-invariant accounting support based on the ratio of current

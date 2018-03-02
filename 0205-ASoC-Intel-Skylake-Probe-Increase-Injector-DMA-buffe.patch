@@ -1,7 +1,7 @@
-From 7941912286dd5eabf9aea9a6191297dcf63cc4ce Mon Sep 17 00:00:00 2001
+From f337f1f929e780f40fe50713d2829ccdea47c854 Mon Sep 17 00:00:00 2001
 From: "Pawse, GuruprasadX" <guruprasadx.pawse@intel.com>
 Date: Tue, 12 Jul 2016 10:57:10 +0530
-Subject: [PATCH 205/637] ASoC: Intel: Skylake: Probe-Increase Injector DMA
+Subject: [PATCH 205/662] ASoC: Intel: Skylake: Probe-Increase Injector DMA
  buffer size
 
     DMA buffer size needed for 48KHz, 4 channel, 32 bit data scheduled

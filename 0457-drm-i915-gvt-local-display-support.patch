@@ -1,7 +1,7 @@
-From c215d4496dba6e309661aafbb9cb43a62c290853 Mon Sep 17 00:00:00 2001
+From d7f5157a5d486fa6623c0034d34b0fa4efde11d1 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Tue, 19 Dec 2017 10:22:34 +0800
-Subject: [PATCH 457/637] drm/i915/gvt: local display support
+Subject: [PATCH 457/662] drm/i915/gvt: local display support
 
 Added local display dispaly support for GVT-g.
 

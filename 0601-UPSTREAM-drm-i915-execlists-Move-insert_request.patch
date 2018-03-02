@@ -1,7 +1,7 @@
-From a9281e7fd9472c1cd922f1027f9d80899ecd405e Mon Sep 17 00:00:00 2001
+From dd00c3b21e6d9afb68a887f5e19e55d1796e4380 Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Sat, 16 Sep 2017 21:44:12 +0100
-Subject: [PATCH 601/637] UPSTREAM: drm/i915/execlists: Move insert_request()
+Subject: [PATCH 601/662] UPSTREAM: drm/i915/execlists: Move insert_request()
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit

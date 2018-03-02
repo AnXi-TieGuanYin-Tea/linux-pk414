@@ -1,7 +1,7 @@
-From a26907d2a26bcd911bfbfe51253413dbc3fb11a1 Mon Sep 17 00:00:00 2001
+From 36c784f1383475a8d8e6facbab177c509a57389c Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Fri, 15 Sep 2017 18:31:00 +0100
-Subject: [PATCH 599/637] UPSTREAM: drm/i915: Cancel all ready but queued
+Subject: [PATCH 599/662] UPSTREAM: drm/i915: Cancel all ready but queued
  requests when wedging
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

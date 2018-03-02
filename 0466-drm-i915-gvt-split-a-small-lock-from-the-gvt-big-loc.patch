@@ -1,7 +1,7 @@
-From f1b0d4f3251100604f94f2b0794e6652fe8d9ac7 Mon Sep 17 00:00:00 2001
+From 1c1a9b14b6a2c4108bb0e01462cb37e507e9a624 Mon Sep 17 00:00:00 2001
 From: Pei Zhang <pei.zhang@intel.com>
 Date: Mon, 12 Jun 2017 21:32:23 +0800
-Subject: [PATCH 466/637] drm/i915/gvt: split a small lock from the gvt big
+Subject: [PATCH 466/662] drm/i915/gvt: split a small lock from the gvt big
  lock
 
 The small lock sched_lock in this patch splited from gvt big lock is

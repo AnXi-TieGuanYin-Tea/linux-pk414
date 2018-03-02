@@ -1,7 +1,7 @@
-From d4688840cbd40930086bab65789ac2b2e703a21c Mon Sep 17 00:00:00 2001
+From 74d36f1d7b60375f02e6a9e9cc28ba5ab27e3cfa Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Micha=C5=82=20Winiarski?= <michal.winiarski@intel.com>
 Date: Thu, 28 Sep 2017 20:39:01 +0100
-Subject: [PATCH 617/637] UPSTREAM: drm/i915/execlists: Cache the last priolist
+Subject: [PATCH 617/662] UPSTREAM: drm/i915/execlists: Cache the last priolist
  lookup
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

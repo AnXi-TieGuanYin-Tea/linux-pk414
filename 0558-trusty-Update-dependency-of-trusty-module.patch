@@ -1,7 +1,7 @@
-From d0958201688452f6938aa908e4d1c253cd7e0d0d Mon Sep 17 00:00:00 2001
+From 72b7511515c765ee16242141de8866804d4332d3 Mon Sep 17 00:00:00 2001
 From: "Qi, Yadong" <yadong.qi@intel.com>
 Date: Fri, 23 Feb 2018 14:12:07 +0800
-Subject: [PATCH 558/637] trusty: Update dependency of trusty module
+Subject: [PATCH 558/662] trusty: Update dependency of trusty module
 
 Trusty is supported only for x86_64 arch.
 Modify Kconfig to make it depends on x86_64.

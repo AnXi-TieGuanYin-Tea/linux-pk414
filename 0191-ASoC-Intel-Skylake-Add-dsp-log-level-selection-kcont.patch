@@ -1,7 +1,7 @@
-From a934c5d109a3a57b25e4a9e70cb6dad67bc327f9 Mon Sep 17 00:00:00 2001
+From 136a515b369d4c7f5a655fcb6592849c41a75491 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Wed, 5 Jul 2017 14:30:41 +0530
-Subject: [PATCH 191/637] ASoC: Intel: Skylake: Add dsp log level selection
+Subject: [PATCH 191/662] ASoC: Intel: Skylake: Add dsp log level selection
  kcontrol
 
 Add platform kcontrol for DSP log level. User can select

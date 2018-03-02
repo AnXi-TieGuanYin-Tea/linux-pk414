@@ -1,7 +1,7 @@
-From 5636c4879eeb4e60bf82b71fe570aa2fa6ddbf5d Mon Sep 17 00:00:00 2001
+From aafd98f2b500dbfc1a6fc588627aa2b97dc02745 Mon Sep 17 00:00:00 2001
 From: Oscar Mateo <oscar.mateo@intel.com>
 Date: Thu, 7 Sep 2017 08:40:04 -0700
-Subject: [PATCH 575/637] UPSTREAM: drm/i915: Transform
+Subject: [PATCH 575/662] UPSTREAM: drm/i915: Transform
  WaInPlaceDecompressionHang into a simple reg write
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

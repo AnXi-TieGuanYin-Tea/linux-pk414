@@ -1,7 +1,7 @@
-From 0670dc1348a19f045ab9ee48d8b52879ee42aee9 Mon Sep 17 00:00:00 2001
+From a5153dc59990fdfa1c3d38be0e01c030012cb68e Mon Sep 17 00:00:00 2001
 From: Rodrigo Vivi <rodrigo.vivi@intel.com>
 Date: Tue, 15 Aug 2017 16:16:48 -0700
-Subject: [PATCH 561/637] UPSTREAM: drm/i915/cnl: Introduce initial Cannonlake
+Subject: [PATCH 561/662] UPSTREAM: drm/i915/cnl: Introduce initial Cannonlake
  Workarounds.
 
 Let's inherit workarounds from previous platforms that

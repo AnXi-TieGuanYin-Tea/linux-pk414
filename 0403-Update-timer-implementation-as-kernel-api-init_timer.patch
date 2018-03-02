@@ -1,7 +1,7 @@
-From 738ca316715435af6d06d9ea2ccead7ecb580bd8 Mon Sep 17 00:00:00 2001
+From 658e9de8710336882a6da1c3d696774312735a02 Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Tue, 28 Nov 2017 11:06:18 +0800
-Subject: [PATCH 403/637] Update timer implementation as kernel api init_timer
+Subject: [PATCH 403/662] Update timer implementation as kernel api init_timer
  removed
 
 init_timer api removed from v4.15-rc1, this patch is to match

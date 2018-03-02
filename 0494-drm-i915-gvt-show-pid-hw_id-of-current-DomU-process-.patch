@@ -1,7 +1,7 @@
-From 4c9cf348633fa49892d20ab3424bfc91243c8160 Mon Sep 17 00:00:00 2001
+From 1f0c4e92cec91a290159be2b91b2078080312825 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Thu, 4 Jan 2018 21:48:47 +0800
-Subject: [PATCH 494/637] drm/i915/gvt: show pid/hw_id of current DomU process
+Subject: [PATCH 494/662] drm/i915/gvt: show pid/hw_id of current DomU process
  in debugfs
 
 v1: show pid and hw id of current DomU process when showing shadow context

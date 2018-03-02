@@ -1,7 +1,7 @@
-From dbb91c0cd034c8f51ab2e2930ebef3559929a894 Mon Sep 17 00:00:00 2001
+From 2ff38a2afabac8a9c2bfd3d960f3cbd1b17cd0bd Mon Sep 17 00:00:00 2001
 From: "Panwar, Ashish" <ashish.panwar@intel.com>
 Date: Mon, 22 Feb 2016 17:16:57 +0530
-Subject: [PATCH 297/637] ASoC: Intel: Boards: FW logging DAI-links for BXT-P
+Subject: [PATCH 297/662] ASoC: Intel: Boards: FW logging DAI-links for BXT-P
 
 Added two DAI links, one for each DSP core, for FW
 logging

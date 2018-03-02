@@ -1,7 +1,7 @@
-From d24e31736922ea172c1030455dbc3ecf0049157b Mon Sep 17 00:00:00 2001
+From a1dac9065e45508a733e5e412f4212d968b5a47d Mon Sep 17 00:00:00 2001
 From: Alice Liu <alice.liu@intel.com>
 Date: Thu, 10 Nov 2016 20:11:59 +0800
-Subject: [PATCH 388/637] dwc3 setup highspeed to USB3.0 on bxtp platform
+Subject: [PATCH 388/662] dwc3 setup highspeed to USB3.0 on bxtp platform
 
 We find USB3.0 dwc3 can't work at superspeed on bxtp platform. We
 setup dwc3 highspeed to enable USB3.0 on bxtp platform.

@@ -1,7 +1,7 @@
-From d9972cabce1782df0e391fe7adf432e7adbc75fb Mon Sep 17 00:00:00 2001
+From 5b03a37599dc336d45cc2b983faa2fff40631619 Mon Sep 17 00:00:00 2001
 From: Sean Paul <seanpaul@chromium.org>
 Date: Mon, 8 Jan 2018 14:55:37 -0500
-Subject: [PATCH 529/637] UPSTREAM: drm: Add Content Protection property
+Subject: [PATCH 529/662] UPSTREAM: drm: Add Content Protection property
 
 This patch adds a new optional connector property to allow userspace to enable
 protection over the content it is displaying. This will typically be implemented

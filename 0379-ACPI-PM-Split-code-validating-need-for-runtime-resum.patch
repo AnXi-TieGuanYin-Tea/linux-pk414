@@ -1,7 +1,7 @@
-From cd4f59eb876e299f3c9d5ae8ae1f073001af1d7f Mon Sep 17 00:00:00 2001
+From 7b034a0a93aedfad65ec9579ddb022f7a1558b6c Mon Sep 17 00:00:00 2001
 From: Ulf Hansson <ulf.hansson@linaro.org>
 Date: Tue, 3 Oct 2017 09:11:08 +0200
-Subject: [PATCH 379/637] ACPI / PM: Split code validating need for runtime
+Subject: [PATCH 379/662] ACPI / PM: Split code validating need for runtime
  resume in ->prepare()
 
 Move the code dealing with validation of whether runtime resuming the

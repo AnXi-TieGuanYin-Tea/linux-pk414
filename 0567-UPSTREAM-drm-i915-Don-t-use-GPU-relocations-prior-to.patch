@@ -1,7 +1,7 @@
-From ac1a6dd916df7c0cca46276ab6a6130ff4ccdf4a Mon Sep 17 00:00:00 2001
+From d2766f6198e6417d1db5894504cb64705d7ed934 Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Sat, 26 Aug 2017 14:56:20 +0100
-Subject: [PATCH 567/637] UPSTREAM: drm/i915: Don't use GPU relocations prior
+Subject: [PATCH 567/662] UPSTREAM: drm/i915: Don't use GPU relocations prior
  to cmdparser stalls
 
 If we are using the cmdparser, we will have to copy the batch and so

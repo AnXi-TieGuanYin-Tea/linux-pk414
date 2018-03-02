@@ -1,7 +1,7 @@
-From d56f4cd7f828a04a976ef992880a70c87bdcddb7 Mon Sep 17 00:00:00 2001
+From 619edcf384ebecc183a5d632732c3b79f8bb6f26 Mon Sep 17 00:00:00 2001
 From: Leoni Prodduvaka <leoni.prodduvaka@intel.com>
 Date: Thu, 16 Mar 2017 21:49:33 +0530
-Subject: [PATCH 260/637] ASoC: Intel: Change sst_ipc_tx_message_wait api to
+Subject: [PATCH 260/662] ASoC: Intel: Change sst_ipc_tx_message_wait api to
  return valid data
 
 Since the firmware returns the rx_bytes as a part of ipc response

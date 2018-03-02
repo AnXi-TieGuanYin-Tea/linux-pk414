@@ -1,7 +1,7 @@
-From af35eef1c6b3d4ec2c32654590d2fcc6b42922b2 Mon Sep 17 00:00:00 2001
+From 5ae04fed3468d81f82e937fce951dd6842b5d547 Mon Sep 17 00:00:00 2001
 From: "R, Dharageswari" <dharageswari.r@intel.com>
 Date: Fri, 26 Feb 2016 20:00:57 +0530
-Subject: [PATCH 239/637] ASoC: Intel: Skylake: Avoid resume capablity for
+Subject: [PATCH 239/662] ASoC: Intel: Skylake: Avoid resume capablity for
  capture streams
 
 DMA resume capability is not supported by the HW.

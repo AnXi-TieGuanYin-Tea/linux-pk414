@@ -1,7 +1,7 @@
-From 4b10789d19e3a26694095ff2bff5bded538d091f Mon Sep 17 00:00:00 2001
+From 31983f2f203780bc19784e2f859a15e77edb26f7 Mon Sep 17 00:00:00 2001
 From: Ramalingam C <ramalingam.c@intel.com>
 Date: Thu, 18 Jan 2018 11:18:07 +0530
-Subject: [PATCH 540/637] UPSTREAM: drm/i915: Start repeater auth on
+Subject: [PATCH 540/662] UPSTREAM: drm/i915: Start repeater auth on
  READY/CP_IRQ
 
 Second stage of HDCP authentication starts at CP_IRQ or at the

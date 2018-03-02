@@ -1,7 +1,7 @@
-From 2660fb9775fc3f0418ff3e068c20b10d23ad8370 Mon Sep 17 00:00:00 2001
+From d6c0af42bbef752528070231f5630b4fc8023b07 Mon Sep 17 00:00:00 2001
 From: Ulf Hansson <ulf.hansson@linaro.org>
 Date: Fri, 6 Oct 2017 09:08:34 +0200
-Subject: [PATCH 376/637] ACPI / PM: Remove stale function header
+Subject: [PATCH 376/662] ACPI / PM: Remove stale function header
 
 acpi_dev_pm_get_node() isn't used or implemented, so remove it.
 

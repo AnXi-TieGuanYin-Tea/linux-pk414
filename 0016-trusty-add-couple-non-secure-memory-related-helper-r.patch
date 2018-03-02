@@ -1,7 +1,7 @@
-From ff7498a34c9f8cadbbb8f578493b8e697f70bee5 Mon Sep 17 00:00:00 2001
+From e52ad7e3bda2386b1750a8cd7ba49998f690bece Mon Sep 17 00:00:00 2001
 From: Michael Ryleev <gmar@google.com>
 Date: Thu, 26 Mar 2015 19:31:25 -0700
-Subject: [PATCH 016/637] trusty: add couple non-secure memory related helper
+Subject: [PATCH 016/662] trusty: add couple non-secure memory related helper
  routines
 
 trusty_encode_page_info - encodes page physical address, memory

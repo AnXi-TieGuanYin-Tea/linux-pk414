@@ -1,7 +1,7 @@
-From c3dd69fac3149236aa4da29b5b2bb44c723eff5a Mon Sep 17 00:00:00 2001
+From e093212dd3c4c7eece3987730634ec52427a8ba9 Mon Sep 17 00:00:00 2001
 From: Dietmar Eggemann <dietmar.eggemann@arm.com>
 Date: Tue, 26 Sep 2017 17:41:13 +0100
-Subject: [PATCH 356/637] arm: wire cpu-invariant accounting support up to the
+Subject: [PATCH 356/662] arm: wire cpu-invariant accounting support up to the
  task scheduler
 
 Commit 8cd5601c5060 ("sched/fair: Convert arch_scale_cpu_capacity() from

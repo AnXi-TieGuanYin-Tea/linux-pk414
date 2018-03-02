@@ -1,7 +1,7 @@
-From 3b1bd27aa7a63520f5106bec500fbab3b43452d3 Mon Sep 17 00:00:00 2001
+From e6662eb283174ed60cc44173d44b1534e355e793 Mon Sep 17 00:00:00 2001
 From: "Prakash, Divya1" <divya1.prakash@intel.com>
 Date: Thu, 14 Sep 2017 22:02:01 +0530
-Subject: [PATCH 416/637] ASoC: Intel: Skylake: Reset DSP pipe in
+Subject: [PATCH 416/662] ASoC: Intel: Skylake: Reset DSP pipe in
  skl_pcm_hw_free
 
 Currently during destroy pipeline the gateway is disabled

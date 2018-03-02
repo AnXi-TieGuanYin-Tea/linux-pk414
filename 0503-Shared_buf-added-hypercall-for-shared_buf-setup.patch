@@ -1,7 +1,7 @@
-From 8cbafe5c5328b981512421b01062fd058f35e770 Mon Sep 17 00:00:00 2001
+From b01871e560cd9f4c347a9f89016df8cc996a0467 Mon Sep 17 00:00:00 2001
 From: "Li, Fei1" <fei1.li@intel.com>
 Date: Fri, 12 Jan 2018 23:00:23 +0800
-Subject: [PATCH 503/637] Shared_buf: added hypercall for shared_buf setup
+Subject: [PATCH 503/662] Shared_buf: added hypercall for shared_buf setup
 
 Change-Id: I24ad2f767c7d633ad41d787c7d1a052b0fb75fb4
 Tracked-On: https://rtc.intel.com/ccm0001001/resource/itemName/com.ibm.team.workitem.WorkItem/216912

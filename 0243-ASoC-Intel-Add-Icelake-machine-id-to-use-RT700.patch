@@ -1,7 +1,7 @@
-From fba2e406e9d2db7a5b5a0a9b1f0ee71e5d86eb8b Mon Sep 17 00:00:00 2001
+From a57f540da9611bcfc32f978b9ab522c586f0f98d Mon Sep 17 00:00:00 2001
 From: "Pawse, GuruprasadX" <guruprasadx.pawse@intel.com>
 Date: Fri, 13 Jan 2017 10:49:09 +0530
-Subject: [PATCH 243/637] ASoC: Intel: Add Icelake machine id to use RT700
+Subject: [PATCH 243/662] ASoC: Intel: Add Icelake machine id to use RT700
 
 Icelake supports RT700 SoundWire codec as well, hence updating
 the machine id list.

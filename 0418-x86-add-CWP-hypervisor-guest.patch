@@ -1,7 +1,7 @@
-From ea8844dc1674aee4e0427738909aabfd7309cd88 Mon Sep 17 00:00:00 2001
+From 8aee04a10357a7635ead52e52c091f9b29c65ed8 Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Tue, 26 Dec 2017 03:05:33 +0800
-Subject: [PATCH 418/637] x86: add CWP hypervisor guest
+Subject: [PATCH 418/662] x86: add CWP hypervisor guest
 
 add x86_hyper_cwp into supported hypervisors array, which enabling
 CWP services guest run on CWP hypervisor.

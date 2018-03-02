@@ -1,7 +1,7 @@
-From 49edb3b55e27d7c0522ef2e6ef807a58566e67a3 Mon Sep 17 00:00:00 2001
+From 6effb713570aac157e071367c2631f52df82c546 Mon Sep 17 00:00:00 2001
 From: Puneeth Prabhu <puneethx.prabhu@intel.com>
 Date: Wed, 17 May 2017 12:05:30 +0530
-Subject: [PATCH 285/637] ASoC: Intel: Skylake: Increase the max number of
+Subject: [PATCH 285/662] ASoC: Intel: Skylake: Increase the max number of
  entries for resources, path configs and formats
 
 To support multi-format playback/capture, 0.7 xml has more

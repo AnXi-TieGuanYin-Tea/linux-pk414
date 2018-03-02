@@ -1,7 +1,7 @@
-From 55e0ff9ef777fba9ec5e698255ca266afda4b665 Mon Sep 17 00:00:00 2001
+From 1548e25d94788261f53de7baf9f1c033847eb90e Mon Sep 17 00:00:00 2001
 From: Oscar Mateo <oscar.mateo@intel.com>
 Date: Thu, 28 Sep 2017 15:40:39 -0700
-Subject: [PATCH 621/637] UPSTREAM: drm/i915: Transform whitelisting WAs into a
+Subject: [PATCH 621/662] UPSTREAM: drm/i915: Transform whitelisting WAs into a
  simple reg write
 
 RING_FORCE_TO_NONPRIV registers do not live in the logical context. They are simply

@@ -1,7 +1,7 @@
-From 4e31a00118615b4db9b8e488634365a4f8e61cb2 Mon Sep 17 00:00:00 2001
+From 6a677671fcc4008fc2fe88523fb87b9192a9e561 Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Tue, 3 Oct 2017 21:34:47 +0100
-Subject: [PATCH 627/637] UPSTREAM: drm/i915/execlists: Distinguish the
+Subject: [PATCH 627/662] UPSTREAM: drm/i915/execlists: Distinguish the
  incomplete context notifies
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

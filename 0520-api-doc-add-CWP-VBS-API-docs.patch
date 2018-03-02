@@ -1,7 +1,7 @@
-From 8f1745386c23033ceb2cc3da489d505301c4accb Mon Sep 17 00:00:00 2001
+From 7537b7d760c4ca3125075a6f4bb8a7f38714c12d Mon Sep 17 00:00:00 2001
 From: Hao Li <hao.l.li@intel.com>
 Date: Mon, 29 Jan 2018 00:26:15 -0500
-Subject: [PATCH 520/637] api doc: add CWP VBS API docs
+Subject: [PATCH 520/662] api doc: add CWP VBS API docs
 
 Change-Id: I634c0117392ca529d7bd4b89a02fec43a0f70d63
 Tracked-On: 220254

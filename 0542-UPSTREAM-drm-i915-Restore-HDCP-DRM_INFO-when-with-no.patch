@@ -1,7 +1,7 @@
-From 543412527563aa3e443005cf6eb97bad4961244b Mon Sep 17 00:00:00 2001
+From a50b08243555668a69225b450025ca040823de74 Mon Sep 17 00:00:00 2001
 From: Sean Paul <seanpaul@chromium.org>
 Date: Tue, 30 Jan 2018 09:29:34 -0500
-Subject: [PATCH 542/637] UPSTREAM: drm/i915: Restore HDCP DRM_INFO when with
+Subject: [PATCH 542/662] UPSTREAM: drm/i915: Restore HDCP DRM_INFO when with
  no downstream
 
 The commit below returned earlier than before, but failed to move the

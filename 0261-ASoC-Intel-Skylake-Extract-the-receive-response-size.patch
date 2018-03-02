@@ -1,7 +1,7 @@
-From 314ba0461d1e927558f68201c26a663c2b5f26ab Mon Sep 17 00:00:00 2001
+From fa48b5ace56da5b98cfb49e16288368641f8d4cb Mon Sep 17 00:00:00 2001
 From: Leoni Prodduvaka <leoni.prodduvaka@intel.com>
 Date: Thu, 16 Mar 2017 21:50:51 +0530
-Subject: [PATCH 261/637] ASoC: Intel: Skylake: Extract the receive response
+Subject: [PATCH 261/662] ASoC: Intel: Skylake: Extract the receive response
  size returned by the FW
 
 The driver uses the rx_bytes value returned from firmware to copy the

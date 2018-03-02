@@ -1,7 +1,7 @@
-From dbc9374fa68873d1dad25269ba3203e9def95a3f Mon Sep 17 00:00:00 2001
+From e95d9e59f2f0bf6242c07a348deed247fd8ecd7f Mon Sep 17 00:00:00 2001
 From: Ping Gao <ping.a.gao@intel.com>
 Date: Fri, 2 Jun 2017 09:03:19 +0800
-Subject: [PATCH 464/637] drm/i915/gvt: ivi: lazy shadow context
+Subject: [PATCH 464/662] drm/i915/gvt: ivi: lazy shadow context
 
 It's a significant overhead to shadow guest context by copying all
 the pages, for performance consideration this patch introduce context

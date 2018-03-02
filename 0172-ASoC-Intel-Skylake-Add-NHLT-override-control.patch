@@ -1,7 +1,7 @@
-From f0bd6b36696546a17251e7f11da7c0e580224f6e Mon Sep 17 00:00:00 2001
+From 703ecd658255afa49bfbf1d50c297e4886885bb9 Mon Sep 17 00:00:00 2001
 From: Vinod Koul <vinod.koul@intel.com>
 Date: Mon, 31 Aug 2015 14:05:10 +0530
-Subject: [PATCH 172/637] ASoC: Intel: Skylake: Add NHLT override control
+Subject: [PATCH 172/662] ASoC: Intel: Skylake: Add NHLT override control
 
 For debugging purposes we may want to not use the BIOS values and
 test our own values, so allow the override by adding a control

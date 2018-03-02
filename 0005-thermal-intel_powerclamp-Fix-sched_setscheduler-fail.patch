@@ -1,7 +1,7 @@
-From 5958dfe02af249d4e2169b276f7e57816f9d3781 Mon Sep 17 00:00:00 2001
+From b35eb9f1cbba182fffa79f7a9549108e9e6fbea9 Mon Sep 17 00:00:00 2001
 From: "Liu, Xinwu" <xinwu.liu@intel.com>
 Date: Wed, 22 Mar 2017 07:52:26 +0000
-Subject: [PATCH 005/637] thermal/intel_powerclamp: Fix sched_setscheduler fail
+Subject: [PATCH 005/662] thermal/intel_powerclamp: Fix sched_setscheduler fail
 
 The schedule policy of thread "kidle_inject" is SCHED_NORMAL:
 [  772.796284] intel_powerclamp: Start idle injection to reduce power

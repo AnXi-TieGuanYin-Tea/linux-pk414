@@ -1,7 +1,7 @@
-From eb28236ac0ad759698cd344b0c61f5e9471e8f03 Mon Sep 17 00:00:00 2001
+From a19dd2b8f233238e9e9dcb935bb5bcf168a2713b Mon Sep 17 00:00:00 2001
 From: Pierre-Louis Bossart <pierre-louis.bossart@linux.intel.com>
 Date: Tue, 17 May 2016 14:00:15 +0530
-Subject: [PATCH 207/637] ALSA: core: let low-level driver or userspace disable
+Subject: [PATCH 207/662] ALSA: core: let low-level driver or userspace disable
  rewinds
 
 Add new hw_params flag to explicitly tell driver that rewinds will never

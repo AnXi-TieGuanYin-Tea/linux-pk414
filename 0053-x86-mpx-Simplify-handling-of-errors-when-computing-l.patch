@@ -1,7 +1,7 @@
-From 25cf64db7e44e6470e1af568c14fb081b0518018 Mon Sep 17 00:00:00 2001
+From 5bb6d645ef5ed79f9dd1c4a167b8fc94b2f9acc6 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Tue, 5 Sep 2017 14:56:39 -0700
-Subject: [PATCH 053/637] x86/mpx: Simplify handling of errors when computing
+Subject: [PATCH 053/662] x86/mpx: Simplify handling of errors when computing
  linear addresses
 
 When errors occur in the computation of the linear address, -1L is

@@ -1,7 +1,7 @@
-From c1f4195eb58ae5db4e22a0d9b9b91512b485b4d2 Mon Sep 17 00:00:00 2001
+From 9154e1fa888863354c5e20b42adac0ea5bda7196 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Tue, 28 Mar 2017 01:37:03 +0800
-Subject: [PATCH 451/637] drm/i915/gvt: handle BXT in dp_aux_ch_ctl_mmio_write
+Subject: [PATCH 451/662] drm/i915/gvt: handle BXT in dp_aux_ch_ctl_mmio_write
 
 Signed-off-by: Min He <min.he@intel.com>
 (cherry picked from commit 58b5112009611b5d78282d33e278ccd6850a1017)

@@ -1,7 +1,7 @@
-From 27c0746f47ae1b723fa6bea11a5a5788127bec0c Mon Sep 17 00:00:00 2001
+From 992295682031fdc3c6ee7bfbdcda010d4e3b45f6 Mon Sep 17 00:00:00 2001
 From: Sean Paul <seanpaul@chromium.org>
 Date: Mon, 8 Jan 2018 14:55:36 -0500
-Subject: [PATCH 528/637] UPSTREAM: drm/i915: Add more control to wait_for
+Subject: [PATCH 528/662] UPSTREAM: drm/i915: Add more control to wait_for
  routines
 
 This patch adds a little more control to a couple wait_for routines such

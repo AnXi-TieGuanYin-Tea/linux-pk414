@@ -1,7 +1,7 @@
-From 4b72348d1c93006bda41f511a74e8fa0645ebb7b Mon Sep 17 00:00:00 2001
+From 8f25bc0a3805cf6ce3ce2e68e812c0b32e4070f4 Mon Sep 17 00:00:00 2001
 From: Sean Paul <seanpaul@chromium.org>
 Date: Mon, 8 Jan 2018 14:55:38 -0500
-Subject: [PATCH 530/637] UPSTREAM: drm: Add some HDCP related #defines
+Subject: [PATCH 530/662] UPSTREAM: drm: Add some HDCP related #defines
 
 In preparation for implementing HDCP in i915, add some HDCP related
 register offsets and defines. The dpcd register offsets will go in

@@ -1,7 +1,7 @@
-From d8f62553a89e915f75730b545ef5fffd9d27959a Mon Sep 17 00:00:00 2001
+From a633f62b9a4bd17b357d11e9d691b911ef179a9d Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Thu, 27 Oct 2016 12:04:26 +0530
-Subject: [PATCH 228/637] ASoC: rt700: codec changes for BRA feature
+Subject: [PATCH 228/662] ASoC: rt700: codec changes for BRA feature
 
 This patch create sysfs entry to test BRA feature.
 sysfs entry created: /sys/bus/soundwire/devices/<slave>/bra_trigger

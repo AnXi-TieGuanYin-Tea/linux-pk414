@@ -1,7 +1,7 @@
-From 3bb1cd41e8d76823a610f37db58f8d8fff37d8c1 Mon Sep 17 00:00:00 2001
+From 81392d20e2db40f03d45571dcd1888cb51cad4e8 Mon Sep 17 00:00:00 2001
 From: Mika Kuoppala <mika.kuoppala@linux.intel.com>
 Date: Fri, 22 Sep 2017 15:43:05 +0300
-Subject: [PATCH 611/637] UPSTREAM: drm/i915: Wrap port cancellation into a
+Subject: [PATCH 611/662] UPSTREAM: drm/i915: Wrap port cancellation into a
  function
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

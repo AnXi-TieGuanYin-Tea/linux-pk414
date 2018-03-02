@@ -1,7 +1,7 @@
-From 10481399a79577c1dfedf578d93b5f48b69df57c Mon Sep 17 00:00:00 2001
+From 289e61c8aa57285610520eb58354cccaf2c18615 Mon Sep 17 00:00:00 2001
 From: Hao Li <hao.l.li@intel.com>
 Date: Sun, 28 Jan 2018 19:54:49 -0500
-Subject: [PATCH 519/637] VBS-K: bugfix on cwp_ioreq_add_iorange() usage
+Subject: [PATCH 519/662] VBS-K: bugfix on cwp_ioreq_add_iorange() usage
 
 The values of arguments "long start" and "long end" in
 cwp_ioreq_add_iorange() API showing below should be "start"

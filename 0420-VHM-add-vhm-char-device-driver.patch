@@ -1,7 +1,7 @@
-From 7a0022965c2dce48bdfd4738c8365a411f12fb81 Mon Sep 17 00:00:00 2001
+From 282ebf911509a4e1232b11bef4657fc4fc7e81a0 Mon Sep 17 00:00:00 2001
 From: liang ding <liang.ding@intel.com>
 Date: Fri, 29 Dec 2017 15:44:19 +0800
-Subject: [PATCH 420/637] VHM: add vhm char device driver
+Subject: [PATCH 420/662] VHM: add vhm char device driver
 
 VHM(virtio and hypervisor service module) is the important middle layer
 to run virtio and hypervisor services in linux kernel for CWP hypervisor.

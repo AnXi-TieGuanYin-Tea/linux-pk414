@@ -1,7 +1,7 @@
-From 1773a4f93117194f8d8a928b4ad7fec206be2fa4 Mon Sep 17 00:00:00 2001
+From f04ab100967e8a7a412c430ae80e1bafaf8481d4 Mon Sep 17 00:00:00 2001
 From: "Kumar, Mahesh" <mahesh1.kumar@intel.com>
 Date: Thu, 17 Aug 2017 19:15:28 +0530
-Subject: [PATCH 573/637] UPSTREAM: drm/i915/bxt+: Enable IPC support
+Subject: [PATCH 573/662] UPSTREAM: drm/i915/bxt+: Enable IPC support
 
 This patch adds IPC support. This patch also enables IPC in all supported
 platforms based on has_ipc flag.

@@ -1,7 +1,7 @@
-From 77688cd106d39792e96f71ab15712dd0755022ec Mon Sep 17 00:00:00 2001
+From f5387d529e9f1bba37624485d6cc0858c826c702 Mon Sep 17 00:00:00 2001
 From: "Sinha, Mohit" <mohit.sinha@intel.com>
 Date: Thu, 6 Jul 2017 16:21:19 +0530
-Subject: [PATCH 306/637] ASoC: Intel: Boards: Add FW logging DAI-links for
+Subject: [PATCH 306/662] ASoC: Intel: Boards: Add FW logging DAI-links for
  GPMRB
 
 Add two FW logging DAI for each DSP core

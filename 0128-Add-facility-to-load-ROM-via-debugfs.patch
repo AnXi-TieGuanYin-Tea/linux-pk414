@@ -1,7 +1,7 @@
-From 07a6aea9e001951da23591d3496782a858e8ce6a Mon Sep 17 00:00:00 2001
+From 4d4d4ba40f0328984b13495de1a701446c207e4d Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Tue, 17 Nov 2015 05:27:39 +0530
-Subject: [PATCH 128/637] Add facility to load ROM via debugfs
+Subject: [PATCH 128/662] Add facility to load ROM via debugfs
 
 For FPGA images without ROM inbuilt, this adds feature to
 load the ROM manually via debugfs

@@ -1,7 +1,7 @@
-From 7aa4550b16ac8cc7ed54ad275c26c690a45baee7 Mon Sep 17 00:00:00 2001
+From e55a0b2d7519269939c99b28859a8e1df4fbd1c9 Mon Sep 17 00:00:00 2001
 From: Ramesh Babu <ramesh.babu@intel.com>
 Date: Mon, 23 May 2016 11:39:19 +0530
-Subject: [PATCH 210/637] ASoC: Intel: Skylake: add support for spib mode
+Subject: [PATCH 210/662] ASoC: Intel: Skylake: add support for spib mode
 
 Skylake audio controller sports SPIB capability, which can be
 used to inform position of appl pointer to host DMA controller.

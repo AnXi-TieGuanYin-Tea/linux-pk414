@@ -1,7 +1,7 @@
-From c3d3ef9724066d5ca5a29ee573c54d8d6f47e858 Mon Sep 17 00:00:00 2001
+From 12c92c1c787b365f43f6f7652cc38395c92b02d3 Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Wed, 13 Sep 2017 09:56:03 +0100
-Subject: [PATCH 591/637] UPSTREAM: drm/i915: Allow HW status page to be bound
+Subject: [PATCH 591/662] UPSTREAM: drm/i915: Allow HW status page to be bound
  high
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

@@ -1,7 +1,7 @@
-From 00202b859b35a3562d4a0e5cc9ba12c25be1ed4a Mon Sep 17 00:00:00 2001
+From ed0a65f8d06554ed2d1c2badce39539a96c5b82b Mon Sep 17 00:00:00 2001
 From: Ping Gao <ping.a.gao@intel.com>
 Date: Mon, 12 Jun 2017 10:06:26 +0800
-Subject: [PATCH 463/637] drm/i915/gvt: enlarge the scheduling period
+Subject: [PATCH 463/662] drm/i915/gvt: enlarge the scheduling period
 
 Change the scheduling period from 1ms to 5ms, 1ms is too frequent
 for APL as its CPU resource is limited.

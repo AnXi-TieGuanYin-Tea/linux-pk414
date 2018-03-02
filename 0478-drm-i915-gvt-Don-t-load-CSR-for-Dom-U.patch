@@ -1,7 +1,7 @@
-From eba767adadeddbdcd41e0588fb8be3a076a98061 Mon Sep 17 00:00:00 2001
+From 5d85f682ec7ed1cfc60d312188694c7002294194 Mon Sep 17 00:00:00 2001
 From: Satyeshwar Singh <satyeshwar.singh@intel.com>
 Date: Wed, 18 Oct 2017 19:28:37 -0700
-Subject: [PATCH 478/637] drm/i915/gvt: Don't load CSR for Dom U
+Subject: [PATCH 478/662] drm/i915/gvt: Don't load CSR for Dom U
 
 This change prevents the CSR firmware to be loaded for Dom U as
 we don't allow Dom U to control display power management settings

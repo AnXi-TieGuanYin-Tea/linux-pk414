@@ -1,7 +1,7 @@
-From 8add74fc405fdce8d39c62de580e29b75e59ff01 Mon Sep 17 00:00:00 2001
+From 235cf8242ec23218c189d550b9cdbd81add9c3b1 Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Tue, 3 Oct 2017 21:34:48 +0100
-Subject: [PATCH 628/637] UPSTREAM: drm/i915: Introduce a preempt context
+Subject: [PATCH 628/662] UPSTREAM: drm/i915: Introduce a preempt context
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit

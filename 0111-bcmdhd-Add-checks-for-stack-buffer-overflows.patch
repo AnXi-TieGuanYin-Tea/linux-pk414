@@ -1,7 +1,7 @@
-From 821d1ba31c75618b4f7d002f134a06ccefee6714 Mon Sep 17 00:00:00 2001
+From 3b3747982d5fef46fa784852eaf60e99bd1465ee Mon Sep 17 00:00:00 2001
 From: dataanddreams <dataanddreams@gmail.com>
 Date: Fri, 21 Apr 2017 23:34:23 +0000
-Subject: [PATCH 111/637] bcmdhd: Add checks for stack buffer overflows
+Subject: [PATCH 111/662] bcmdhd: Add checks for stack buffer overflows
 
 These two checks prevent exploitable buffer overflows in two scenarios.
 1. Long WPS_ID_DEVICE_NAME in WPS info elements

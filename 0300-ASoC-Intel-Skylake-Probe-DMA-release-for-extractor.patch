@@ -1,7 +1,7 @@
-From 36c967753e42a429f60da6c768a9a0d864836659 Mon Sep 17 00:00:00 2001
+From 17300b6c1376c74b9be622436e8978a10723b27d Mon Sep 17 00:00:00 2001
 From: "Pawse, GuruprasadX" <guruprasadx.pawse@intel.com>
 Date: Tue, 2 Aug 2016 17:00:12 +0530
-Subject: [PATCH 300/637] ASoC: Intel: Skylake: Probe DMA release for extractor
+Subject: [PATCH 300/662] ASoC: Intel: Skylake: Probe DMA release for extractor
 
 1. Extractor DMA is to be assigned when the first probe stream (irrespective
 of whether it is injector or extractor) is opened. But if the first probe

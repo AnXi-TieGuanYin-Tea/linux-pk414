@@ -1,7 +1,7 @@
-From 3aa212968ae01a3565cd7a9842dcfc759c801f09 Mon Sep 17 00:00:00 2001
+From b697498b89bd8bf340cd14819c0f1163c10d1b7d Mon Sep 17 00:00:00 2001
 From: "Gross, Mark" <mark.gross@intel.com>
 Date: Thu, 4 Jan 2018 11:09:51 -0800
-Subject: [PATCH 407/637] REVERTME disable user mode non-root access to the
+Subject: [PATCH 407/662] REVERTME disable user mode non-root access to the
  eBPF JIT
 
 This change is to block the "meltdown" side channel exploit instance using

@@ -1,7 +1,7 @@
-From 2d78b0da2496d117fad087f22440df07ad9b504e Mon Sep 17 00:00:00 2001
+From f3677972ecf63f4c533e5cb60fa8ce41bfb5ccef Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Arve=20Hj=C3=B8nnev=C3=A5g?= <arve@android.com>
 Date: Mon, 18 Nov 2013 20:52:55 -0800
-Subject: [PATCH 011/637] trusty: Add interrupt support
+Subject: [PATCH 011/662] trusty: Add interrupt support
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit

@@ -1,7 +1,7 @@
-From 555c7ed9ac02946114ae46e3b844c7d58565fad8 Mon Sep 17 00:00:00 2001
+From a6f71672e62a9139cd35f9343663dfb400a75fb5 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Thu, 24 Aug 2017 06:55:26 +0800
-Subject: [PATCH 480/637] drm/i915/gvt: inject error interrupt to DomU when GPU
+Subject: [PATCH 480/662] drm/i915/gvt: inject error interrupt to DomU when GPU
  hang
 
 When GVT finds a request from DomU causes GPU hang, it will trigger

@@ -1,7 +1,7 @@
-From 9551c537564cff2b15fbb707490138ddb0c22ff4 Mon Sep 17 00:00:00 2001
+From efd6f5e9255f95eb6bc73e8d8b7cc9e96102877b Mon Sep 17 00:00:00 2001
 From: weideng <wei.a.deng@intel.com>
 Date: Mon, 20 Jun 2016 14:19:52 +0800
-Subject: [PATCH 025/637] Fix the issue for tipc test case closer1
+Subject: [PATCH 025/662] Fix the issue for tipc test case closer1
 
 If the server channel accept the connection and immediately close
 the server channel, the client channel will receive one CONN_RSP

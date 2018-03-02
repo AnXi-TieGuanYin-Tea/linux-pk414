@@ -1,7 +1,7 @@
-From 997bedc8bea036b7db6a466dc498668ab4d95d3b Mon Sep 17 00:00:00 2001
+From ed61febe9d3bcae64ce9d8ee06c5aa99a0bd2ca5 Mon Sep 17 00:00:00 2001
 From: "Pawse, GuruprasadX" <guruprasadx.pawse@intel.com>
 Date: Wed, 11 Oct 2017 10:41:43 +0530
-Subject: [PATCH 341/637] ASoC: Intel: Skylake: Fix incorrect in_fmt and
+Subject: [PATCH 341/662] ASoC: Intel: Skylake: Fix incorrect in_fmt and
  out_fmt pointers in BRA playback pipeline
 
 Fix the in_fmt/out_fmt pointers for host copier of playback pipeline.

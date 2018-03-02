@@ -1,7 +1,7 @@
-From b3d37093ff36deaded0ac2cb9c4379cb1ed537bf Mon Sep 17 00:00:00 2001
+From 9e77ce6f363166eb5f248866e1566de4db230087 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Tue, 19 Jul 2016 00:08:05 +0300
-Subject: [PATCH 105/637] char: rpmb: Document Replay Protected Memory Block
+Subject: [PATCH 105/662] char: rpmb: Document Replay Protected Memory Block
  (RPMB) subsystem
 
 Add rpmb documentatin in sphinx format.

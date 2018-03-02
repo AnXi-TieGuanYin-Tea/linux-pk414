@@ -1,7 +1,7 @@
-From f5428d01ea6171360e7189a74eb4050f2f8543a1 Mon Sep 17 00:00:00 2001
+From de71e4a9c4e06a26a97f8eefe27e49f0069a9c2e Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Tue, 5 Sep 2017 15:49:11 -0700
-Subject: [PATCH 069/637] x86/insn-eval: Handle 32-bit address encodings in
+Subject: [PATCH 069/662] x86/insn-eval: Handle 32-bit address encodings in
  virtual-8086 mode
 
 It is possible to utilize 32-bit address encodings in virtual-8086 mode via

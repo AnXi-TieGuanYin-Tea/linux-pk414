@@ -1,7 +1,7 @@
-From 6fdc008b75eef45de41559bffad79cefae563f6a Mon Sep 17 00:00:00 2001
+From 93f64035fd370ab0d8149290981737d7611ff48c Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Mon, 1 May 2017 10:08:43 -0700
-Subject: [PATCH 058/637] x86/insn-eval: Do not BUG on invalid register type
+Subject: [PATCH 058/662] x86/insn-eval: Do not BUG on invalid register type
 
 We are not in a critical failure path. The invalid register type is caused
 when trying to decode invalid instruction bytes from a user-space program.

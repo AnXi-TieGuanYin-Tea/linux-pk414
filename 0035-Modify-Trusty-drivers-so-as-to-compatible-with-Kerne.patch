@@ -1,7 +1,7 @@
-From 72ff9871cb28838302fef8f4a4f5550b6a8b0c87 Mon Sep 17 00:00:00 2001
+From 5ea289b6ca54b95a66af8022b70164d7a8fa4649 Mon Sep 17 00:00:00 2001
 From: weideng <wei.a.deng@intel.com>
 Date: Tue, 28 Mar 2017 01:40:53 +0000
-Subject: [PATCH 035/637] Modify Trusty drivers so as to compatible with Kernel
+Subject: [PATCH 035/662] Modify Trusty drivers so as to compatible with Kernel
  4.11
 
 Cpu_hotplug_register/unregister APIs are removed from Kernel

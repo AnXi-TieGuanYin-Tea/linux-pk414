@@ -1,7 +1,7 @@
-From 95dc26d50223f76896aaaa7d31acb5227238d8dd Mon Sep 17 00:00:00 2001
+From c677aa57045090f051622974d465e4984d346cff Mon Sep 17 00:00:00 2001
 From: Sathyanarayanan Kuppuswamy <sathyanarayanan.kuppuswamy@intel.com>
 Date: Tue, 2 May 2017 17:45:33 -0700
-Subject: [PATCH 384/637] usb: phy: phy-intel-dualrole: Add Intel Dual Role PHY
+Subject: [PATCH 384/662] usb: phy: phy-intel-dualrole: Add Intel Dual Role PHY
  driver.
 
 In some Intel SOC's, the internal PHY is shared between XHCI host

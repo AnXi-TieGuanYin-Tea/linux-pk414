@@ -1,7 +1,7 @@
-From cf3661dfab692f7eb642f5fe39458aa275601aca Mon Sep 17 00:00:00 2001
+From d352e3824a861902c12313d075060d6d90a9f339 Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Mon, 17 Jul 2017 23:30:09 +0530
-Subject: [PATCH 411/637] ASoC: Intel: Skylake: Reset DSP Pipelines in prepare
+Subject: [PATCH 411/662] ASoC: Intel: Skylake: Reset DSP Pipelines in prepare
 
 An application can choose to call .prepare function
 any number of times. In such scenarios, there is a

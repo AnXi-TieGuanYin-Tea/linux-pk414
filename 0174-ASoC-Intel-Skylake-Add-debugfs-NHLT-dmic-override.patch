@@ -1,7 +1,7 @@
-From b6f6d6a5a520aa135f07e252f7093a4bac1e0ae0 Mon Sep 17 00:00:00 2001
+From 7117bea4a01db11f969dda74d1f7aa7f15c98a47 Mon Sep 17 00:00:00 2001
 From: Vinod Koul <vinod.koul@intel.com>
 Date: Wed, 26 Aug 2015 13:13:56 +0530
-Subject: [PATCH 174/637] ASoC: Intel: Skylake: Add debugfs NHLT dmic override
+Subject: [PATCH 174/662] ASoC: Intel: Skylake: Add debugfs NHLT dmic override
 
 Add debugfs entries for reading and writing DMIC blobs which
 driver can use to program DSP

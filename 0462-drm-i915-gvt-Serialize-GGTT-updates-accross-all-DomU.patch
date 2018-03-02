@@ -1,7 +1,7 @@
-From c3f81d764ec78e544dee74021b647975662b2e3f Mon Sep 17 00:00:00 2001
+From 327418be4a32d390974da4dfbc261e69ea022e0d Mon Sep 17 00:00:00 2001
 From: Vivek Kasireddy <vivek.kasireddy@intel.com>
 Date: Thu, 27 Apr 2017 15:20:42 -0700
-Subject: [PATCH 462/637] drm/i915/gvt: Serialize GGTT updates accross all
+Subject: [PATCH 462/662] drm/i915/gvt: Serialize GGTT updates accross all
  DomUs
 
 When updating the GGTT, make sure we pause all other domains

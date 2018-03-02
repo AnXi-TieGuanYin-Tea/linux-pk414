@@ -1,7 +1,7 @@
-From 9e1702ffcd51a92032a58719475300c469113aec Mon Sep 17 00:00:00 2001
+From 00e9e4ed4def9889d64bdc4f89e21ff6f4955c25 Mon Sep 17 00:00:00 2001
 From: Yael Samet <yael.samet@intel.com>
 Date: Mon, 14 Aug 2017 11:34:28 +0300
-Subject: [PATCH 554/637] mei: dal: add module Documentation
+Subject: [PATCH 554/662] mei: dal: add module Documentation
 
 Documentation under Documentation/misc-devices/mei/dal
 

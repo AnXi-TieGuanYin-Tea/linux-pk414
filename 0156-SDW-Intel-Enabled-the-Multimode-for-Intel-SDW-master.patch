@@ -1,7 +1,7 @@
-From 53afa7e588a4f1d9e9ac1e751689f8ed2f257a2d Mon Sep 17 00:00:00 2001
+From b213175dc3caee44f6a738b4b2bca4b409809e83 Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Fri, 29 Apr 2016 16:26:15 +0530
-Subject: [PATCH 156/637] SDW:Intel: Enabled the Multimode for Intel SDW master
+Subject: [PATCH 156/662] SDW:Intel: Enabled the Multimode for Intel SDW master
  controller.
 
 Initialize the SDW controller for multimode.

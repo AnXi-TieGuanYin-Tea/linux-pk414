@@ -1,7 +1,7 @@
-From 4a4e3ec596fc8e425d1286125375c87179de72b6 Mon Sep 17 00:00:00 2001
+From 24b38db4bc1ebf19f0faebc8cb4b58c0530fd355 Mon Sep 17 00:00:00 2001
 From: "Deng, Wei A" <wei.a.deng@intel.com>
 Date: Wed, 16 Nov 2016 16:31:43 +0800
-Subject: [PATCH 027/637] Replace CPU_STARTING/CPU_DYING with
+Subject: [PATCH 027/662] Replace CPU_STARTING/CPU_DYING with
  CPU_UP_PREPARE/CPU_DEAD
 
 CPU_STARTING and CPU_DYING notifier are removed from kernel 4.9.

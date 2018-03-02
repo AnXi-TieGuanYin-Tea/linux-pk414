@@ -1,7 +1,7 @@
-From ff4285bc3be3f38ae05c4ebc3f1ba51103e5ab50 Mon Sep 17 00:00:00 2001
+From af41eb83c7b1d2494abac000d356d1186779c4ec Mon Sep 17 00:00:00 2001
 From: Rodrigo Vivi <rodrigo.vivi@intel.com>
 Date: Tue, 29 Aug 2017 16:07:51 -0700
-Subject: [PATCH 569/637] UPSTREAM: drm/i915/cnl: WaDisableI2mCycleOnWRPort
+Subject: [PATCH 569/662] UPSTREAM: drm/i915/cnl: WaDisableI2mCycleOnWRPort
 
 On CNL B0 stepping GAM is not able to detect some deadlock
 condition and then rise the rise the gam_coh_flush.

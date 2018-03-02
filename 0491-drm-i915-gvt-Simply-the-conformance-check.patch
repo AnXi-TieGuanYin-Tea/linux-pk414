@@ -1,7 +1,7 @@
-From c7eb4e3b24cf0af8f7ef2c27150334fc2a01cfea Mon Sep 17 00:00:00 2001
+From f1754d920083b4f65bc2f80914e992e362945abb Mon Sep 17 00:00:00 2001
 From: Ping Gao <ping.a.gao@intel.com>
 Date: Wed, 6 Sep 2017 16:13:40 +0800
-Subject: [PATCH 491/637] drm/i915/gvt: Simply the conformance check
+Subject: [PATCH 491/662] drm/i915/gvt: Simply the conformance check
 
 The overall comparison for non-context MMIOs only need once, then
 it's enough for conformance check that audit these MMIOs during

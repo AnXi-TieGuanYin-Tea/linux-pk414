@@ -1,7 +1,7 @@
-From bec119d00c6fa85ca213c7923fb4238f0a6bf939 Mon Sep 17 00:00:00 2001
+From d106f18b7c7ec9e4f038cb2342d05571c03c32b3 Mon Sep 17 00:00:00 2001
 From: Sathyanarayanan Kuppuswamy <sathyanarayanan.kuppuswamy@intel.com>
 Date: Tue, 9 May 2017 15:33:49 -0700
-Subject: [PATCH 386/637] usb: host: xhci-pci: set host device phy handle
+Subject: [PATCH 386/662] usb: host: xhci-pci: set host device phy handle
 
 In some Intel SOC's, an internal PHY is shared between
 host and device controller. So the PHY should be registered

@@ -1,7 +1,7 @@
-From 9dbb3518b4931749c66ce8206124bbe46b349fe2 Mon Sep 17 00:00:00 2001
+From a85370eda1691ea4713dd765d0a6f71b12b81b08 Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Thu, 17 Mar 2016 17:44:39 +0530
-Subject: [PATCH 146/637] ASoC:CNL: Add support for DMIC link in SDW machine
+Subject: [PATCH 146/662] ASoC:CNL: Add support for DMIC link in SDW machine
  driver.
 
 Add support for DMIC link in the SoundWire machine driver.

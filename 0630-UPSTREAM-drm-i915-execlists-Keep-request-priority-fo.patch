@@ -1,7 +1,7 @@
-From 83b006e933dd5d918ed6b2280eb99d1f57f3dad3 Mon Sep 17 00:00:00 2001
+From a9cf80174795e1780343a573fc4fbb185868968c Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Tue, 3 Oct 2017 21:34:50 +0100
-Subject: [PATCH 630/637] UPSTREAM: drm/i915/execlists: Keep request->priority
+Subject: [PATCH 630/662] UPSTREAM: drm/i915/execlists: Keep request->priority
  for its lifetime
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

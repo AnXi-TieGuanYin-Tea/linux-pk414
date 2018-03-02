@@ -1,7 +1,7 @@
-From 8991eaf4d9adfc2844a217114a52546d755efd7e Mon Sep 17 00:00:00 2001
+From e9c8ee5b0812d1ad6586dbc5ab2b6c4f9301a07a Mon Sep 17 00:00:00 2001
 From: Edwin Zhai <edwin.zhai@intel.com>
 Date: Mon, 15 Jan 2018 19:43:21 +0800
-Subject: [PATCH 506/637] vhm: cleanup ioctls
+Subject: [PATCH 506/662] vhm: cleanup ioctls
 
 Redefine ioctl command number
 

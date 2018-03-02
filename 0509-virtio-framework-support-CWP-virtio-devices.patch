@@ -1,7 +1,7 @@
-From 6005bc79a046e2a4196d3c9a43e7ec456545f5d3 Mon Sep 17 00:00:00 2001
+From 241b6e3295717e8de350e561f1dfcd814516077e Mon Sep 17 00:00:00 2001
 From: Hao Li <hao.l.li@intel.com>
 Date: Thu, 18 Jan 2018 17:41:02 -0500
-Subject: [PATCH 509/637] virtio framework: support CWP virtio devices
+Subject: [PATCH 509/662] virtio framework: support CWP virtio devices
 
 To support CWP virtio devices which use Intel VID:DID,
 relax virtio device probing conditions in frontend virtio framework.

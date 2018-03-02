@@ -1,7 +1,7 @@
-From 3a23e1d6ff6ddb35c999be453bff5f0b8e2767e1 Mon Sep 17 00:00:00 2001
+From 27280202d3bb41dd9afeafbcc6bbf40232e5b91b Mon Sep 17 00:00:00 2001
 From: Pradeep Tewani <pradeep.d.tewani@intel.com>
 Date: Thu, 26 Oct 2017 20:22:58 +0530
-Subject: [PATCH 344/637] ASoC: Intel: Skylake: Parse vendor tokens to build
+Subject: [PATCH 344/662] ASoC: Intel: Skylake: Parse vendor tokens to build
  A-State table
 
 A-State table is a power management feature which allows the driver to

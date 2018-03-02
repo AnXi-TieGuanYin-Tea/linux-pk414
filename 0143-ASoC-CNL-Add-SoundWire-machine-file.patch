@@ -1,7 +1,7 @@
-From 87247c7612bcd90b4c53877c3878e55e37173bc3 Mon Sep 17 00:00:00 2001
+From f090e34f87636433f1783b4a7ef7f34ae72236e6 Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Mon, 14 Mar 2016 18:07:38 +0530
-Subject: [PATCH 143/637] ASoC:CNL: Add SoundWire machine file.
+Subject: [PATCH 143/662] ASoC:CNL: Add SoundWire machine file.
 
 This patch adds the machine driver file for the SoundWire
 codec cirrus logic cs4l42 and SKL platform driver.

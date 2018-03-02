@@ -1,7 +1,7 @@
-From fdcfade4b9e9766983e48a017485165bc3504738 Mon Sep 17 00:00:00 2001
+From 770f67433d720ff7e156f19a5df017ca15816f40 Mon Sep 17 00:00:00 2001
 From: Ping Gao <ping.a.gao@intel.com>
 Date: Wed, 30 Aug 2017 14:59:22 +0800
-Subject: [PATCH 476/637] drm/i915/gvt: Forbid command to access non-context
+Subject: [PATCH 476/662] drm/i915/gvt: Forbid command to access non-context
  registers
 
 After MMIO save/restore removing, the guest cannot access non-context

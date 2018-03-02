@@ -1,7 +1,7 @@
-From da615c436e3845c96145decec1485624096eca90 Mon Sep 17 00:00:00 2001
+From 2c6f25ffe0b0bb7e9acd19c1d8aea6e7d35c1fe4 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Mon, 19 Dec 2016 15:29:11 -0800
-Subject: [PATCH 075/637] x86/traps: Fixup general protection faults caused by
+Subject: [PATCH 075/662] x86/traps: Fixup general protection faults caused by
  UMIP
 
 If the User-Mode Instruction Prevention CPU feature is available and

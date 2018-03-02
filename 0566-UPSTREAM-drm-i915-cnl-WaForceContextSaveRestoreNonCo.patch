@@ -1,7 +1,7 @@
-From d8f9fbbbaf81f945cbbfdd5b8f0b1936a8efe40f Mon Sep 17 00:00:00 2001
+From b2138c4bb1533fcd653a0594d0a6028163da131c Mon Sep 17 00:00:00 2001
 From: Rodrigo Vivi <rodrigo.vivi@intel.com>
 Date: Wed, 23 Aug 2017 13:35:04 -0700
-Subject: [PATCH 566/637] UPSTREAM: drm/i915/cnl:
+Subject: [PATCH 566/662] UPSTREAM: drm/i915/cnl:
  WaForceContextSaveRestoreNonCoherent
 
 To avoid a potential hang condition with TLB invalidation

@@ -1,7 +1,7 @@
-From 4f1315c70844ef428453ae7df9dc00936779bb6b Mon Sep 17 00:00:00 2001
+From d710d8088f8014b1433bf71b51d9b3de53cc059f Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 27 Apr 2017 14:32:17 +0530
-Subject: [PATCH 270/637] ASoC: Intel: Skylake: Append SDW device to device
+Subject: [PATCH 270/662] ASoC: Intel: Skylake: Append SDW device to device
  type enum
 
 Append the SDW device type enum to the device type enum instead of

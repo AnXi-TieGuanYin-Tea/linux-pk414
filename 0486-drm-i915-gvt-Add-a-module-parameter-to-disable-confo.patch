@@ -1,7 +1,7 @@
-From 9387ebaca656c784b59deb5347541243c79daa59 Mon Sep 17 00:00:00 2001
+From 6dfc73b02e4bd9c34434a39f96fdb7cc3ea2a836 Mon Sep 17 00:00:00 2001
 From: Ping Gao <ping.a.gao@intel.com>
 Date: Wed, 6 Sep 2017 19:57:57 +0800
-Subject: [PATCH 486/637] drm/i915/gvt: Add a module parameter to disable
+Subject: [PATCH 486/662] drm/i915/gvt: Add a module parameter to disable
  conformance check
 
 By default the guest conformance check is enabled.

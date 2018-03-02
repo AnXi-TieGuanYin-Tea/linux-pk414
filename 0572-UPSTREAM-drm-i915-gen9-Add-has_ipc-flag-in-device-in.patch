@@ -1,7 +1,7 @@
-From 1b31bdc206802da43492eda4f5e4415f92e4b0d3 Mon Sep 17 00:00:00 2001
+From 19325c23e2b3d68afe810f674d4431e0688c9f24 Mon Sep 17 00:00:00 2001
 From: Mahesh Kumar <mahesh1.kumar@intel.com>
 Date: Thu, 17 Aug 2017 19:15:27 +0530
-Subject: [PATCH 572/637] UPSTREAM: drm/i915/gen9+: Add has_ipc flag in device
+Subject: [PATCH 572/662] UPSTREAM: drm/i915/gen9+: Add has_ipc flag in device
  info structure
 
 New Isochronous Priority Control (IPC) capability is introduced in newer

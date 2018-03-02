@@ -1,7 +1,7 @@
-From 3589918c9531f9802778ccfb774f2026cb4e03bc Mon Sep 17 00:00:00 2001
+From e40325cf1fba5332a2a8d641f42ecb1c936275a9 Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Tue, 24 Oct 2017 12:55:01 +0100
-Subject: [PATCH 635/637] UPSTREAM: drm/i915/execlists: Remove the priority
+Subject: [PATCH 635/662] UPSTREAM: drm/i915/execlists: Remove the priority
  "optimisation"
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

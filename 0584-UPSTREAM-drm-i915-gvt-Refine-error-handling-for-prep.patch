@@ -1,7 +1,7 @@
-From 2a40b6e8ee0e1a69a16e38a3a53f0603e41b329e Mon Sep 17 00:00:00 2001
+From 20e6642ef06eabbb88212a10bb6e7013881bae74 Mon Sep 17 00:00:00 2001
 From: fred gao <fred.gao@intel.com>
 Date: Fri, 18 Aug 2017 15:41:08 +0800
-Subject: [PATCH 584/637] UPSTREAM: drm/i915/gvt: Refine error handling for
+Subject: [PATCH 584/662] UPSTREAM: drm/i915/gvt: Refine error handling for
  prepare_execlist_workload
 
 refine the error handling for prepare_execlist_workload to restore to the

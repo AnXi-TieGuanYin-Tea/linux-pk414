@@ -1,7 +1,7 @@
-From ff335fe690e8d2fceec8a1fb8c492f23f1c3410b Mon Sep 17 00:00:00 2001
+From 68c124bc175f386cf4af186fa70321daf52e8031 Mon Sep 17 00:00:00 2001
 From: Fei Yang <fei.yang@intel.com>
 Date: Fri, 16 Jun 2017 17:36:19 -0700
-Subject: [PATCH 002/637] AndroidIA: Allow RenderNode to be used for kms
+Subject: [PATCH 002/662] AndroidIA: Allow RenderNode to be used for kms
  getters.
 
 Minigbm relies on this to query if a particular format

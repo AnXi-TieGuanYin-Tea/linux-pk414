@@ -1,7 +1,7 @@
-From 3829ca912b3c9fe446abd00be48f59590efce5c6 Mon Sep 17 00:00:00 2001
+From 47663a62b0c067e28b8f4e5561d89c2c32ec09f9 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Mon, 20 Jun 2016 13:40:06 +0530
-Subject: [PATCH 125/637] Disable nhlt and hda codec creation
+Subject: [PATCH 125/662] Disable nhlt and hda codec creation
 
 Change-Id: Iaeb5b438f5f8d9e46255f4e5c278e67cb2f53bd3
 Signed-off-by: Guneshwor Singh <guneshwor.o.singh@intel.com>

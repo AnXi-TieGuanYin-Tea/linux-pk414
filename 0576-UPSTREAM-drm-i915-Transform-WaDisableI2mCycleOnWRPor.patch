@@ -1,7 +1,7 @@
-From 1aac93b146e4bc3f97e9987f7834f17818804092 Mon Sep 17 00:00:00 2001
+From 141e4e7fbff05e6fe5ff2fdfd6f2470d4758e8c9 Mon Sep 17 00:00:00 2001
 From: Oscar Mateo <oscar.mateo@intel.com>
 Date: Thu, 7 Sep 2017 08:40:05 -0700
-Subject: [PATCH 576/637] UPSTREAM: drm/i915: Transform
+Subject: [PATCH 576/662] UPSTREAM: drm/i915: Transform
  WaDisableI2mCycleOnWRPort into a simple reg write
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

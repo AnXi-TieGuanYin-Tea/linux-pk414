@@ -1,7 +1,7 @@
-From 7ec2c25f988e1df425d7d82b4f791ead251e2253 Mon Sep 17 00:00:00 2001
+From b8256becaf36b245ef747ef4f000fc22ae26f77a Mon Sep 17 00:00:00 2001
 From: yingbinx <yingbinx.zeng@intel.com>
 Date: Mon, 27 Mar 2017 12:24:04 +0800
-Subject: [PATCH 039/637] check CPUID while probe trusty drivers.
+Subject: [PATCH 039/662] check CPUID while probe trusty drivers.
 
 Trusty ipc drivers only work when eVmm is alive.
 So when probe the trusty drivers, we need to call CPUID

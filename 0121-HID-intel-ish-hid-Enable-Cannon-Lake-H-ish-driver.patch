@@ -1,7 +1,7 @@
-From 6d7a433b2ab749f853c05ea64b42d7c85ac0fdec Mon Sep 17 00:00:00 2001
+From 8621502340cccf2866aee00e3acf29a5d8ee1213 Mon Sep 17 00:00:00 2001
 From: Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>
 Date: Tue, 18 Jul 2017 13:15:30 -0700
-Subject: [PATCH 121/637] HID: intel-ish-hid: Enable Cannon Lake-H ish driver
+Subject: [PATCH 121/662] HID: intel-ish-hid: Enable Cannon Lake-H ish driver
 
 Added PCI ID for Cannon Lake-H ISH.
 

@@ -1,7 +1,7 @@
-From 4e2e8a1600e901aa4ee510b6fa02b09e512f7031 Mon Sep 17 00:00:00 2001
+From ffce116c11e7d580ccc1646fdae26dd30ebb74af Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Wed, 14 Jun 2017 14:52:11 -0700
-Subject: [PATCH 071/637] x86/cpufeature: Add User-Mode Instruction Prevention
+Subject: [PATCH 071/662] x86/cpufeature: Add User-Mode Instruction Prevention
  definitions
 
 User-Mode Instruction Prevention is a security feature present in new

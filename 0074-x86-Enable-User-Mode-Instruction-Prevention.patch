@@ -1,7 +1,7 @@
-From 72e131c16d1c66a12477cddd8ea0e2b2443df55c Mon Sep 17 00:00:00 2001
+From 39c91266d38f74a6191f57e1adf2e12be48671eb Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Tue, 11 Jul 2017 13:25:34 -0700
-Subject: [PATCH 074/637] x86: Enable User-Mode Instruction Prevention
+Subject: [PATCH 074/662] x86: Enable User-Mode Instruction Prevention
 
 User-Mode Instruction Prevention (UMIP) is enabled by setting/clearing a
 bit in %cr4.

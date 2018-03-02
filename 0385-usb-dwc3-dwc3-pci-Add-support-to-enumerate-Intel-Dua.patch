@@ -1,7 +1,7 @@
-From 2b1c3b807709e13143561adf0615ad28a69bf3a8 Mon Sep 17 00:00:00 2001
+From 78f6e1c6710239051039cd9d0171d34a1b8ded2b Mon Sep 17 00:00:00 2001
 From: Sathyanarayanan Kuppuswamy <sathyanarayanan.kuppuswamy@intel.com>
 Date: Tue, 2 May 2017 17:44:15 -0700
-Subject: [PATCH 385/637] usb: dwc3: dwc3-pci: Add support to enumerate Intel
+Subject: [PATCH 385/662] usb: dwc3: dwc3-pci: Add support to enumerate Intel
  Dual Role phy
 
 This patch adds support to enumerate Intel Dual Role phy driver for

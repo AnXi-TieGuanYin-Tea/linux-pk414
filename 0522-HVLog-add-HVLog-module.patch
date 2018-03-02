@@ -1,7 +1,7 @@
-From 81a8be9b976999540d0f9092a72891ddd72b4d62 Mon Sep 17 00:00:00 2001
+From eb3cf0cae8e0af09ec092ab35133cdf102b02208 Mon Sep 17 00:00:00 2001
 From: "Li, Fei1" <fei1.li@intel.com>
 Date: Wed, 24 Jan 2018 00:11:37 +0800
-Subject: [PATCH 522/637] HVLog: add HVLog module
+Subject: [PATCH 522/662] HVLog: add HVLog module
 
 Change-Id: I328bee769ea93dacf1642e4ffc142adb66356d2a
 Tracked-On:220304

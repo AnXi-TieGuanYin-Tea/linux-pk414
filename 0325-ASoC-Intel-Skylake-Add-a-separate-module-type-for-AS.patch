@@ -1,7 +1,7 @@
-From dc330d84ec96dd34121351b77b1954371e1d416b Mon Sep 17 00:00:00 2001
+From a59c1e374f46247c8c27bf3a4bd78751bab8f945 Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Mon, 21 Aug 2017 22:03:10 +0530
-Subject: [PATCH 325/637] ASoC: Intel: Skylake: Add a separate module type for
+Subject: [PATCH 325/662] ASoC: Intel: Skylake: Add a separate module type for
  ASRC algo
 
 ASRC algorithm has the same interfaces like the SRC algorithm.

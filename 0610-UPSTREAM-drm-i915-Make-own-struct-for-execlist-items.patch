@@ -1,7 +1,7 @@
-From 266e6408869ca9eeea36b4910c595cde3ef75773 Mon Sep 17 00:00:00 2001
+From be0078b06a16e2dca902d81e9aafbfc461a04cbd Mon Sep 17 00:00:00 2001
 From: Mika Kuoppala <mika.kuoppala@linux.intel.com>
 Date: Fri, 22 Sep 2017 15:43:03 +0300
-Subject: [PATCH 610/637] UPSTREAM: drm/i915: Make own struct for execlist
+Subject: [PATCH 610/662] UPSTREAM: drm/i915: Make own struct for execlist
  items
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

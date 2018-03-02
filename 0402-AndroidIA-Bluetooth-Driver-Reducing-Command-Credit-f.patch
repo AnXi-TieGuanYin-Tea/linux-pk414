@@ -1,7 +1,7 @@
-From 835adc1d16944a42135111ee7b308bcebef0b817 Mon Sep 17 00:00:00 2001
+From 92a82551bcf776289175d25914272bbddbab201d Mon Sep 17 00:00:00 2001
 From: avaish1 <atul.vaish@intel.com>
 Date: Wed, 15 Mar 2017 23:18:36 +0530
-Subject: [PATCH 402/637] AndroidIA: Bluetooth Driver : Reducing Command Credit
+Subject: [PATCH 402/662] AndroidIA: Bluetooth Driver : Reducing Command Credit
  from Controller to 1 always
 
 Intel BT Controller can not handle 2 Commands from the host at the same

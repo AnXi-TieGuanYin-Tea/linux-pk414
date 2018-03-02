@@ -1,7 +1,7 @@
-From 8530df1dd6846ce189e7c3712fc048738032bb62 Mon Sep 17 00:00:00 2001
+From 5de355997d6b69e23031aee08b52c3902aa816a8 Mon Sep 17 00:00:00 2001
 From: Dietmar Eggemann <dietmar.eggemann@arm.com>
 Date: Tue, 26 Sep 2017 17:41:10 +0100
-Subject: [PATCH 353/637] drivers base/arch_topology: provide
+Subject: [PATCH 353/662] drivers base/arch_topology: provide
  frequency-invariant accounting support
 
 Implements the arch-specific (arm and arm64) frequency-invariance setter

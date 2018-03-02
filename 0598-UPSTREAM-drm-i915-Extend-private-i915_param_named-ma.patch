@@ -1,7 +1,7 @@
-From e6ceff29aa0e0c01992a3b309222dc7420ee4ece Mon Sep 17 00:00:00 2001
+From dba1def8da3403bf270a5c5a20b93c6188939e7c Mon Sep 17 00:00:00 2001
 From: Michal Wajdeczko <michal.wajdeczko@intel.com>
 Date: Thu, 14 Sep 2017 15:08:03 +0000
-Subject: [PATCH 598/637] UPSTREAM: drm/i915: Extend private i915_param_named
+Subject: [PATCH 598/662] UPSTREAM: drm/i915: Extend private i915_param_named
  macro with description
 
 We're always specifying description of each module param in

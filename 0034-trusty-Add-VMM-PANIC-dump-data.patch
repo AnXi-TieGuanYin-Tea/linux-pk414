@@ -1,7 +1,7 @@
-From 86e881503cb4e8384573196a134decd6130fae1f Mon Sep 17 00:00:00 2001
+From 44f4aeba2b7d147717b4fdfa8c5fbeb6b9d34e1b Mon Sep 17 00:00:00 2001
 From: "Yan, Xiangyang" <xiangyangx.yan@intel.com>
 Date: Wed, 11 Jan 2017 01:26:27 +0000
-Subject: [PATCH 034/637] trusty: Add VMM PANIC dump data.
+Subject: [PATCH 034/662] trusty: Add VMM PANIC dump data.
 
 1. Increase the alloced size of dump data field to 4 page;
 

@@ -1,7 +1,7 @@
-From 555959ec87cb520f3f938d205ef4353dc769745d Mon Sep 17 00:00:00 2001
+From aab80a9b2dc2811b84e9149c55a186ccf78fbf6d Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Sun, 18 Jun 2017 09:52:40 +0530
-Subject: [PATCH 309/637] ASoC: Intel: board: Add support for HDMI in cnl_rt274
+Subject: [PATCH 309/662] ASoC: Intel: board: Add support for HDMI in cnl_rt274
 
 To enable HDMI/iDisp, corresponding BE DAI links are defined in the
 machine driver.  FE links will come topology with an assumption that the

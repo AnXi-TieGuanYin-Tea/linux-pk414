@@ -1,7 +1,7 @@
-From 7c0a86a166dbc6e190afc695ce9f0872449b2811 Mon Sep 17 00:00:00 2001
+From eb99ae030513f2986f95225e8707dc77144daf6c Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Micha=C5=82=20Winiarski?= <michal.winiarski@intel.com>
 Date: Thu, 14 Sep 2017 10:32:13 +0200
-Subject: [PATCH 605/637] UPSTREAM: drm/i915/guc: Submit GuC workitems
+Subject: [PATCH 605/662] UPSTREAM: drm/i915/guc: Submit GuC workitems
  containing coalesced requests
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

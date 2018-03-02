@@ -1,7 +1,7 @@
-From 8883bc33ddd60be0bc3f8ea25711bc0fdfeeddf4 Mon Sep 17 00:00:00 2001
+From 18bb531dd2ccac777dc88799d06b01c92e4e0807 Mon Sep 17 00:00:00 2001
 From: Armin Reese <armin.c.reese@intel.com>
 Date: Tue, 16 Jan 2018 14:51:09 -0800
-Subject: [PATCH 557/637] REVERTME [VPG]: i915/drm: Add userdata member to
+Subject: [PATCH 557/662] REVERTME [VPG]: i915/drm: Add userdata member to
  drm_i915_gem_object for storing app specific metainfo
 
 New feature: A uint32_t 'userdata' member has been added to

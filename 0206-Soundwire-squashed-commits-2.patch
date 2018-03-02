@@ -1,7 +1,7 @@
-From fad44a307a3492c0147f7a30f88fcdcc04a31f30 Mon Sep 17 00:00:00 2001
+From 53b510a7051dcc52356c1da59ade0dfd33e3fff6 Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Sun, 20 Nov 2016 20:25:37 +0530
-Subject: [PATCH 206/637] Soundwire squashed commits [2]
+Subject: [PATCH 206/662] Soundwire squashed commits [2]
 
 SoundWire: Optimizations in BW calculation and runtime ops
 

@@ -1,7 +1,7 @@
-From 02b6560a499990a52f6182fb340252b80b8fd79c Mon Sep 17 00:00:00 2001
+From 7b67e18abc919ca714de2036163d29debde97666 Mon Sep 17 00:00:00 2001
 From: Jayachandran B <jayachandran.b@intel.com>
 Date: Thu, 11 Feb 2016 20:02:14 +0530
-Subject: [PATCH 265/637] ASoC: Intel: Skylake: Better handling of stream
+Subject: [PATCH 265/662] ASoC: Intel: Skylake: Better handling of stream
  interrupts
 
 There are storm of interrupts while audio is running.

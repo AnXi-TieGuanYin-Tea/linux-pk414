@@ -1,7 +1,7 @@
-From 3c5b4c8c6cf970068a4bb25c249282d1339b1a0f Mon Sep 17 00:00:00 2001
+From 68ac3ee85932dce354fb5318edf22f56907706ff Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Wed, 6 Sep 2017 14:04:57 +0530
-Subject: [PATCH 336/637] ASoC: Intel: Skylake: Fix cnl_sdw_startup() error
+Subject: [PATCH 336/662] ASoC: Intel: Skylake: Fix cnl_sdw_startup() error
  path
 
 In cnl_sdw_startup function, error -EINVAL is returned after invalid

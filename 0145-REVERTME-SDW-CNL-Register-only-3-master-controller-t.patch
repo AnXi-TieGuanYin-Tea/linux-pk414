@@ -1,7 +1,7 @@
-From 8db769762b2481327a1252c2ba75653fe5084858 Mon Sep 17 00:00:00 2001
+From 5c9181c20ef82614ba2e0caabc51188db0fcd95f Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Thu, 17 Mar 2016 11:19:29 +0530
-Subject: [PATCH 145/637] REVERTME:SDW:CNL: Register only 3 master controller
+Subject: [PATCH 145/662] REVERTME:SDW:CNL: Register only 3 master controller
  to bus.
 
 There is constant BUS errors from the slaves on the 4th

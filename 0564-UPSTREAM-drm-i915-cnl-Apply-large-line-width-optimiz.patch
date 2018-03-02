@@ -1,7 +1,7 @@
-From 55c1564c88ae9f80ba24e4966a3d3f488e3cfc32 Mon Sep 17 00:00:00 2001
+From 022271a9d479daa5664aaa8c4cbd8085267d4ae9 Mon Sep 17 00:00:00 2001
 From: Rodrigo Vivi <rodrigo.vivi@intel.com>
 Date: Tue, 15 Aug 2017 16:16:51 -0700
-Subject: [PATCH 564/637] UPSTREAM: drm/i915/cnl: Apply large line width
+Subject: [PATCH 564/662] UPSTREAM: drm/i915/cnl: Apply large line width
  optimization
 
 This bit enables hardware that will change the approximation used for distances

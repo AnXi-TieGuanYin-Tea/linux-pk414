@@ -1,7 +1,7 @@
-From db81c7f21ec15fdac6e150e19547baf2436a0b8b Mon Sep 17 00:00:00 2001
+From d7c02885926e3320723aaf68b52228e6d00f8da4 Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Arve=20Hj=C3=B8nnev=C3=A5g?= <arve@android.com>
 Date: Fri, 2 May 2014 19:15:44 -0700
-Subject: [PATCH 014/637] trusty: fiq-arm64: Allow multiple fiq handlers.
+Subject: [PATCH 014/662] trusty: fiq-arm64: Allow multiple fiq handlers.
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit

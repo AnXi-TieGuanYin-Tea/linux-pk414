@@ -1,7 +1,7 @@
-From 5b3b167fdf5cf51da649f1ee4f46860cb8d459ea Mon Sep 17 00:00:00 2001
+From 4227f7ddc7bd199de477ff9e9ada74f0224347db Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Fri, 13 Oct 2017 12:49:15 +0800
-Subject: [PATCH 120/637] Fix kernel_read call param
+Subject: [PATCH 120/662] Fix kernel_read call param
 
 Linux v4.14-rc1 update kernel_read system call moving 2nd param
 offset to 4th and moving it in/out. All of feature call the function

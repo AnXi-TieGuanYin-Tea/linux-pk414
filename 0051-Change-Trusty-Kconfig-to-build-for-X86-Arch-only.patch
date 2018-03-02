@@ -1,7 +1,7 @@
-From 1259e5dc8b2d768da8bf5cd0f2eb6a852bc4cbc8 Mon Sep 17 00:00:00 2001
+From f5d593d6fb61c69e1c7c67f19b168057bfacc547 Mon Sep 17 00:00:00 2001
 From: weideng <wei.a.deng@intel.com>
 Date: Fri, 21 Apr 2017 00:52:03 +0000
-Subject: [PATCH 051/637] Change Trusty Kconfig to build for X86 Arch only
+Subject: [PATCH 051/662] Change Trusty Kconfig to build for X86 Arch only
 
 Currently Trusty only works on x86, so the module should never build
 for other archs except x86. Add this patch to add 'depends' part on

@@ -1,7 +1,7 @@
-From 2e2681903f2cd62f1202eb161b77cd1bbe7e7950 Mon Sep 17 00:00:00 2001
+From 5b51951298c87f40a6783bd42bfdb7393db11140 Mon Sep 17 00:00:00 2001
 From: "Sinha, Mohit" <mohit.sinha@intel.com>
 Date: Thu, 26 Oct 2017 14:52:16 +0530
-Subject: [PATCH 342/637] ASoC: Intel: Skylake: Avoid global kcontrol pointer
+Subject: [PATCH 342/662] ASoC: Intel: Skylake: Avoid global kcontrol pointer
  for event handling
 
 The audio driver registers multiple kcontrols to represent

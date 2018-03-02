@@ -1,7 +1,7 @@
-From 42a4d25f33cd39e7dc6fb63625bcbba2d36c1d73 Mon Sep 17 00:00:00 2001
+From 81d0f5786326930f332dc11dbe442bb9113314bd Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Thu, 10 Mar 2016 10:16:10 +0530
-Subject: [PATCH 137/637] ASoC: Add dai_ops to set the stream tag.
+Subject: [PATCH 137/662] ASoC: Add dai_ops to set the stream tag.
 
 Stream tag is introduced for supporting SoundWire links
 as part of ASoC. stream tag is unique stream identifier

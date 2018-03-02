@@ -1,7 +1,7 @@
-From b6db502a3b1a8058d7718840d83d4f51fd8c6fab Mon Sep 17 00:00:00 2001
+From 972571b6c6e6c7514aeee7f8b6ca6d829d16172a Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Tue, 22 Dec 2015 20:24:53 +0530
-Subject: [PATCH 124/637] ASoC: Intel: CNL: Add 32k and 8k rates in platform
+Subject: [PATCH 124/662] ASoC: Intel: CNL: Add 32k and 8k rates in platform
  dai
 
 Change-Id: I69ee2c69c35e24c6d27008d23f19cdfda0e4ff15

@@ -1,7 +1,7 @@
-From b86d6dd56a65543dd7f0c9fc66ab25466985d86c Mon Sep 17 00:00:00 2001
+From bde7816a770f4183dec66569751e4e57b35b55c1 Mon Sep 17 00:00:00 2001
 From: "Jayanti, Satya Charitardha" <satya.charitardha.jayanti@intel.com>
 Date: Wed, 4 Jan 2017 20:32:35 +0530
-Subject: [PATCH 258/637] ASoC: rt700: codec changes for SDW Aggregation
+Subject: [PATCH 258/662] ASoC: rt700: codec changes for SDW Aggregation
 
 Add stream aggregation changes to codec driver.
 Playback and capture can be performed using two

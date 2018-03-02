@@ -1,7 +1,7 @@
-From f9c0b69628b51127ae1b231a80771ff629c6ff74 Mon Sep 17 00:00:00 2001
+From e3eb5f8c13e3369f6ef2740aa7426d95f31a206d Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Sat, 16 Sep 2017 21:44:13 +0100
-Subject: [PATCH 602/637] UPSTREAM: drm/i915/execlists: Split insert_request()
+Subject: [PATCH 602/662] UPSTREAM: drm/i915/execlists: Split insert_request()
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit

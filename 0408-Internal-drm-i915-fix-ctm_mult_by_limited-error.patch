@@ -1,7 +1,7 @@
-From ca87aa846b236f6363617bcb37f2903f903e5bb8 Mon Sep 17 00:00:00 2001
+From f218fd3e4bf079f21039cb433080cca22e74944e Mon Sep 17 00:00:00 2001
 From: Lin Johnson <johnson.lin@intel.com>
 Date: Wed, 25 Oct 2017 15:13:39 +0800
-Subject: [PATCH 408/637] Internal: drm/i915: fix ctm_mult_by_limited error
+Subject: [PATCH 408/662] Internal: drm/i915: fix ctm_mult_by_limited error
 
 All matrix coffs should be set
 Right shift should be 28=32-2-2

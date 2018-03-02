@@ -1,7 +1,7 @@
-From 6b42a25a42bcf0b93a42b89a3588da1352bff290 Mon Sep 17 00:00:00 2001
+From 36f823199844ac4f1ca2a152c637e7a341636415 Mon Sep 17 00:00:00 2001
 From: Chang Ying <ying.chang@intel.com>
 Date: Thu, 23 Mar 2017 04:24:03 +0800
-Subject: [PATCH 445/637] drm/i915/gvt: add initial support for bxt
+Subject: [PATCH 445/662] drm/i915/gvt: add initial support for bxt
 
 1. add device definition
 2. make bxt and skl go through almost same code path

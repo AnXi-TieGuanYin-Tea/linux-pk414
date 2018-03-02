@@ -1,7 +1,7 @@
-From 60ec71625089587180a1c5a0a69d89925ad188fe Mon Sep 17 00:00:00 2001
+From e6f1e3fcc970e559294b48ad47ccb580ad89f22e Mon Sep 17 00:00:00 2001
 From: Shreyas NC <shreyas.nc@intel.com>
 Date: Wed, 8 Mar 2017 03:09:33 +0530
-Subject: [PATCH 255/637] ASoC: Intel: Skylake: Parse tokens to support
+Subject: [PATCH 255/662] ASoC: Intel: Skylake: Parse tokens to support
  aggregation
 
 To support aggregation, we need to parse the aggregation

@@ -1,7 +1,7 @@
-From 6b149707f936b810a378b6c8efe53afe73c8c4b8 Mon Sep 17 00:00:00 2001
+From 04e32e0a4ef19ff830eba4795e05da2f873d30d7 Mon Sep 17 00:00:00 2001
 From: Michael Ryleev <gmar@google.com>
 Date: Wed, 7 Jan 2015 15:47:37 -0800
-Subject: [PATCH 018/637] trusty: add trusty-ipc driver
+Subject: [PATCH 018/662] trusty: add trusty-ipc driver
 
 Trusty IPC driver provides message passing interface
 between non-secure side (Linux) and secure side running

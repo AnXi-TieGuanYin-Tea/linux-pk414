@@ -1,7 +1,7 @@
-From 186dbf7e0334eaac0adb4673c461f9ca74e2ec2c Mon Sep 17 00:00:00 2001
+From 452069aa06b10ab75df5338cf3e05a2d060f9e52 Mon Sep 17 00:00:00 2001
 From: Rajmohan Mani <rajmohan.mani@intel.com>
 Date: Fri, 28 Jul 2017 17:30:26 -0700
-Subject: [PATCH 366/637] ACPI / PMIC: Add TI PMIC TPS68470 operation region
+Subject: [PATCH 366/662] ACPI / PMIC: Add TI PMIC TPS68470 operation region
  driver
 
 The Kabylake platform coreboot (Chrome OS equivalent of

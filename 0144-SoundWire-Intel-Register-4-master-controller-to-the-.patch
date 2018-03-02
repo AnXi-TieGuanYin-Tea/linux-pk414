@@ -1,7 +1,7 @@
-From fbfdcbc27d114ca64bbb8d68c74b4046ef38a406 Mon Sep 17 00:00:00 2001
+From 79a956d484ddd52c41d6055057b3bcdecf25ce9a Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Thu, 17 Mar 2016 10:17:13 +0530
-Subject: [PATCH 144/637] SoundWire:Intel: Register 4 master controller to the
+Subject: [PATCH 144/662] SoundWire:Intel: Register 4 master controller to the
  bus.
 
 This patch registers the 4 master controller to the bus.

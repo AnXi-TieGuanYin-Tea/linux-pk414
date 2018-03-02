@@ -1,7 +1,7 @@
-From 5ebe50913f144800262a77c8adc76b412b3153f3 Mon Sep 17 00:00:00 2001
+From 6f129fcdd67141d13679a3fa9c4e82307163ac89 Mon Sep 17 00:00:00 2001
 From: Sanyog Kale <sanyog.r.kale@intel.com>
 Date: Tue, 21 Feb 2017 15:51:38 +0530
-Subject: [PATCH 253/637] ASoC: Intel: Remove pdi_type support from topology
+Subject: [PATCH 253/662] ASoC: Intel: Remove pdi_type support from topology
 
 The pdi_type tag used for SoundWire device type
 is not used, so removing support from driver.

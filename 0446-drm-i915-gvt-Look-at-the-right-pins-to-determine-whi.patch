@@ -1,7 +1,7 @@
-From 7dddd2cd094c98184dbc6d32f1ea4582db0e1ab5 Mon Sep 17 00:00:00 2001
+From c5b96c4d2acce5441411a2681a36e83ad9d80597 Mon Sep 17 00:00:00 2001
 From: Vivek Kasireddy <vivek.kasireddy@intel.com>
 Date: Thu, 23 Mar 2017 04:24:04 +0800
-Subject: [PATCH 446/637] drm/i915/gvt: Look at the right pins to determine
+Subject: [PATCH 446/662] drm/i915/gvt: Look at the right pins to determine
  which port is connected
 
 Also, make sure DomU sees the updates to GEN8_DE_PORT_ISR (instead of

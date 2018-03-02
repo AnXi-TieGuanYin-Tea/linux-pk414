@@ -1,7 +1,7 @@
-From 9fda646131622c4247552d24867ec2165bd36073 Mon Sep 17 00:00:00 2001
+From 9aea32458f1a1aaba0ff1735dd15565e8e703143 Mon Sep 17 00:00:00 2001
 From: Jani Nikula <jani.nikula@intel.com>
 Date: Tue, 12 Sep 2017 11:19:26 +0300
-Subject: [PATCH 559/637] UPSTREAM: drm: handle override and firmware EDID at
+Subject: [PATCH 559/662] UPSTREAM: drm: handle override and firmware EDID at
  drm_do_get_edid() level
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

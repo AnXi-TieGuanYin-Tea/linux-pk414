@@ -1,7 +1,7 @@
-From 8df9e8e03b3e92910feb4290f9326148d8e0f62b Mon Sep 17 00:00:00 2001
+From c2a5a0c58ed98524013874f6413bff42f3445e3f Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Thu, 1 Jun 2017 12:28:15 -0700
-Subject: [PATCH 062/637] x86/insn-eval: Add utility function to get segment
+Subject: [PATCH 062/662] x86/insn-eval: Add utility function to get segment
  descriptor
 
 The segment descriptor contains information that is relevant to how linear

@@ -1,7 +1,7 @@
-From 1349e2764e3ac434e96b339cd30dd3f18b5050a0 Mon Sep 17 00:00:00 2001
+From 24eb73baa8462d5962d87b90e5da5e2eb4006b6c Mon Sep 17 00:00:00 2001
 From: Yin Fengwei <fengwei.yin@intel.com>
 Date: Wed, 10 Jan 2018 20:22:07 +0800
-Subject: [PATCH 442/637] Klocwork: Fix Klocwork 21299 issue.
+Subject: [PATCH 442/662] Klocwork: Fix Klocwork 21299 issue.
 
 "'gpa2hpa.hpa' is used. But is uninitialized."
 

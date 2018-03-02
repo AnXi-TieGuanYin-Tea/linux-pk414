@@ -1,7 +1,7 @@
-From 5ff100c29515cd1500763bcc36b0e8c8fed77173 Mon Sep 17 00:00:00 2001
+From 246253a6c88e9cdf9417abcc0c891710e05134a8 Mon Sep 17 00:00:00 2001
 From: Anil Bhawangirkar <anil.k.bhawangirkar@intel.com>
 Date: Wed, 17 Aug 2016 12:19:51 +0530
-Subject: [PATCH 211/637] ASoC: Intel: CNL: Fetch ACPI data for SoundWire
+Subject: [PATCH 211/662] ASoC: Intel: CNL: Fetch ACPI data for SoundWire
  Master
 
 The DSDT table contains information about the SoundWire capabalities

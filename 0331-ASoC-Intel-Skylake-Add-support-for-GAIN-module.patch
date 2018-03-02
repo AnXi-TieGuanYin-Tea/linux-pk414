@@ -1,7 +1,7 @@
-From db876e851d8f7492afb23c26431c9a6ced76f463 Mon Sep 17 00:00:00 2001
+From 3f9e53a0c37947ed4a951d2bda2b0e236cc991c3 Mon Sep 17 00:00:00 2001
 From: "Dharageswari.R" <dharageswari.r@intel.com>
 Date: Tue, 25 Jul 2017 17:49:58 +0530
-Subject: [PATCH 331/637] ASoC: Intel: Skylake: Add support for GAIN module
+Subject: [PATCH 331/662] ASoC: Intel: Skylake: Add support for GAIN module
 
 Gain module is represented by three entities such as Ramp Duration,
 Ramp Type and Volume controlled by three kcontrols. These kcontrols

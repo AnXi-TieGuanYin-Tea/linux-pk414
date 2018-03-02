@@ -1,7 +1,7 @@
-From 6a955c609db2abf92ae7fbc266c08504836184b1 Mon Sep 17 00:00:00 2001
+From 21555c81cc396faaba5f4f932f7ee497f8fe8ffc Mon Sep 17 00:00:00 2001
 From: Jason Chen CJ <jason.cj.chen@intel.com>
 Date: Tue, 26 Dec 2017 03:22:14 +0800
-Subject: [PATCH 419/637] x86:cwp: add cpu_khz pv ops to get cpu khz from pv
+Subject: [PATCH 419/662] x86:cwp: add cpu_khz pv ops to get cpu khz from pv
  method
 
 added pv ops cpu_khz into pv_cpu_ops, the function cpu_khz_from_paravirt

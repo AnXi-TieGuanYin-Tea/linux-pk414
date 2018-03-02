@@ -1,7 +1,7 @@
-From ec0c0b9597217b66558b8ea0d38d5d3e2bc60e01 Mon Sep 17 00:00:00 2001
+From 816482bf89cb859b07cbf93026d3795328361ee0 Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Mon, 23 Oct 2017 22:32:36 +0100
-Subject: [PATCH 634/637] UPSTREAM: drm/i915: Filter out spurious execlists
+Subject: [PATCH 634/662] UPSTREAM: drm/i915: Filter out spurious execlists
  context-switch interrupts
 
 Back in commit a4b2b01523a8 ("drm/i915: Don't mark an execlists

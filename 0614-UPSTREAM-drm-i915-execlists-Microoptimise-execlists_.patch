@@ -1,7 +1,7 @@
-From b2521ec796e694dc75a693a760d85f14929f689d Mon Sep 17 00:00:00 2001
+From ae3a36373085e7fc55d497ff863db30c9a626582 Mon Sep 17 00:00:00 2001
 From: Chris Wilson <chris@chris-wilson.co.uk>
 Date: Mon, 25 Sep 2017 13:49:27 +0100
-Subject: [PATCH 614/637] UPSTREAM: drm/i915/execlists: Microoptimise
+Subject: [PATCH 614/662] UPSTREAM: drm/i915/execlists: Microoptimise
  execlists_cancel_port_request()
 
 Just rearrange the code slightly to trim the number of iterations

@@ -1,7 +1,7 @@
-From 9344d994a064fc3eb682cc0ebc5157ca721e2535 Mon Sep 17 00:00:00 2001
+From 12f343953ca2fae132416dcf9e63678f843b72a3 Mon Sep 17 00:00:00 2001
 From: Binbin Wu <binbin.wu@intel.com>
 Date: Fri, 29 Dec 2017 17:11:18 +0800
-Subject: [PATCH 427/637] VHM: add passthrough device support
+Subject: [PATCH 427/662] VHM: add passthrough device support
 
 add following ioctl in vhm_dev to support device passthrough
 - assign, deassign pass-through device

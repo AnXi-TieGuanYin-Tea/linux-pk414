@@ -1,7 +1,7 @@
-From 65ffeaa5ca88458af586994b728341fd6ca2d1d4 Mon Sep 17 00:00:00 2001
+From 4f1c3a28e8d1c6a427c809bef998bfdb7ad02615 Mon Sep 17 00:00:00 2001
 From: Divya Prakash <divya1.prakash@intel.com>
 Date: Wed, 20 Apr 2016 10:04:07 +0530
-Subject: [PATCH 197/637] ALSA: hda: Service buffer completed interrupts for
+Subject: [PATCH 197/662] ALSA: hda: Service buffer completed interrupts for
  compress streams
 
 In case of the IOC bit being enabled, receive and

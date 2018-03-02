@@ -1,7 +1,7 @@
-From 48a67ad553d1463308c39dc81f236097522f61f0 Mon Sep 17 00:00:00 2001
+From 68af9b3ffc400eb51542a80d6d22df17d7166b06 Mon Sep 17 00:00:00 2001
 From: Pankaj Bharadiya <pankaj.laxminarayan.bharadiya@intel.com>
 Date: Wed, 6 Sep 2017 14:04:55 +0530
-Subject: [PATCH 334/637] ASoC: Intel: Skylake: Fix codec_dai NULL pointer
+Subject: [PATCH 334/662] ASoC: Intel: Skylake: Fix codec_dai NULL pointer
  dereferening
 
 Pointer 'codec_dai' returned from call to cnl_get_codec_dai() can be

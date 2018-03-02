@@ -1,7 +1,7 @@
-From a4e9b092c59be413a6870d9de99a008e55288d23 Mon Sep 17 00:00:00 2001
+From 274753d7b6a1a94a5f8a35e7cc6e19b8285564e3 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Mon, 17 Oct 2016 00:15:45 +0300
-Subject: [PATCH 081/637] mei: hbm: define dma ring setup protocol
+Subject: [PATCH 081/662] mei: hbm: define dma ring setup protocol
 
 The protocol defines how to setup an I/O ring on top of host
 memory to utilize the device DMA engine for faster transport.

@@ -1,7 +1,7 @@
-From 7262de0a8acfcb2540b3ff8db5a47f56add3b6d9 Mon Sep 17 00:00:00 2001
+From 39a275c598892aeccd48398a7571f9daae1ca0ab Mon Sep 17 00:00:00 2001
 From: Michel Thierry <michel.thierry@intel.com>
 Date: Wed, 13 Sep 2017 09:56:00 +0100
-Subject: [PATCH 588/637] UPSTREAM: drm/i915/lrc: Clarify the format of the
+Subject: [PATCH 588/662] UPSTREAM: drm/i915/lrc: Clarify the format of the
  context image
 
 Not only the context image consist of two parts (the PPHWSP, and the

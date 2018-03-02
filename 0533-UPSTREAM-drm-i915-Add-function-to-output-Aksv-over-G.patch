@@ -1,7 +1,7 @@
-From fd843b78a949c3d9583395ced208622d308d2d07 Mon Sep 17 00:00:00 2001
+From 7d84fcd46e98b7c3cf65422b60a96baca1f75ff4 Mon Sep 17 00:00:00 2001
 From: Sean Paul <seanpaul@chromium.org>
 Date: Mon, 8 Jan 2018 14:55:41 -0500
-Subject: [PATCH 533/637] UPSTREAM: drm/i915: Add function to output Aksv over
+Subject: [PATCH 533/662] UPSTREAM: drm/i915: Add function to output Aksv over
  GMBUS
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

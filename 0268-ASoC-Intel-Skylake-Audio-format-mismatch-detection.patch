@@ -1,7 +1,7 @@
-From 8219399b0fadbaceb303a321897547f08df189ca Mon Sep 17 00:00:00 2001
+From 6a651dc9810738307b5b90ee53b7f273e8107465 Mon Sep 17 00:00:00 2001
 From: Praveen Diwakar <praveen.diwakar@intel.com>
 Date: Wed, 8 Mar 2017 20:12:57 +0530
-Subject: [PATCH 268/637] ASoC: Intel: Skylake: Audio format mismatch detection
+Subject: [PATCH 268/662] ASoC: Intel: Skylake: Audio format mismatch detection
 
 This patch detects mismatch in audio format for source and destination
 modules. It prints warning to inform a mismatch

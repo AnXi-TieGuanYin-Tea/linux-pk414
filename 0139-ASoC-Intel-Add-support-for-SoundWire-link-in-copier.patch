@@ -1,7 +1,7 @@
-From 439f5ef688ece568a6bc8287c29178104d6551d9 Mon Sep 17 00:00:00 2001
+From 2970693af69db1eb228f2f637b4ecae95fe74577 Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Thu, 10 Mar 2016 11:25:19 +0530
-Subject: [PATCH 139/637] ASoC: Intel: Add support for SoundWire link in
+Subject: [PATCH 139/662] ASoC: Intel: Add support for SoundWire link in
  copier.
 
 This patch adds the support for the SoundWire link

@@ -1,7 +1,7 @@
-From 6178b48392c003546a68294441d515c47b810ffa Mon Sep 17 00:00:00 2001
+From e8f07b5fc008e764cc819057fef033efb6637ef7 Mon Sep 17 00:00:00 2001
 From: Joonas Lahtinen <joonas.lahtinen@linux.intel.com>
 Date: Wed, 13 Sep 2017 14:52:54 +0300
-Subject: [PATCH 592/637] UPSTREAM: drm/i915: Introduce INTEL_GEN_MASK
+Subject: [PATCH 592/662] UPSTREAM: drm/i915: Introduce INTEL_GEN_MASK
 
 Split INTEL_GEN_MASK out of IS_GEN macro, and make it usable
 within static declarations (unlike compound statements).

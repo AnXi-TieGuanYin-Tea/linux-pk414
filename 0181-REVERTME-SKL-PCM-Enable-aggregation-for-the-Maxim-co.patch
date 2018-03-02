@@ -1,7 +1,7 @@
-From b1987093925cb6f0eec62b69ab45b795a08f9f02 Mon Sep 17 00:00:00 2001
+From 699f84fe822cd2bc213be56d02f3ce96e9bb3fc7 Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Fri, 20 May 2016 15:02:36 +0530
-Subject: [PATCH 181/637] REVERTME:SKL:PCM: Enable aggregation for the Maxim
+Subject: [PATCH 181/662] REVERTME:SKL:PCM: Enable aggregation for the Maxim
  codec.
 
 Set the aggregation parameters if Maxim codec is enabled.

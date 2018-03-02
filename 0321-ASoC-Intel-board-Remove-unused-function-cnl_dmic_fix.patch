@@ -1,7 +1,7 @@
-From 4be4570e7af569f444dedae7f5a2821009b093c5 Mon Sep 17 00:00:00 2001
+From 1f442f612fe5fa2359a3c0e1b6f9ddb571b9673e Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Thu, 7 Sep 2017 09:58:03 +0530
-Subject: [PATCH 321/637] ASoC: Intel: board: Remove unused function
+Subject: [PATCH 321/662] ASoC: Intel: board: Remove unused function
  cnl_dmic_fixup
 
 cnl_dmic_fixup is never used, remove it to shun compiler warning.

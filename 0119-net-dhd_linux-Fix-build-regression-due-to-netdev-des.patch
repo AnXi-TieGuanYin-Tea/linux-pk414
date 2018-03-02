@@ -1,7 +1,7 @@
-From 51d20e5cb0f7c01a292b2199d9df19cd4732efe0 Mon Sep 17 00:00:00 2001
+From eeccd8501cddf8c6d8ab96e124cc014dc4e8c563 Mon Sep 17 00:00:00 2001
 From: Sathyanarayanan Kuppuswamy <sathyanarayanan.kuppuswamy@intel.com>
 Date: Tue, 20 Jun 2017 11:07:07 -0700
-Subject: [PATCH 119/637] net: dhd_linux: Fix build regression due to netdev
+Subject: [PATCH 119/662] net: dhd_linux: Fix build regression due to netdev
  destructor fix.
 
 Fixes the regression introduced by netdev destructor fix.

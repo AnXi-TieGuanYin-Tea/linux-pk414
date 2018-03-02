@@ -1,7 +1,7 @@
-From 628e397b6d2923f356a7fd32a2038e5d913f0fac Mon Sep 17 00:00:00 2001
+From ca65f12cd727254f4a4c3d10908ab94c12e0591c Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Sun, 12 Mar 2017 12:21:05 +0200
-Subject: [PATCH 101/637] scsi: ufs: ufshcd_dump_regs to use memcpy_fromio
+Subject: [PATCH 101/662] scsi: ufs: ufshcd_dump_regs to use memcpy_fromio
 
 ufshcd_dump_regs should use memcpy_fromio to read host registers
 instead of directly accessing using memcpy.

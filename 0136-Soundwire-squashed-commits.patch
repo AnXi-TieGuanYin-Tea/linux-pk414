@@ -1,7 +1,7 @@
-From 8b83412b22c2dabe8d3e15caef51eb0ebba2677e Mon Sep 17 00:00:00 2001
+From e0fd778833f8ce962663cb7f7e40bb63060b60fd Mon Sep 17 00:00:00 2001
 From: Hardik T Shah <hardik.t.shah@intel.com>
 Date: Tue, 8 Mar 2016 16:00:37 +0530
-Subject: [PATCH 136/637] Soundwire squashed commits
+Subject: [PATCH 136/662] Soundwire squashed commits
 
 SoundWire: Add place holder for the soundwire bus driver header file
 

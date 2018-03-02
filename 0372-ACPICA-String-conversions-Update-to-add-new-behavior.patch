@@ -1,7 +1,7 @@
-From ee25c9a54942460f64263f251af7ab013aa19eeb Mon Sep 17 00:00:00 2001
+From 244bc06d90100eb8e9b5f9437f2712cccdad15c2 Mon Sep 17 00:00:00 2001
 From: Bob Moore <robert.moore@intel.com>
 Date: Wed, 20 Sep 2017 10:00:49 +0800
-Subject: [PATCH 372/637] ACPICA: String conversions: Update to add new
+Subject: [PATCH 372/662] ACPICA: String conversions: Update to add new
  behaviors
 
 ACPICA commit e3574138af82a25d76324559848689946982dbd0

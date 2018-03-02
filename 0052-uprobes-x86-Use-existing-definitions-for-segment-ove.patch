@@ -1,7 +1,7 @@
-From 907b1bcd0b920372a48cf184be3a51d581760180 Mon Sep 17 00:00:00 2001
+From f46bed2a170ff26b2fa8e875dd0221857ec93736 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Wed, 7 Jun 2017 17:50:32 -0700
-Subject: [PATCH 052/637] uprobes/x86: Use existing definitions for segment
+Subject: [PATCH 052/662] uprobes/x86: Use existing definitions for segment
  override prefixes
 
 Rather than using hard-coded values of the segment override prefixes,

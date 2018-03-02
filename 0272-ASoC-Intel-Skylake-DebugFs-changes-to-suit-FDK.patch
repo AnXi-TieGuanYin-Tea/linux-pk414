@@ -1,7 +1,7 @@
-From b6db7f054e93399ede6e3409b725b2834d6dd760 Mon Sep 17 00:00:00 2001
+From d8ff45b25bbd8ad3e12d898c6a6e5f4cc0d8f9ef Mon Sep 17 00:00:00 2001
 From: Pardha Saradhi K <pardha.saradhi.kesapragada@intel.com>
 Date: Thu, 25 Feb 2016 12:06:18 +0530
-Subject: [PATCH 272/637] ASoC: Intel: Skylake: DebugFs changes to suit FDK
+Subject: [PATCH 272/662] ASoC: Intel: Skylake: DebugFs changes to suit FDK
 
 Following changes have been made in the generic ipc
 debugfs interface to better suit the FDK implementation

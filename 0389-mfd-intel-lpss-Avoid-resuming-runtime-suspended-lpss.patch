@@ -1,7 +1,7 @@
-From 5614b30fedea9799b8e108a4dbe6d878c3ade284 Mon Sep 17 00:00:00 2001
+From f2bbfbfca58f517b82d69fd473e70993cc269b50 Mon Sep 17 00:00:00 2001
 From: Chen Yu <yu.c.chen@intel.com>
 Date: Thu, 29 Sep 2016 13:01:26 +0800
-Subject: [PATCH 389/637] mfd: intel-lpss: Avoid resuming runtime-suspended
+Subject: [PATCH 389/662] mfd: intel-lpss: Avoid resuming runtime-suspended
  lpss unnecessarily
 
 We have report that the intel_lpss_prepare() takes too much time during

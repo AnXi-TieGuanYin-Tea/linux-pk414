@@ -1,7 +1,7 @@
-From 0bce42b51fe50a6b3b311765f0dd067d3cbf1c1e Mon Sep 17 00:00:00 2001
+From 5dd81e3cc0b16907036fb09a3908c3974c690ad7 Mon Sep 17 00:00:00 2001
 From: Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>
 Date: Thu, 9 Feb 2017 18:40:06 -0800
-Subject: [PATCH 003/637] thermal: Add processor thermal device support
+Subject: [PATCH 003/662] thermal: Add processor thermal device support
 
 Signed-off-by: Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>
 ---

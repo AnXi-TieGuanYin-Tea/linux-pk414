@@ -1,7 +1,7 @@
-From 44bda77fccfd70bc913a25b60400f656c9b3aea1 Mon Sep 17 00:00:00 2001
+From b31100c8d125bcd453bce36c56f0c49d0fb52753 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Sat, 15 Apr 2017 08:00:33 +0800
-Subject: [PATCH 482/637] drm/i915/gvt: remove some initialization of ggtt in
+Subject: [PATCH 482/662] drm/i915/gvt: remove some initialization of ggtt in
  GVTg guest
 
 This patch removed the initialization for the ggtt holes in GVT-g guest.

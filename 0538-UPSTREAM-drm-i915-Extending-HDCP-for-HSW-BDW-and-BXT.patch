@@ -1,7 +1,7 @@
-From a03435609845d057ce3068298c72b2ad4f95cf3c Mon Sep 17 00:00:00 2001
+From 717a87d2778e583c4c3aed12b74cfb17e57dddc7 Mon Sep 17 00:00:00 2001
 From: Ramalingam C <ramalingam.c@intel.com>
 Date: Thu, 18 Jan 2018 11:18:05 +0530
-Subject: [PATCH 538/637] UPSTREAM: drm/i915: Extending HDCP for HSW, BDW and
+Subject: [PATCH 538/662] UPSTREAM: drm/i915: Extending HDCP for HSW, BDW and
  BXT+
 
 This patch extends the Key load process and hdcp initialization for

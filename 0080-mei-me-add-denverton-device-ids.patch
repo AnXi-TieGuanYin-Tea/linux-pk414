@@ -1,7 +1,7 @@
-From e43c8dd3a3f5a7035b16a3ba3b9230d166136a6a Mon Sep 17 00:00:00 2001
+From b98dc5c7d86176331c9596d0d49f79b0bb587d71 Mon Sep 17 00:00:00 2001
 From: Tomas Winkler <tomas.winkler@intel.com>
 Date: Thu, 14 Apr 2016 21:38:43 -0400
-Subject: [PATCH 080/637] mei: me: add denverton device ids
+Subject: [PATCH 080/662] mei: me: add denverton device ids
 
 Denverton is a 14nm SoC containing up to 16 Goldmont Atom cores.
 

@@ -1,7 +1,7 @@
-From 817451f6eb6259dbb00e34b21e6e2ec95f787df0 Mon Sep 17 00:00:00 2001
+From 527314155e1e654af78d213a87a28930456b6455 Mon Sep 17 00:00:00 2001
 From: Jeff McGee <jeff.mcgee@intel.com>
 Date: Tue, 3 Oct 2017 21:34:45 +0100
-Subject: [PATCH 624/637] UPSTREAM: drm/i915/preempt: Fix
+Subject: [PATCH 624/662] UPSTREAM: drm/i915/preempt: Fix
  WaEnablePreemptionGranularityControlByUMD
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8

@@ -1,7 +1,7 @@
-From 41494e3061406102fc1f7bc2b42ee840e335f244 Mon Sep 17 00:00:00 2001
+From 0077a6dbe08d09d58ca0393b13a0350af3771944 Mon Sep 17 00:00:00 2001
 From: Rodrigo Vivi <rodrigo.vivi@intel.com>
 Date: Tue, 15 Aug 2017 16:16:50 -0700
-Subject: [PATCH 563/637] UPSTREAM: drm/i915/cnl:
+Subject: [PATCH 563/662] UPSTREAM: drm/i915/cnl:
  WaDisableEnhancedSBEVertexCaching
 
 WA forTDS handle reallocation getting dropped by SDE,

@@ -1,7 +1,7 @@
-From 958e027165e7074de8d420a84d3720155a431be9 Mon Sep 17 00:00:00 2001
+From ae7dd1ce2b81e142bbdcfbfe3a4e8bcbcd1c61cc Mon Sep 17 00:00:00 2001
 From: "Panwar, Ashish" <ashish.panwar@intel.com>
 Date: Fri, 26 Feb 2016 02:02:48 +0530
-Subject: [PATCH 185/637] ASoC: Intel: Skylake: Check buffer users and prevent
+Subject: [PATCH 185/662] ASoC: Intel: Skylake: Check buffer users and prevent
  concurrent writers
 
 More than one writer on log buffer will cause data corruption.

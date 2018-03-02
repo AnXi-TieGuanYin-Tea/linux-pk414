@@ -1,7 +1,7 @@
-From 91aaf181c2af635d6447e9bea7fd6d18515e6d0e Mon Sep 17 00:00:00 2001
+From d2b76ce73f62c859dda8924474c6ac02798d82c5 Mon Sep 17 00:00:00 2001
 From: Kareem Shaik <kareem.m.shaik@intel.com>
 Date: Tue, 31 Oct 2017 15:44:52 +0530
-Subject: [PATCH 343/637] ASoC: Intel: Skylake: Return default sampling rate
+Subject: [PATCH 343/662] ASoC: Intel: Skylake: Return default sampling rate
  for Probe compress devices.
 
 Defining sampling rate for getting Probe data from probe compress

@@ -1,7 +1,7 @@
-From 10503cbe47dda5d587c7a805b94f97d8048d66be Mon Sep 17 00:00:00 2001
+From f04e0b908ac1d8269c04020e98cb32f3af861830 Mon Sep 17 00:00:00 2001
 From: "Rafael J. Wysocki" <rafael.j.wysocki@intel.com>
 Date: Mon, 25 Sep 2017 14:56:44 +0200
-Subject: [PATCH 347/637] PM / core: Drop legacy class suspend/resume
+Subject: [PATCH 347/662] PM / core: Drop legacy class suspend/resume
  operations
 
 There are no classes using the legacy suspend/resume operations in

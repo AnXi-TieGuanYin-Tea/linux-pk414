@@ -1,7 +1,7 @@
-From cbe51952cf13c6fd6dbac950b7aa0ecb67de4fa6 Mon Sep 17 00:00:00 2001
+From 04318a4d146303f921828fcbce95c23e116a0b11 Mon Sep 17 00:00:00 2001
 From: Sean Paul <seanpaul@chromium.org>
 Date: Mon, 8 Jan 2018 14:55:39 -0500
-Subject: [PATCH 531/637] UPSTREAM: drm/i915: Add HDCP framework + base
+Subject: [PATCH 531/662] UPSTREAM: drm/i915: Add HDCP framework + base
  implementation
 
 This patch adds the framework required to add HDCP support to intel

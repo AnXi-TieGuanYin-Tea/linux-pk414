@@ -1,7 +1,7 @@
-From 18f7f0b5ff5286cbed61f6c6147e601c7ff5662f Mon Sep 17 00:00:00 2001
+From 46907413037ee4a9fe8e6b95171764b7840a0b51 Mon Sep 17 00:00:00 2001
 From: Brahim Abes <brahimx.abes@intel.com>
 Date: Thu, 4 Jan 2018 21:51:33 +0800
-Subject: [PATCH 495/637] drm/915/gvt: Add new trace point to output per domain
+Subject: [PATCH 495/662] drm/915/gvt: Add new trace point to output per domain
  info
 
 Added trace point "i915_gem_request_add_domain" that prints the following

@@ -1,7 +1,7 @@
-From 0320e0af026cde9dbb3934be0e4fa7f70c82ca25 Mon Sep 17 00:00:00 2001
+From 611e31774b66fb3567f49d5e07f484f87606a1d7 Mon Sep 17 00:00:00 2001
 From: Yael Samet <yael.samet@intel.com>
 Date: Tue, 5 Sep 2017 14:07:32 +0300
-Subject: [PATCH 551/637] mei: dal: add character device for user space
+Subject: [PATCH 551/662] mei: dal: add character device for user space
  interface
 
 DAL user space interface allow sending raw messages from user-space

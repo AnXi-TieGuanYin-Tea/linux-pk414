@@ -1,7 +1,7 @@
-From 0a5e7e4fe68bcc8dd9a2b8237cd9dcee0c4cbb66 Mon Sep 17 00:00:00 2001
+From 24b084f58aa449a1e05194493a13b91608fd31a7 Mon Sep 17 00:00:00 2001
 From: "Kareem,Shaik" <kareem.m.shaik@intel.com>
 Date: Thu, 15 Jun 2017 13:40:04 +0530
-Subject: [PATCH 303/637] ASoC: Intel: Skylake: Add support for always on CLK
+Subject: [PATCH 303/662] ASoC: Intel: Skylake: Add support for always on CLK
  configuration
 
 For some platforms it is required that ADSP generate BCLK, Frame_sync

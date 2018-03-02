@@ -1,7 +1,7 @@
-From cce3774fc82b9b568f1f5fb2df1e07504f40852a Mon Sep 17 00:00:00 2001
+From 27169cb2dce2782524d17d3e0dba53af19bf4139 Mon Sep 17 00:00:00 2001
 From: Min He <min.he@intel.com>
 Date: Wed, 29 Mar 2017 01:59:41 +0800
-Subject: [PATCH 454/637] drm/i915/gvt: passthru PIPE_DSL regiser to guest
+Subject: [PATCH 454/662] drm/i915/gvt: passthru PIPE_DSL regiser to guest
 
 Change-Id: I4d903a982052b8b241f090a91e2251d66bba2778
 Signed-off-by: Min He <min.he@intel.com>

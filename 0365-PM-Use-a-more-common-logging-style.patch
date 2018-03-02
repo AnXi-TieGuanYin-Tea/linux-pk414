@@ -1,7 +1,7 @@
-From 8e5296e7bddeebda09818b5acbf848c5bd28ce1d Mon Sep 17 00:00:00 2001
+From 99ada90ae9b50b72c675e82a67435606d6f24f13 Mon Sep 17 00:00:00 2001
 From: Joe Perches <joe@perches.com>
 Date: Wed, 27 Sep 2017 22:01:34 -0700
-Subject: [PATCH 365/637] PM: Use a more common logging style
+Subject: [PATCH 365/662] PM: Use a more common logging style
 
 Convert printks to pr_<level>.
 

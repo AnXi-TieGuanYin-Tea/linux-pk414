@@ -1,7 +1,7 @@
-From b8e7bb7932ca4208895b730a6e9ac16b5d79f655 Mon Sep 17 00:00:00 2001
+From 8d4e25eab6607aafd41a0bfdfe2cd093546bc106 Mon Sep 17 00:00:00 2001
 From: "Gogineni, GiribabuX" <giribabux.gogineni@intel.com>
 Date: Tue, 15 Aug 2017 16:36:28 +0530
-Subject: [PATCH 316/637] ASoC: tdf8532: Fix compilation warnings
+Subject: [PATCH 316/662] ASoC: tdf8532: Fix compilation warnings
 
 Initialized the reported variables, listed below
 

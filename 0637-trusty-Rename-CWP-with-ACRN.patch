@@ -1,7 +1,7 @@
-From 80f7f80803cd91ac5e8247def4df9d71baeb276d Mon Sep 17 00:00:00 2001
+From 99c9007496cc3289fa9afa4adb9822538abccd44 Mon Sep 17 00:00:00 2001
 From: "Qi, Yadong" <yadong.qi@intel.com>
 Date: Mon, 26 Feb 2018 09:48:06 +0800
-Subject: [PATCH 637/637] trusty: Rename CWP with ACRN
+Subject: [PATCH 637/662] trusty: Rename CWP with ACRN
 
 The CWP hypervisor has been renamed to ACRN.
 

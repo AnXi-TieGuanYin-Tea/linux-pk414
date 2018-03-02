@@ -1,7 +1,7 @@
-From 10f289ae379a85e808edb7cd13f436eb7f6bc71e Mon Sep 17 00:00:00 2001
+From 264b30d09c2586802a1a02318c01d9c743291850 Mon Sep 17 00:00:00 2001
 From: Shreyas NC <shreyas.nc@intel.com>
 Date: Mon, 23 Jan 2017 05:43:58 +0530
-Subject: [PATCH 246/637] ASoC: Intel: Skylake: Update SDW BRA interface
+Subject: [PATCH 246/662] ASoC: Intel: Skylake: Update SDW BRA interface
 
 Change SoundWire BRA interfaces to accommodate updated driver
 module config structures.

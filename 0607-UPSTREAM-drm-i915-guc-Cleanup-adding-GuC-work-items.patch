@@ -1,7 +1,7 @@
-From f7289d084c438c262f12aca36129b2a07be1c973 Mon Sep 17 00:00:00 2001
+From 49d294875c18e84230a000a2582ce186a932c4d5 Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Micha=C5=82=20Winiarski?= <michal.winiarski@intel.com>
 Date: Mon, 18 Sep 2017 11:25:35 +0200
-Subject: [PATCH 607/637] UPSTREAM: drm/i915/guc: Cleanup adding GuC work items
+Subject: [PATCH 607/662] UPSTREAM: drm/i915/guc: Cleanup adding GuC work items
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: 8bit

@@ -1,7 +1,7 @@
-From fded38d29ff11eaa39f4ce85aa0cb463750f9a1c Mon Sep 17 00:00:00 2001
+From 3e3ceee1f54283c819c91f0b87be58ba5eb1f374 Mon Sep 17 00:00:00 2001
 From: Ricardo Neri <ricardo.neri-calderon@linux.intel.com>
 Date: Thu, 1 Jun 2017 12:29:23 -0700
-Subject: [PATCH 063/637] x86/insn-eval: Add utility functions to get segment
+Subject: [PATCH 063/662] x86/insn-eval: Add utility functions to get segment
  descriptor base address and limit
 
 With segmentation, the base address of the segment is needed to compute a

@@ -1,7 +1,7 @@
-From 0761896b05e200a72ee328fd022a50c252fcf4a9 Mon Sep 17 00:00:00 2001
+From 7ef62de43e57cf008984ebfb2dd68dcd448ccdb1 Mon Sep 17 00:00:00 2001
 From: Yael Samet <yael.samet@intel.com>
 Date: Mon, 11 Sep 2017 09:24:28 +0300
-Subject: [PATCH 553/637] mei: dal: add exclusive access menagement
+Subject: [PATCH 553/662] mei: dal: add exclusive access menagement
 
 The exclusive access option  allows a kernel space client to restrict
 access to specified trusted application.

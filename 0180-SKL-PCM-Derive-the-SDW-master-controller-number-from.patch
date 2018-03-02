@@ -1,7 +1,7 @@
-From 51904511ed13c963879d9ded4682fc1a28bff539 Mon Sep 17 00:00:00 2001
+From ad8fbf3799598b26ebffd48f82ce90325aec7ff0 Mon Sep 17 00:00:00 2001
 From: Hardik Shah <hardik.t.shah@intel.com>
 Date: Fri, 20 May 2016 14:55:05 +0530
-Subject: [PATCH 180/637] SKL:PCM: Derive the SDW master controller number from
+Subject: [PATCH 180/662] SKL:PCM: Derive the SDW master controller number from
  be_id.
 
 SDW Master number or SSP instance number can be derived from

@@ -1,7 +1,7 @@
-From c021ae60267def6b5dd01919ea5f6a0a7fb4e2ab Mon Sep 17 00:00:00 2001
+From e499cf6e972a593e3c66c4b4c7057c82917278fd Mon Sep 17 00:00:00 2001
 From: Jason Zeng <jason.zeng@intel.com>
 Date: Fri, 29 Dec 2017 16:11:54 +0800
-Subject: [PATCH 422/637] VHM: add guest memory remote mapping support
+Subject: [PATCH 422/662] VHM: add guest memory remote mapping support
 
 There is use case which needs do data operation based on guest physical
 address. This patch added such support to do remote mapping for guest

@@ -1,7 +1,7 @@
-From 6442fcc1fe064be46d67601751faa4c0fc16c052 Mon Sep 17 00:00:00 2001
+From b071d855567e2b84de0e13007c9a3d2043123084 Mon Sep 17 00:00:00 2001
 From: "Yan, Shaopu" <shaopu.yan@intel.com>
 Date: Mon, 13 Mar 2017 13:22:21 +0800
-Subject: [PATCH 038/637] trusty-ipc: change DEFAULT_MSG_BUF_SIZE to 68K
+Subject: [PATCH 038/662] trusty-ipc: change DEFAULT_MSG_BUF_SIZE to 68K
 
 after hw-backed keymaster enabled, the cts cases of testLargeMsgKat and
 testLongMsgKat both will failed due to the default CHUNK size(64K) is

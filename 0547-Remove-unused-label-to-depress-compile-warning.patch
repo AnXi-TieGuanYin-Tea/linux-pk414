@@ -1,7 +1,7 @@
-From ab5937c5d8b11a43abe310009a74ec4625fc3302 Mon Sep 17 00:00:00 2001
+From 6336f35912c81e9b4cbf18cfabc8429cc22b940a Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Wed, 14 Feb 2018 15:14:20 +0800
-Subject: [PATCH 547/637] Remove unused label to depress compile warning
+Subject: [PATCH 547/662] Remove unused label to depress compile warning
 
 As title, remove a unused label to depress compile wrning
 

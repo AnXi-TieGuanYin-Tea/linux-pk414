@@ -1,7 +1,7 @@
-From 8e97446a455219b17fcf655d69aabd73efbb36fb Mon Sep 17 00:00:00 2001
+From 3dbf9cd6f51d675fb9b92a5c05bc292ff2cfb4ca Mon Sep 17 00:00:00 2001
 From: Zhou Furong <furong.zhou@intel.com>
 Date: Tue, 5 Dec 2017 16:00:01 +0800
-Subject: [PATCH 404/637] Fix C90 warning of mixed declaration and code
+Subject: [PATCH 404/662] Fix C90 warning of mixed declaration and code
 
 Change-Id: I114e8fffc71288e7946948b0b8fdb3dff6238749
 ---

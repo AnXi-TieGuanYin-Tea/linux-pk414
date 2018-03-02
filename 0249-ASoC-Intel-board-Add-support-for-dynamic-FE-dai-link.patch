@@ -1,7 +1,7 @@
-From a6b98482e1d2bdaf8e17e4f235ab50472bae9e46 Mon Sep 17 00:00:00 2001
+From d1c243a07096dee8a338b415f2f277472cc9a6c9 Mon Sep 17 00:00:00 2001
 From: Guneshwor Singh <guneshwor.o.singh@intel.com>
 Date: Mon, 27 Feb 2017 09:09:37 +0530
-Subject: [PATCH 249/637] ASoC: Intel: board: Add support for dynamic FE dai
+Subject: [PATCH 249/662] ASoC: Intel: board: Add support for dynamic FE dai
  link in cnl_rt274 machine
 
 FE dai links now come from topology, so remove them from machine driver.
