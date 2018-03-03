@@ -41,7 +41,7 @@ Requires: linux-pk414-standard
 %define debug_package %{nil}
 %define __strip /bin/true
 
-# PK XXXX: Series: lts-4.14-base-2018w09.3-091014
+# PK XXXX: Series: lts-4.14-base-2018w09.4-112025
 Patch0001: 0001-greybus-Remove-android-make-file.patch
 Patch0002: 0002-AndroidIA-Allow-RenderNode-to-be-used-for-kms-getter.patch
 Patch0003: 0003-thermal-Add-processor-thermal-device-support.patch
@@ -679,6 +679,31 @@ Patch0634: 0634-UPSTREAM-drm-i915-Filter-out-spurious-execlists-cont.patch
 Patch0635: 0635-UPSTREAM-drm-i915-execlists-Remove-the-priority-opti.patch
 Patch0636: 0636-drm-i915-gvt-Clean-up-tiling-initialization-for-gvt-.patch
 Patch0637: 0637-trusty-Rename-CWP-with-ACRN.patch
+Patch0638: 0638-sos-add-a-config-for-VHM.patch
+Patch0639: 0639-api-doc-add-vhm-API-docs.patch
+Patch0640: 0640-api-doc-update-CWP-VBS-API-docs.patch
+Patch0641: 0641-license-update-intel-license-for-CWP-VBS.patch
+Patch0642: 0642-VBS-K-fix-compilation-warnings-in-VBS-K-reference-dr.patch
+Patch0643: 0643-rename-cwp_-header-file-in-VHM.patch
+Patch0644: 0644-VBS-K-rename-CWP-cwp-to-ACRN-acrn.patch
+Patch0645: 0645-Rename-driver-cwp-to-driver-acrn.patch
+Patch0646: 0646-Replace-CWP-with-ACRN-in-file-acrn_common.h.patch
+Patch0647: 0647-Replace-CWP-with-ACRN-in-file-acrn_hv_defs.h.patch
+Patch0648: 0648-Replace-CWP-with-ACRN-in-file-acrn_vhm_ioreq.h.patch
+Patch0649: 0649-Replace-CWP-with-ACRN-in-file-vhm_hypercall.h.patch
+Patch0650: 0650-Rename-arch-x86-cwp-to-arch-x86-acrn.patch
+Patch0651: 0651-Rename-CWP_VHM-to-ACRN_VHM.patch
+Patch0652: 0652-Replace-CWP-with-ACRN-in-file-acrn_vhm_mm.h.patch
+Patch0653: 0653-Replace-CWP-with-ACRN-in-file-vhm_msi.h.patch
+Patch0654: 0654-Replace-cwp-with-acrn-for-rest-vhm.patch
+Patch0655: 0655-Modify-sig-for-hypervisor_cpuid_base.patch
+Patch0656: 0656-cwp-cleanup-dev-cwp_vhm-dev-acrn_vhm.patch
+Patch0657: 0657-Replace-CWP-with-ACRN-for-Documentation.patch
+Patch0658: 0658-drm-i915-gvt-resolve-scheduler-problem-when-run-two-.patch
+Patch0659: 0659-Cleanup-Kconfig.patch
+Patch0660: 0660-drm-i915-gvt-gvt-cleanup-cwp-acrn.patch
+Patch0661: 0661-cwp-cleanup-CONFIG_CWP_VIRTIO_DEVICES-CONFIG_ACRN_VI.patch
+Patch0662: 0662-drm-i915-gvt-add-pvmmio-support-in-preempt-context-s.patch
 #END XXXX: PK Series
 
 %description
@@ -1349,6 +1374,31 @@ Linux kernel extra files
 %patch0635 -p1
 %patch0636 -p1
 %patch0637 -p1
+%patch0638 -p1
+%patch0639 -p1
+%patch0640 -p1
+%patch0641 -p1
+%patch0642 -p1
+%patch0643 -p1
+%patch0644 -p1
+%patch0645 -p1
+%patch0646 -p1
+%patch0647 -p1
+%patch0648 -p1
+%patch0649 -p1
+%patch0650 -p1
+%patch0651 -p1
+%patch0652 -p1
+%patch0653 -p1
+%patch0654 -p1
+%patch0655 -p1
+%patch0656 -p1
+%patch0657 -p1
+%patch0658 -p1
+%patch0659 -p1
+%patch0660 -p1
+%patch0661 -p1
+%patch0662 -p1
 # End XXXX PK Series
 
 cp %{SOURCE1} .
